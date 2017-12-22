@@ -1,13 +1,13 @@
 ### ASR
-Deep Speech: Scaling up end-to-end speech recognition - arxiv.org/abs/1412.5567
-Deep Speech2: End-to-End Speech Recognition in English and Mandarin - arxiv.org/abs/1512.02595
-Deep Speech3: Even more end-to-end speech recognition - research.baidu.com
-TensorFlow Speech Recognition Challenge  (January 9, 2018 - Entry deadline)
+* Deep Speech: Scaling up end-to-end speech recognition - [arxiv.org/abs/1412.5567](arxiv.org/abs/1412.5567)
+* Deep Speech2: End-to-End Speech Recognition in English and Mandarin - [arxiv.org/abs/1512.02595](arxiv.org/abs/1512.02595)
+* Deep Speech3: Even more end-to-end speech recognition - [research.baidu.com](research.baidu.com)
+* TensorFlow Speech Recognition Challenge  (January 9, 2018 - Entry deadline)
 
 ### TTS 
-Deep Voice 
-Deep Voice2
-Deep Voice3
+* Deep Voice 
+* Deep Voice2
+* Deep Voice3
 
 
 #### github 
@@ -24,7 +24,7 @@ https://github.com/andabi/deep-voice-conversion
 
 
 ### Speaker Recognition
-Deep Speaker: an End-to-End System for Large-Scale Speaker Recognition - research.baidu.com
+* Deep Speaker: an End-to-End System for Large-Scale Speaker Recognition - research.baidu.com
 
 
 ### STM(Speech-to-Meaning)
