@@ -10,7 +10,7 @@
 
 ### March. 2017 
 * (3/28) SEGAN: Speech Enhancement Generative Adversarial Network - [[https://arxiv.org/pdf/1703.09452v1.pdf|arxiv]]
-* (3/27) 테슬라 '엘런 머스크'의 '뉴럴링크' 출범 ([[https://goo.gl/LZqnth|연합뉴스]], [[http://www.sciencealert.com/elon-musk-has-launched-a-company-that-hopes-to-link-your-brain-to-a-computer|Sciencealert]])
+* (3/27) 테슬라 '엘런 머스크'의 '뉴럴링크' 출범 ( [연합뉴스](https://goo.gl/LZqnth), [Sciencealert](http://www.sciencealert.com/elon-musk-has-launched-a-company-that-hopes-to-link-your-brain-to-a-computer) )
 * (3/23) TensorFlow RNN Tutorial(ASR) - https://svds.com/tensorflow-rnn-tutorial
 * [NIST 2017 (Pilot) Speech Analytic Technologies Evaluation](https://www.nist.gov/itl/iad/mig/nist-2017-pilot-speech-analytic-technologies-evaluation)
 * (3/9~11) [VR EXPO 2017](http://vrexpo.or.kr/)
@@ -27,7 +27,7 @@
   * Spoke task 2017-ES2: Directly predict speech waveforms from linguistic features
   * [Blizzard Challenge 2016-7 Git Repository](https://synsig.org/index.php/Blizzard_Challenge_2016-7_Git_Repository)
     The data that the organizers will provide is in the form of corresponding sequences of linguistic features, speech features and speech waveforms.
-* Evaluation - naturalness, intelligibility, and speaker similarity
+  * Evaluation - naturalness, intelligibility, and speaker similarity
 * H.Zen talk(2017-02-03@MIT) - [Title: Generative Model-Based Text-to-Speech Synthesis](https://plus.google.com/u/0/+HeigaZen/posts/feMzD8QWr4S)
 
 ### Jan. 2017 
