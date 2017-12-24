@@ -1,9 +1,8 @@
 ### ASR
 Deep Speech (Baidu - Silicon Valley AI Lab)
-* Deep Speech: Scaling up end-to-end speech recognition - [arxiv](http://arxiv.org/abs/1412.5567)
+* Deep Speech: Scaling up end-to-end speech recognition - [arxiv](http://arxiv.org/abs/1412.5567), [blog](https://devblogs.nvidia.com/parallelforall/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/)
 * Deep Speech2: End-to-End Speech Recognition in English and Mandarin - [arxiv](http://arxiv.org/abs/1512.02595)
 * Deep Speech3: Even more end-to-end speech recognition - [research.baidu.com](http://research.baidu.com)
-* Accurate Speech Recognition with GPU-Accelerated Deep Learning by Bryan Catanzaro NVIDIA Blog (2015/2/15) [blog](https://devblogs.nvidia.com/parallelforall/deep-speech-accurate-speech-recognition-gpu-accelerated-deep-learning/) 
 
 ### TTS 
 * Deep Voice: Real-time Neural Text-to-Speech - [research.baidu.com](http://research.baidu.com/deep-voice-production-quality-text-speech-system-constructed-entirely-deep-neural-networks/), [arxiv](https://arxiv.org/abs/1702.07825)
