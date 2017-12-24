@@ -26,7 +26,6 @@
   * Spoke task 2017-ES1: Predict speech features from linguistic features
   * Spoke task 2017-ES2: Directly predict speech waveforms from linguistic features
   * [Blizzard Challenge 2016-7 Git Repository](https://synsig.org/index.php/Blizzard_Challenge_2016-7_Git_Repository)
-    The data that the organizers will provide is in the form of corresponding sequences of linguistic features, speech features and speech waveforms.
   * Evaluation - naturalness, intelligibility, and speaker similarity
 * H.Zen talk(2017-02-03@MIT) - [Title: Generative Model-Based Text-to-Speech Synthesis](https://plus.google.com/u/0/+HeigaZen/posts/feMzD8QWr4S)
 
