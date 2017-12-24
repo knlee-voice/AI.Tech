@@ -6,7 +6,7 @@
   * ["2017년은 AI 원년"...IT업계 앞다퉈 출사표]](http://www.dailian.co.kr/news/view/602152/?sc=naver)
   * 판매실적: 에코 400만대, 누구 2만대
 * (12/16-17, 서울대) [한국음운론학회](http://www.phonology.or.kr/) 국제학술대회 
-* (12/6) [콜센터로 전화걸면 AI가 대답한다]](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20161130173531)
+* (12/6) [콜센터로 전화걸면 AI가 대답한다](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20161130173531)
   > #AI콜센터 #IBM왓슨 #브리지텍 #무인콜센터서비스
 * (12/2) 외부세미나 [[Intensive Course] 음성인식 시스템의 구현기술과 적용방안 전문가 과정](http://www.kecft.or.kr/shop/item20.php?it_id=1477877794)
 
