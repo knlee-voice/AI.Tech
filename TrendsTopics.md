@@ -11,9 +11,9 @@ Deep Speech (Baidu - Silicon Valley AI Lab)
 
 
 * github 
->> http://carpedm20.github.io/tacotron/
->> https://github.com/devsisters/multi-speaker-tacotron-tensorflow
->> https://github.com/Kyubyong/deepvoice3
+  * http://carpedm20.github.io/tacotron/
+  * https://github.com/devsisters/multi-speaker-tacotron-tensorflow
+  * https://github.com/Kyubyong/deepvoice3
 
 ###  SPSS (Statistical Parametric Speech Synthesis) 
 * Heiga Zen - http://research.google.com/pubs/HeigaZen.html
@@ -29,19 +29,18 @@ Deep Speech (Baidu - Silicon Valley AI Lab)
 
 ### Voice Conversion 
 * github 
->> https://github.com/andabi/deep-voice-conversion 
+  * https://github.com/andabi/deep-voice-conversion 
 
 ### Speaker Recognition
 * Deep Speaker: an End-to-End System for Large-Scale Speaker Recognition - research.baidu.com
 
 ### STM(Speech-to-Meaning)
 * SoundHound's Houndify 
->> System and method for performing dual mode speech recognition : US8972263 / US9691390 / US9330669
->> Systems and Methods for Generating and Using Shared Natural Language Libraries : US20140019483
->> Systems and methods for enabling natural language processing : US8694537
->> Method for embedding voice mail in a spoken utterance using a natural language processing computer system : US9601114
->> Method for combining a query and a communication command in a natural language computer system : US20150149152
-
+  * System and method for performing dual mode speech recognition : US8972263 / US9691390 / US9330669
+  * Systems and Methods for Generating and Using Shared Natural Language Libraries : US20140019483
+  * Systems and methods for enabling natural language processing : US8694537
+  * Method for embedding voice mail in a spoken utterance using a natural language processing computer system : US9601114
+  * Method for combining a query and a communication command in a natural language computer system : US20150149152
 * Cold Fusion: Training Seq2Seq Models Together with Language Models - arxiv.org/abs/1708.06426
 
 ### Word Embedding 
@@ -58,7 +57,7 @@ Deep Speech (Baidu - Silicon Valley AI Lab)
 
 ### Challenges
 * TensorFlow Speech Recognition Challenge  (January 9, 2018 - Entry deadline)
->> https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/
+  * https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/
 
 
 ### BLOG/SITE
@@ -70,9 +69,9 @@ Deep Speech (Baidu - Silicon Valley AI Lab)
 
 ### [BOOK] 
 * Sensation and Perception [[http://zhenilo.narod.ru/main/students/Goldstein.pdf|pdf]]
->> 11. Sound, the Auditory System, and Pitch Perception. 
->> 12. Sound Localization and the Auditory Scene. 
->> 13. Speech Perception.
+  * 11. Sound, the Auditory System, and Pitch Perception. 
+  * 12. Sound Localization and the Auditory Scene. 
+  * 13. Speech Perception.
 * Cognitive Neuroscience of Language [[http://samples.sainsburysebooks.co.uk/9781317653165_sample_787341.pdf|sample]]
->> PART III. The Perception and production of speech 
+  * PART III. The Perception and production of speech 
 * Voice Application Development for Android : [packt pub](https://www.packtpub.com/application-development/voice-application-development-android), [code](https://androidspeechbook.wordpress.com), [github](https://github.com/zoraidacallejas/sandra)
