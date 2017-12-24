@@ -69,9 +69,9 @@ Deep Speech (Baidu - Silicon Valley AI Lab)
 
 ### [BOOK] 
 * Sensation and Perception [[http://zhenilo.narod.ru/main/students/Goldstein.pdf|pdf]]
-  * 11. Sound, the Auditory System, and Pitch Perception. 
-  * 12. Sound Localization and the Auditory Scene. 
-  * 13. Speech Perception.
+>> 11. Sound, the Auditory System, and Pitch Perception. 
+>> 12. Sound Localization and the Auditory Scene. 
+>> 13. Speech Perception.
 * Cognitive Neuroscience of Language [[http://samples.sainsburysebooks.co.uk/9781317653165_sample_787341.pdf|sample]]
-  * PART III. The Perception and production of speech 
+>> PART III. The Perception and production of speech 
 * Voice Application Development for Android : [packt pub](https://www.packtpub.com/application-development/voice-application-development-android), [code](https://androidspeechbook.wordpress.com), [github](https://github.com/zoraidacallejas/sandra)
