@@ -1,3 +1,13 @@
+### Dec. 2017
+* The landscape of Deep Learning Frameworks - [blog](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750)
+
+### Nov. 2017
+* KAGGLE - TensorFlow Speech Recognition Challenge / Google Brain / [site](https://www.kaggle.com/c/tensorflow-speech-recognition-challenge)
+  * January 16, 2018 - Final submission deadline
+  
+  
+( ... 중간의 공백기 ... )
+
 ### April. 2017 
 * 테크 마니아에게 추천하는 미드 7선 - [상](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3850), [하](http://techm.kr/bbs/board.php?bo_table=article&wr_id=3851)
 * (4/19) [Caffe2 facebook research](https://research.fb.com/downloads/caffe2/)
