@@ -4,6 +4,10 @@ Deep Speech (Baidu - Silicon Valley AI Lab)
 * Deep Speech2: End-to-End Speech Recognition in English and Mandarin - [arxiv](http://arxiv.org/abs/1512.02595)
 * Deep Speech3: Even more end-to-end speech recognition - [research.baidu.com](http://research.baidu.com)
 
+* github
+  * https://github.com/mozilla/DeepSpeech
+  * https://github.com/PaddlePaddle/DeepSpeech
+
 ### TTS 
 * Deep Voice: Real-time Neural Text-to-Speech - [research.baidu.com](http://research.baidu.com/deep-voice-production-quality-text-speech-system-constructed-entirely-deep-neural-networks/), [arxiv](https://arxiv.org/abs/1702.07825)
 * Deep Voice 2: Multi-Speaker Neural Text-to-Speech - [research.baidu.com](http://research.baidu.com/deep-voice-2-multi-speaker-neural-text-speech), [arxiv](https://arxiv.org/abs/1705.08947)
@@ -33,6 +37,8 @@ Deep Speech (Baidu - Silicon Valley AI Lab)
 
 ### Speaker Recognition
 * Deep Speaker: an End-to-End System for Large-Scale Speaker Recognition - research.baidu.com
+* github
+  * https://github.com/philipperemy/deep-speaker
 
 ### STM(Speech-to-Meaning)
 * SoundHound's Houndify 
