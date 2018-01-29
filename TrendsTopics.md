@@ -35,15 +35,17 @@ Deep Speech (Baidu - Silicon Valley AI Lab)
 * wave2letter - End-to-End ConvNet-based SR system : http://arxiv.org/pdf/1609.03193v2.pdf
 
 
-### Voice Conversion 
-* github 
-  * https://github.com/andabi/deep-voice-conversion 
-
 ### Speaker Recognition
 * Deep Speaker: an End-to-End System for Large-Scale Speaker Recognition - research.baidu.com
 * github
   * https://github.com/philipperemy/deep-speaker
+  * https://github.com/astorfi/3D-convolutional-speaker-recognition
 
+### Voice Conversion 
+* github 
+  * https://github.com/andabi/deep-voice-conversion 
+  
+  
 ### STM(Speech-to-Meaning)
 * SoundHound's Houndify 
   * System and method for performing dual mode speech recognition : US8972263 / US9691390 / US9330669
