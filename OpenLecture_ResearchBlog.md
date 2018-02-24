@@ -6,6 +6,7 @@
 | CS224n: Natural Language Processing with Deep Learning | http://cs224n.stanford.edu | Socher | 2018 |
 | CS224n: Natural Language Processing with Deep Learning | https://github.com/stanfordnlp/cs224n-winter17-notes | | 2017 |
 | Oxford Deep NLP 2017 course | https://github.com/oxford-cs-deepnlp-2017/lectures | Blunsom | 2017 |
+| CS231n: Convolutional Neural Networks for Visual Recognition. | http://cs231n.github.io , http://cs231n.github.io/convolutional-networks | Karpathy | 2017 | 
 
 
 ### BLOG & SITE
