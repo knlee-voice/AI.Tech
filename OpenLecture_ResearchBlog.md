@@ -19,19 +19,16 @@
 | Episodes - Talking Machines | http://www.thetalkingmachines.com/blog |
 | Simon King's website (for teaching) | http://www.speech.zone | 
 | BAIR (berkeley artificial intelligence research) | http://bair.berkeley.edu/blog |
+| | |
 | NST (Natural Speech Technology) | http://www.natural-speech-technology.org |
 | Edinburgh DataShare | http://datashare.is.ed.ac.uk |
 
 
 ### Free Online Book
 
-* http://neuralnetworksanddeeplearning.com/
-
-* Sensation and Perception - [pdf](http://zhenilo.narod.ru/main/students/Goldstein.pdf)
->> 11. Sound, the Auditory System, and Pitch Perception. 
->> 12. Sound Localization and the Auditory Scene. 
->> 13. Speech Perception.
-* Cognitive Neuroscience of Language - [sample](http://samples.sainsburysebooks.co.uk/9781317653165_sample_787341.pdf)
->> PART III. The Perception and production of speech 
-* Voice Application Development for Android : [packt pub](https://www.packtpub.com/application-development/voice-application-development-android), [code](https://androidspeechbook.wordpress.com), [github](https://github.com/zoraidacallejas/sandra)
-
+| Name | URL |
+| :-------- | :--------: |
+| Voice Application Development for Android | [packt pub](https://www.packtpub.com/application-development/voice-application-development-android), [code](https://androidspeechbook.wordpress.com), [github](https://github.com/zoraidacallejas/sandra)|
+| Neural Networks and Deep Learning (By Michael Nielsen) | [online book](http://neuralnetworksanddeeplearning.com) | 
+| Sensation and Perception - 11. Sound, the Auditory System, and Pitch Perception, 12. Sound Localization and the Auditory Scene, 13. Speech Perception.| [Goldstein.pdf](http://zhenilo.narod.ru/main/students/Goldstein.pdf) |
+| Cognitive Neuroscience of Language - PART III. The Perception and production of speech | [sample.pdf](http://samples.sainsburysebooks.co.uk/9781317653165_sample_787341.pdf) |
