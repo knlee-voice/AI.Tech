@@ -1,4 +1,4 @@
-## Open Courses
+### Open Courses
 
 | Name | URL | Team | Year |
 | :-------- | :--------: | --------: | --------: |
@@ -9,12 +9,21 @@
 
 
 
-## Free Online Book
+### Free Online Book
 
 * http://neuralnetworksanddeeplearning.com/
 
+* Sensation and Perception - [pdf](http://zhenilo.narod.ru/main/students/Goldstein.pdf)
+>> 11. Sound, the Auditory System, and Pitch Perception. 
+>> 12. Sound Localization and the Auditory Scene. 
+>> 13. Speech Perception.
+* Cognitive Neuroscience of Language - [sample](http://samples.sainsburysebooks.co.uk/9781317653165_sample_787341.pdf)
+>> PART III. The Perception and production of speech 
+* Voice Application Development for Android : [packt pub](https://www.packtpub.com/application-development/voice-application-development-android), [code](https://androidspeechbook.wordpress.com), [github](https://github.com/zoraidacallejas/sandra)
 
-## BLOG
+
+
+### BLOG
 
 | Name | URL |
 | :-------- | :--------: |
