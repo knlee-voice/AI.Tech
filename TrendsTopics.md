@@ -36,8 +36,10 @@ Deep Speech (Baidu - Silicon Valley AI Lab)
 
 
 ### Speaker Recognition
+* ALIZE(opensource platform) - http://alize.univ-avignon.fr
 * Deep Speaker: an End-to-End System for Large-Scale Speaker Recognition - research.baidu.com
 * github
+  * https://github.com/ALIZE-Speaker-Recognition
   * https://github.com/philipperemy/deep-speaker
   * https://github.com/astorfi/3D-convolutional-speaker-recognition
   * https://github.com/ibillxia/VoicePrintReco
