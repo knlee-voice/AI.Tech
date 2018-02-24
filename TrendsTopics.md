@@ -40,6 +40,7 @@ Deep Speech (Baidu - Silicon Valley AI Lab)
 * github
   * https://github.com/philipperemy/deep-speaker
   * https://github.com/astorfi/3D-convolutional-speaker-recognition
+  * https://github.com/ibillxia/VoicePrintReco
 
 ### Voice Conversion 
 * github 
@@ -71,19 +72,3 @@ Deep Speech (Baidu - Silicon Valley AI Lab)
 * TensorFlow Speech Recognition Challenge  (January 9, 2018 - Entry deadline)
   * https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/
 
-
-### BLOG/SITE
-* Episodes - Talking Machines: http://www.thetalkingmachines.com/blog/ 
-* Simon King's website (for teaching): http://www.speech.zone/ 
-* NST (Natural Speech Technology): http://www.natural-speech-technology.org/ 
-* Edinburgh DataShare: http://datashare.is.ed.ac.uk/
-
-
-### [BOOK] 
-* Sensation and Perception - [pdf](http://zhenilo.narod.ru/main/students/Goldstein.pdf)
->> 11. Sound, the Auditory System, and Pitch Perception. 
->> 12. Sound Localization and the Auditory Scene. 
->> 13. Speech Perception.
-* Cognitive Neuroscience of Language - [sample](http://samples.sainsburysebooks.co.uk/9781317653165_sample_787341.pdf)
->> PART III. The Perception and production of speech 
-* Voice Application Development for Android : [packt pub](https://www.packtpub.com/application-development/voice-application-development-android), [code](https://androidspeechbook.wordpress.com), [github](https://github.com/zoraidacallejas/sandra)
