@@ -8,7 +8,6 @@
 | Oxford Deep NLP 2017 course | https://github.com/oxford-cs-deepnlp-2017/lectures | Blunsom | 2017 |
 
 
-
 ### Free Online Book
 
 * http://neuralnetworksanddeeplearning.com/
@@ -22,12 +21,17 @@
 * Voice Application Development for Android : [packt pub](https://www.packtpub.com/application-development/voice-application-development-android), [code](https://androidspeechbook.wordpress.com), [github](https://github.com/zoraidacallejas/sandra)
 
 
-
-### BLOG
+### BLOG & SITE
 
 | Name | URL |
 | :-------- | :--------: |
 | 텐서 플로우 블로그 (Tensor ≈ Blog) | https://tensorflow.blog |
 | 케라스 강좌 | https://tykimos.github.io/lecture | 
-| DeepBrick for Keras (케라스를 위한 딥브릭) | https://tykimos.github.io/DeepBrick | 
-
+| DeepBrick for Keras (케라스를 위한 딥브릭) | https://tykimos.github.io/DeepBrick |
+| | |
+| Episodes - Talking Machines | http://www.thetalkingmachines.com/blog |
+| Simon King's website (for teaching) | http://www.speech.zone | 
+| BAIR (berkeley artificial intelligence research) | http://bair.berkeley.edu/blog |
+| NST (Natural Speech Technology) | http://www.natural-speech-technology.org |
+| Edinburgh DataShare | http://datashare.is.ed.ac.uk |
+  
