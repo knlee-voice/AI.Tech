@@ -1,4 +1,4 @@
-### Open Courses
+### Open Lecture/Courses
 
 | Name | URL | Team | Year |
 | :-------- | :--------: | --------: | --------: |
@@ -6,19 +6,6 @@
 | CS224n: Natural Language Processing with Deep Learning | http://cs224n.stanford.edu | Socher | 2018 |
 | CS224n: Natural Language Processing with Deep Learning | https://github.com/stanfordnlp/cs224n-winter17-notes | | 2017 |
 | Oxford Deep NLP 2017 course | https://github.com/oxford-cs-deepnlp-2017/lectures | Blunsom | 2017 |
-
-
-### Free Online Book
-
-* http://neuralnetworksanddeeplearning.com/
-
-* Sensation and Perception - [pdf](http://zhenilo.narod.ru/main/students/Goldstein.pdf)
->> 11. Sound, the Auditory System, and Pitch Perception. 
->> 12. Sound Localization and the Auditory Scene. 
->> 13. Speech Perception.
-* Cognitive Neuroscience of Language - [sample](http://samples.sainsburysebooks.co.uk/9781317653165_sample_787341.pdf)
->> PART III. The Perception and production of speech 
-* Voice Application Development for Android : [packt pub](https://www.packtpub.com/application-development/voice-application-development-android), [code](https://androidspeechbook.wordpress.com), [github](https://github.com/zoraidacallejas/sandra)
 
 
 ### BLOG & SITE
@@ -34,4 +21,17 @@
 | BAIR (berkeley artificial intelligence research) | http://bair.berkeley.edu/blog |
 | NST (Natural Speech Technology) | http://www.natural-speech-technology.org |
 | Edinburgh DataShare | http://datashare.is.ed.ac.uk |
-  
+
+
+### Free Online Book
+
+* http://neuralnetworksanddeeplearning.com/
+
+* Sensation and Perception - [pdf](http://zhenilo.narod.ru/main/students/Goldstein.pdf)
+>> 11. Sound, the Auditory System, and Pitch Perception. 
+>> 12. Sound Localization and the Auditory Scene. 
+>> 13. Speech Perception.
+* Cognitive Neuroscience of Language - [sample](http://samples.sainsburysebooks.co.uk/9781317653165_sample_787341.pdf)
+>> PART III. The Perception and production of speech 
+* Voice Application Development for Android : [packt pub](https://www.packtpub.com/application-development/voice-application-development-android), [code](https://androidspeechbook.wordpress.com), [github](https://github.com/zoraidacallejas/sandra)
+
