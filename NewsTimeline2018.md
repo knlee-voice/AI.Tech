@@ -1,5 +1,7 @@
 ### Feb. 2018
-* 27일 AI 음반레이블 A.I.M 쇼케이스 개최, [엔터아츠](https://www.enterarts.net)x[Jukedeck](https://www.jukedeck.com) - [인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=11383)
+* Project: [Zeroth](https://github.com/goodatlas/zeroth) (Kaldi-based Korean ASR open-source project) , [Fast Campus](http://www.fastcampus.co.kr/data_camp_dsr)
+* “음성인식 기술 어디까지 갈까” - [MBN](http://news.mk.co.kr/newsRead.php?year=2017&no=131699)
+* 27일 AI 음반레이블 A.I.M 쇼케이스 개최, [엔터아츠](https://www.enterarts.net) x [Jukedeck](https://www.jukedeck.com) - [인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=11383)
 * 인공지능(AI)과 국방 기술 접목한 융합기술 개발 - [인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=11375)
 
 ### Jan. 2018
