@@ -1,4 +1,5 @@
 ### Dec. 2017
+* 메이커 시점에서 분석하는 "스마트 스피커"의 동향 - [kadenya.news](https://kadenya.news/archives/1943), [한글블로그](http://cafe.naver.com/mk802/24270)
 * The landscape of Deep Learning Frameworks - [blog](https://towardsdatascience.com/battle-of-the-deep-learning-frameworks-part-i-cff0e3841750)
 
 ### Nov. 2017
