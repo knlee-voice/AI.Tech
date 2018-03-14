@@ -1,3 +1,6 @@
+### Mar. 2018
+* (3/14) AI T-T.O.C(Tech.Open.Connect) : https://skt.event-us.kr/p/1938 
+
 ### Feb. 2018
 * Project: [Zeroth](https://github.com/goodatlas/zeroth) (Kaldi-based Korean ASR open-source project) , [Fast Campus](http://www.fastcampus.co.kr/data_camp_dsr)
 * “음성인식 기술 어디까지 갈까” - [MBN](http://news.mk.co.kr/newsRead.php?year=2017&no=131699)
