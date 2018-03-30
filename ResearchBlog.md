@@ -15,6 +15,8 @@
 | Simon King's website (for teaching) | http://www.speech.zone | 
 | BAIR (berkeley artificial intelligence research) | http://bair.berkeley.edu/blog |
 | NVIDIA Developer - AI | https://devblogs.nvidia.com/category/artificial-intelligence |
+| Distill | https://distill.pub |
+| colah's | http://colah.github.io | 
 
 
 ### Research Site
