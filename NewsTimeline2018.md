@@ -1,4 +1,6 @@
 ### Mar. 2018
+* (3/27) Expressive Speech Synthesis with Tacotron : [Blog](https://research.googleblog.com/2018/03/expressive-speech-synthesis-with.html)
+* (3/15) NC AI 미디어 토크(Media Talks) : [지디넷](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20180315184207), [byline](https://byline.network/2018/03/15-7/)
 * (3/14) AI T-T.O.C(Tech.Open.Connect) : https://skt.event-us.kr/p/1938 
 
 ### Feb. 2018
