@@ -1,3 +1,7 @@
+### Apr. 2018
+* (4/13) 구글 - 영상에서 특정 목소리만 분리/뽑아내는 연구/기술 : 유투부 10만건 강의 영상 활용, [Article](http://smartaedi.tistory.com/251)
+* 네오사피엔스 - https://icepick.ai/demo   
+
 ### Mar. 2018
 * (3/27) Expressive Speech Synthesis with Tacotron : [Blog](https://research.googleblog.com/2018/03/expressive-speech-synthesis-with.html)
 * (3/15) NC AI 미디어 토크(Media Talks) : [지디넷](http://www.zdnet.co.kr/news/news_view.asp?artice_id=20180315184207), [byline](https://byline.network/2018/03/15-7/)
