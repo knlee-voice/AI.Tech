@@ -1,4 +1,5 @@
 ### Apr. 2018
+* IEEE ICASSP 2018 || Calgary, Alberta, Canada || 15-20 April 2018 | https://2018.ieeeicassp.org/
 * (4/13) 구글 - 영상에서 특정 목소리만 분리/뽑아내는 연구/기술 : 유투부 10만건 강의 영상 활용, [Article](http://smartaedi.tistory.com/251)
 * 네오사피엔스 - https://icepick.ai/demo   
 
