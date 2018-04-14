@@ -43,6 +43,7 @@ Deep Speech (Baidu - Silicon Valley AI Lab)
   * https://github.com/philipperemy/deep-speaker
   * https://github.com/astorfi/3D-convolutional-speaker-recognition
   * https://github.com/ibillxia/VoicePrintReco
+  * https://github.com/ina-foss/inaSpeechSegmenter (CNN-based audio segmentation toolkit)
 * dataset
   * http://www.robots.ox.ac.uk/~vgg/data/voxceleb (VoxCeleb: a large-scale speaker identification dataset)
   
