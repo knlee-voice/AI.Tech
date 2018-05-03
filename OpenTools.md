@@ -14,3 +14,4 @@ https://github.com/audacity/audacity
 
 ### Mores ... 
 SpectroTyper Tone Generator - http://www.audiocheck.net/audiocheck_spectrotyper.php
+Audio-annotato(Javascript web interface) - https://github.com/CrowdCurio/audio-annotator
