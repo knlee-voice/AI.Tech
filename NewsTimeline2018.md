@@ -1,6 +1,6 @@
 ### May. 2018
-* Google I/O - https://events.google.com/io/ <br>
-  - 국내기사: ['Duplex', 사람처럼 전화하고 대화](http://thegear.co.kr/16063), [칼럼](http://www.ciokorea.com/column/38176)
+* [Google Duplex](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html)
+* [Google I/O 2018](https://events.google.com/io/) : 1) [기사 - 사람처럼 전화하고 대화](http://thegear.co.kr/16063), 2) [칼럼](http://www.ciokorea.com/column/38176)
 
 ### Apr. 2018
 * IEEE ICASSP 2018 || Calgary, Alberta, Canada || 15-20 April 2018 | https://2018.ieeeicassp.org/
