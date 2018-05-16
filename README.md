@@ -1,4 +1,4 @@
-# AI.Tech (Speech & Language Technology)
+## AI.Tech (Speech & Language Technology)
 
 * [News Timelines 2018](https://github.com/knlee-voice/AI.Tech/blob/master/NewsTimeline2018.md)
 * [News Timelines 2017](https://github.com/knlee-voice/AI.Tech/blob/master/NewsTimeline2017.md)
