@@ -1,7 +1,7 @@
 ### May. 2018
 * (5/15) 정부, AI 기술력 확보 위해 2.2조원 투자 - 4차위, AI 우수인재 5천명, 데이터 1.6억건 등 '인공지능 R&D전략' 의결 [[인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=11823)]
 * Google AI Blog: [Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html)
-* [Google I/O 2018](https://events.google.com/io/) : [[기사 - 사람처럼 전화하고 대화](http://thegear.co.kr/16063)], [[칼럼](http://www.ciokorea.com/column/38176)]
+* [Google I/O 2018](https://events.google.com/io/) : 사람처럼 전화하고 대화 [[기사](http://thegear.co.kr/16063)] [[칼럼](http://www.ciokorea.com/column/38176)]
 
 ### Apr. 2018
 * IEEE ICASSP 2018 || Calgary, Alberta, Canada || 15-20 April 2018 | https://2018.ieeeicassp.org/
