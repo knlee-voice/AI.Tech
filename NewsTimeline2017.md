@@ -18,6 +18,7 @@
 * [Model Gallery](https://www.microsoft.com/en-us/research/product/cognitive-toolkit/model-gallery/) - The Microsoft Cognitive Toolkit
   * a collection of code samples, recipes and tutorials on the various ways against scenarios for image, text and speech data.
 * (4/21) [패스트캠퍼스 HCI-UX 세미나](http://www.fastcampus.co.kr/dgn_seminar_hciux/)(흐름 참고용)
+* Tom Gruber: How_AI_Can_Enhance_Our_Memory_work_and_Social_lives?(인공지능이 우리의 기억력, 일과 사회생활을 향상시키는 방법) [[TED2017](https://www.ted.com/talks/tom_gruber_how_ai_can_enhance_our_memory_work_and_social_lives?language=ko)]
 
 ### March. 2017 
 * (3/28) SEGAN: Speech Enhancement Generative Adversarial Network - [[https://arxiv.org/pdf/1703.09452v1.pdf|arxiv]]
