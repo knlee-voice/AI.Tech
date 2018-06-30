@@ -1,3 +1,10 @@
+### Jul. 2018
+* (7/26~27) 2018 정보과학회 인공지능 소사이어티 - [THE AI KOREA 2018](http://aisociety.kr/ai2018/)
+
+### Jun. 2018
+* (6/23) [Soundly](https://www.facebook.com/groups/soundly/) 2차 오프라인 모임 
+
+
 ### May. 2018
 * (5/15) 정부, AI 기술력 확보 위해 2.2조원 투자 - 4차위, AI 우수인재 5천명, 데이터 1.6억건 등 '인공지능 R&D전략' 의결 [[인공지능신문](http://www.aitimes.kr/news/articleView.html?idxno=11823)]
 * Google AI Blog: [Google Duplex: An AI System for Accomplishing Real World Tasks Over the Phone](https://ai.googleblog.com/2018/05/duplex-ai-system-for-natural-conversation.html)
