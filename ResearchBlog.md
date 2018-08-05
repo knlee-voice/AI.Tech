@@ -31,10 +31,4 @@
 * [Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What's In-Between]( http://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)
 * [Ideas for 9th Kaggle TensorFlow Speech Recognition Challenge](http://openresearch.ai/t/ideas-for-9th-kaggle-tensorflow-speech-recognition-challenge/105)
 
----
-### VAD (python) 
-* https://github.com/wiseman/py-webrtcvad
-* https://github.com/F-Tag/python-vad
 
-### NLP 
-* https://github.com/lovit  (soynlp)
