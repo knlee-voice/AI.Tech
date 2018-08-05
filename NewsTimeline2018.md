@@ -1,3 +1,7 @@
+### Sep. 2018
+* (9/12~13) 제 2회 삼성 AI 포럼 - [Samsung AI Forum 2018](http://aisociety.kr/ai2018/)
+* (9/2~6) [Interspeech 2018](http://interspeech2018.org/)
+
 ### Jul. 2018
 * (7/26~27) 2018 정보과학회 인공지능 소사이어티 - [THE AI KOREA 2018](http://aisociety.kr/ai2018/)
 
