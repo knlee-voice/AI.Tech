@@ -1,5 +1,5 @@
 ### Sep. 2018
-* (9/12~13) 제 2회 삼성 AI 포럼 - [Samsung AI Forum 2018](http://aisociety.kr/ai2018/)
+* (9/12~13) 제 2회 삼성 AI 포럼 - [Samsung AI Forum 2018](https://www.sait.samsung.co.kr/saithome/etc/forum.do)
 * (9/2~6) [Interspeech 2018](http://interspeech2018.org/)
 
 ### Jul. 2018
