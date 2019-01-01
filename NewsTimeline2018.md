@@ -1,3 +1,6 @@
+### Dec. 2018
+* (12/18~21) [SLT 2018](http://www.slt2018.org/)
+
 ### Sep. 2018
 * (9/12~13) [제 2회 삼성 AI 포럼 (Samsung AI Forum 2018)](https://research.samsung.com/saif), [삼성뉴스](https://news.samsung.com/kr/삼성전자-삼성-ai-포럼-2018-개최)
 * (9/2~6, 7) [Interspeech 2018](http://interspeech2018.org/), [CHiME 2018](http://spandh.dcs.shef.ac.uk/chime_workshop/)
