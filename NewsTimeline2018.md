@@ -1,5 +1,12 @@
 ### Dec. 2018
-* (12/18~21) [SLT 2018](http://www.slt2018.org/)
+* (12/18~21) [SLT 2018](http://www.slt2018.org/) - Main theme: “Spoken Language Technology in the Era of Deep Learning: Challenges and Opportunities”. 
+
+### Nov. 2018
+* (11/16~17) [2018년 한국음성학회 가을 학술대회](https://www.speechsciences.or.kr/board/view?b_name=bo_conference&bo_id=2&per_page=), 한국외국어대학교
+
+### Oct. 2018
+* (10/12~13) [제 30회 한글 및 한국어 정보처리 학술대회](http://khclt.org/), 고려대학교
+
 
 ### Sep. 2018
 * (9/12~13) [제 2회 삼성 AI 포럼 (Samsung AI Forum 2018)](https://research.samsung.com/saif), [삼성뉴스](https://news.samsung.com/kr/삼성전자-삼성-ai-포럼-2018-개최)
