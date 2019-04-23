@@ -11,8 +11,12 @@
 * [Open Lecture / Course / Ebook / Blogs](https://github.com/knlee-voice/AI.Tech/blob/master/OpenCourseBook.md)
 
 * [Trends / Topics](https://github.com/knlee-voice/AI.Tech/blob/master/TrendsTopics.md)
-  - ASR / TTS
-  - Speaker Recognition / Voice Conversion 
   - Word Embedding
   - Generative Models
   - Challenges 
+  
+* [Voice Technology](https://github.com/knlee-voice/AI.Tech/blob/master/VoiceTech.md)
+  - ASR
+  - TTS
+  - Speaker Recognition / Voice Conversion 
+  
