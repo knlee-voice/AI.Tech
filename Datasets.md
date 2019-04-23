@@ -4,4 +4,11 @@
 * sound classes in the ontology
   - Human sound, Animal, Music, Source-ambiguous sounds, Sounds of things, Natual Sounds, Channel, environment and background
 
-### 
+### Open SLR
+* http://www.openslr.org (Open Speech and Language Resources)
+  * [LibriSpeech ASR corpus](http://www.openslr.org/12/)
+  * [MUSAN](http://www.openslr.org/17/) - Music, speech, and noise recordings 
+  * [Zeroth-Korean](http://www.openslr.org/40/)
+
+### DCASE Challenge 
+
