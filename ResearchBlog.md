@@ -1,30 +1,18 @@
+### BLOG's
+* Google AI Blog - https://ai.googleblog.com 
+* BAIR (berkeley artificial intelligence research) | http://bair.berkeley.edu/blog
+* NVIDIA Developer - AI | https://devblogs.nvidia.com/category/artificial-intelligence
+* NST (Natural Speech Technology) | http://www.natural-speech-technology.org
+* Simon King's website (for teaching) | http://www.speech.zone 
+* Edinburgh DataShare | http://datashare.is.ed.ac.uk
+* colah's | http://colah.github.io 
+* Distill | https://distill.pub 
 
-### BLOG 
-
-| Name | URL |
-| :-------- | :--------: |
-| 텐서 플로우 블로그 (Tensor ≈ Blog) | https://tensorflow.blog |
-| 케라스 강좌 | https://tykimos.github.io/lecture | 
-| DeepBrick for Keras (케라스를 위한 딥브릭) | https://tykimos.github.io/DeepBrick |
-| | |
-| Mlstudy | https://medium.com/mathpresso/tagged/mlstudy |
-
-| Name | URL |
-| :-------- | :--------: |
-| Episodes - Talking Machines | http://www.thetalkingmachines.com/blog |
-| Simon King's website (for teaching) | http://www.speech.zone | 
-| BAIR (berkeley artificial intelligence research) | http://bair.berkeley.edu/blog |
-| NVIDIA Developer - AI | https://devblogs.nvidia.com/category/artificial-intelligence |
-| Distill | https://distill.pub |
-| colah's | http://colah.github.io | 
-
-
-### Research Site
-
-| Name | URL |
-| :-------- | :--------: |
-| NST (Natural Speech Technology) | http://www.natural-speech-technology.org |
-| Edinburgh DataShare | http://datashare.is.ed.ac.uk |
+* 텐서 플로우 블로그 (Tensor ≈ Blog) - https://tensorflow.blog
+* 케라스 강좌 - https://tykimos.github.io/lecture 
+* DeepBrick for Keras (케라스를 위한 딥브릭) - https://tykimos.github.io/DeepBrick
+* Mlstudy - https://medium.com/mathpresso/tagged/mlstudy
+* ratsgo's - https://ratsgo.github.io/blog/categories/#deep-learning
 
 
 ### Posting
