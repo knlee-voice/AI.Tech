@@ -1,12 +1,12 @@
 ### BLOG's
-* Google AI Blog - https://ai.googleblog.com 
-* BAIR (berkeley artificial intelligence research) | http://bair.berkeley.edu/blog
-* NVIDIA Developer - AI | https://devblogs.nvidia.com/category/artificial-intelligence
-* NST (Natural Speech Technology) | http://www.natural-speech-technology.org
-* Simon King's website (for teaching) | http://www.speech.zone 
-* Edinburgh DataShare | http://datashare.is.ed.ac.uk
-* colah's | http://colah.github.io 
-* Distill | https://distill.pub 
+- Google AI Blog - https://ai.googleblog.com 
+- BAIR (berkeley artificial intelligence research) - http://bair.berkeley.edu/blog
+- NVIDIA Developer - AI - https://devblogs.nvidia.com/category/artificial-intelligence
+* NST (Natural Speech Technology) - http://www.natural-speech-technology.org
+* Simon King's website (for teaching) - http://www.speech.zone 
+* Edinburgh DataShare - http://datashare.is.ed.ac.uk
+* colah's - http://colah.github.io 
+* Distill - https://distill.pub 
 
 * 텐서 플로우 블로그 (Tensor ≈ Blog) - https://tensorflow.blog
 * 케라스 강좌 - https://tykimos.github.io/lecture 
