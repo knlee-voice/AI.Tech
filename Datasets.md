@@ -11,4 +11,4 @@
   * [Zeroth-Korean](http://www.openslr.org/40/)
 
 ### DCASE Challenge 
-
+* http://dcase.community - Detection and Classification of Acoustic Scenes and Events
