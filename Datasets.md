@@ -12,3 +12,11 @@
 
 ### DCASE Challenge 
 * http://dcase.community - Detection and Classification of Acoustic Scenes and Events
+
+
+### SQuAD (Stanford Question Answering Dataset)
+* SQuAD2.0 - https://rajpurkar.github.io/SQuAD-explorer/
+  - 100,000 questions in SQuAD1.1 with over 50,000 new
+  
+  
+  
