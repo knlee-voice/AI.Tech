@@ -33,6 +33,8 @@
 ### Generative Models
 * Megenta Project - https://magenta.tensorflow.org/welcome-to-magenta
 * PixelCNN - https://github.com/igul222/pixel_rnn
+* TF implementation of various GANs and VAEs.
+  - https://github.com/hwalsuklee/tensorflow-generative-model-collections
 
 ### Challenges
 * TensorFlow Speech Recognition Challenge  (January 9, 2018 - Entry deadline)
