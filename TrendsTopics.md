@@ -6,7 +6,7 @@
 
 
 ### Word Embedding 
-* Word2Vec Google Code - [archive](https://code.google.com/archive/p/word2vec), [svn](http://word2vec.googlecode.com/svn/trunk) (현재 끊김), [group](https://groups.google.com/forum/#!forum/word2vec-toolkit)
+* Word2Vec Google Code - [archive](https://code.google.com/archive/p/word2vec), [svn](http://word2vec.googlecode.com/svn/trunk)(broken), [group](https://groups.google.com/forum/#!forum/word2vec-toolkit)
 * [The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/)
 * fastText - [github](https://github.com/facebookresearch/fastText)
 * StarSpace - [arxiv](https://arxiv.org/abs/1709.03856)
