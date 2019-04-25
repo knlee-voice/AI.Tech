@@ -8,6 +8,13 @@ Deep Speech (Baidu - Silicon Valley AI Lab)
 * github
   * https://github.com/mozilla/DeepSpeech
   * https://github.com/PaddlePaddle/DeepSpeech
+* Notable Papers
+  - SpecAugment(2019): A New Data Augmentation Method for Automatic Speech Recognition
+  - Google AI Blog: An All-Neural On-Device Speech Recognizer 
+  - All-Neural (ICASSP2017) : Advances in All-Neural Speech Recognition 
+  - A2W Model (ICASSP2018): Building competitive direct acoustics-to-word models for English conversational speech recognition
+  - Gram-CTC (ICML2017) : Gram-CTC: Automatic Unit Selection and Target Decomposition for Sequence Labelling
+  - KALDI-ANDROID(interspeech2016): KALDI GOES ANDROID, arxiv
 
 
 ### TTS 
