@@ -7,7 +7,7 @@
 
 ### Word Embedding 
 * Word2Vec Google Code - [archive](https://code.google.com/archive/p/word2vec), [svn](http://word2vec.googlecode.com/svn/trunk)(broken), [group](https://groups.google.com/forum/#!forum/word2vec-toolkit)
-* [The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/)
+* [The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) by Jay Alammar
 * fastText - [github](https://github.com/facebookresearch/fastText)
 * StarSpace - [arxiv](https://arxiv.org/abs/1709.03856)
 
