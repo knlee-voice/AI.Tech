@@ -27,6 +27,9 @@
 * TF implementation of various GANs and VAEs.
   - https://github.com/hwalsuklee/tensorflow-generative-model-collections
 
+### Attention 
+* Attention mechanism in NLP. From seq2seq + attention to BERT - [lovit.github.io](https://lovit.github.io/machine%20learning/2019/03/17/attention_in_nlp/)
+
 ### Challenges
 * TensorFlow Speech Recognition Challenge  (January 9, 2018 - Entry deadline)
   * https://www.kaggle.com/c/tensorflow-speech-recognition-challenge/
