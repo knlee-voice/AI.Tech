@@ -6,6 +6,7 @@
 
 ### May. 2019
 * (5/12~17) [ICASSP2019](https://2019.ieeeicassp.org/) - Brighton@UK 
+* (5/15) Google AI Blog: Introducing Translatotron: An End-to-End Speech-to-Speech Translation Model [post](https://ai.googleblog.com/2019/05/introducing-translatotron-end-to-end.html)
 
 ### Arpil 2019
 * (4/22) SpecAugment: A New Data Augmentation Method for Automatic Speech Recognition - [post](https://ai.googleblog.com/2019/04/specaugment-new-data-augmentation.html), [arxiv](https://arxiv.org/abs/1904.08779)
