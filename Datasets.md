@@ -18,5 +18,9 @@
 * SQuAD2.0 - https://rajpurkar.github.io/SQuAD-explorer/
   - 100,000 questions in SQuAD1.1 with over 50,000 new
   
-  
+### AI Open Innovation Hub ### 
+* [한국어 음성DB](http://aihub.or.kr/content/552) - 조용한환경, 2000명/대화음성 1000시간
+* [한국어대화](http://aihub.or.kr/content/553)
+* [기계독해](http://aihub.or.kr/content/554)
+* [멀티모달](http://aihub.or.kr/content/555) 
   
