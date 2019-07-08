@@ -34,7 +34,6 @@
 * Transformer: Attention Is All You Need (2017)
   - [medium: Transformer Architecture: Attention Is All You Need](https://medium.com/@adityathiruvengadam/transformer-architecture-attention-is-all-you-need-aeccd9f50d09)
   - ![Transformer - model architecture](https://miro.medium.com/max/626/1*JuGZaZcRtmrtCEPY8qfsUw.png)
-  - ![Multi-Head Self-Attention Architecture](https://miro.medium.com/max/437/1*5h3HHJh7kgezyOdTcRZc0A.png)
 
 
 * iconic LSTM 
