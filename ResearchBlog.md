@@ -20,6 +20,7 @@
 * [Speech Processing for Machine Learning: Filter banks, Mel-Frequency Cepstral Coefficients (MFCCs) and What's In-Between]( http://haythamfayek.com/2016/04/21/speech-processing-for-machine-learning.html)
 * [Ideas for 9th Kaggle TensorFlow Speech Recognition Challenge](http://openresearch.ai/t/ideas-for-9th-kaggle-tensorflow-speech-recognition-challenge/105)
 * [Knowledge Distillation (medium 2018)](https://medium.com/neuralmachine/knowledge-distillation-dc241d7c2322)
+* Seq2seq pay Attention to Self Attention: [Part 1](https://mc.ai/seq2seq-pay-attention-to-self-attention-part-1/), [Part 2](https://mc.ai/seq2seq-pay-attention-to-self-attention-part-2/)
 * [Transformer: Attention is all you need (in Korean)](https://reniew.github.io/43/)
 
 ### Awesome urls
