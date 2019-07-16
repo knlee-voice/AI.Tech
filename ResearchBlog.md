@@ -8,7 +8,7 @@
 * colah's - http://colah.github.io 
 * Distill - https://distill.pub 
 * Jay Alammar's - https://jalammar.github.io/ (Visualizing machine learning one concept at a time)
-
+* ----- in Korean
 * 텐서 플로우 블로그 (Tensor ≈ Blog) - https://tensorflow.blog
 * 케라스 강좌 - https://tykimos.github.io/lecture 
 * DeepBrick for Keras (케라스를 위한 딥브릭) - https://tykimos.github.io/DeepBrick
