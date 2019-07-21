@@ -11,6 +11,11 @@
 * fastText - [github](https://github.com/facebookresearch/fastText)
 * StarSpace - [arxiv](https://arxiv.org/abs/1709.03856)
 
+### Subword unit 
+* Word Piece Model - git](https://github.com/rsennrich/subword-nmt), [blog](https://lovit.github.io/nlp/2018/04/02/wpm/)
+* Byte-pair Encoding (BPE) 
+
+
 ###  a method of pre-training language representations
 * Context-free models
   - word2vec or GloVe generate a single "word embedding" 
@@ -20,6 +25,7 @@
 * BERT (Bidirectional Encoder Representations from Transformers)
   - a new method of pre-training language representations
   - git: https://github.com/google-research/bert
+* XLNet: Generalized Autoregressive Pretraining for Language Understanding - [arxiv](https://arxiv.org/abs/1906.08237), [github](https://github.com/zihangdai/xlnet)
 
 ### Generative Models
 * Megenta Project - https://magenta.tensorflow.org/welcome-to-magenta
