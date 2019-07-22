@@ -12,7 +12,7 @@
 * StarSpace - [arxiv](https://arxiv.org/abs/1709.03856)
 
 ### Subword unit 
-* Word Piece Model - git](https://github.com/rsennrich/subword-nmt), [blog](https://lovit.github.io/nlp/2018/04/02/wpm/)
+* Word Piece Model - [git](https://github.com/rsennrich/subword-nmt), [blog](https://lovit.github.io/nlp/2018/04/02/wpm/)
 * Byte-pair Encoding (BPE) 
 
 
