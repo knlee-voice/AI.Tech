@@ -28,3 +28,6 @@
 * https://github.com/YoavRamon/awesome-kaldi
 * https://paperswithcode.com/task/language-modelling/latest
 * https://persagen.com/resources.html
+
+### Youtube Channel
+* Minsuk Heo (in Kor/Eng) - https://www.youtube.com/channel/UCxP77kNgVfiiG6CXZ5WMuAQ
