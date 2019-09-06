@@ -17,6 +17,9 @@
 ### SQuAD (Stanford Question Answering Dataset)
 * SQuAD2.0 - https://rajpurkar.github.io/SQuAD-explorer/
   - 100,000 questions in SQuAD1.1 with over 50,000 new
+*  [KorQuAD 2.0](https://korquad.github.io/) - The Korean Question Answering Dataset
+  - KorQuAD 1.0에서 질문답변 20,000+ 쌍을 포함하여 총 100,000+ 쌍으로 구성된 한국어 Machine Reading Comprehension 데이터셋
+  - 전체 데이터는 47,957 개의 Wikipedia article에 대해 102,960 개의 질의응답 쌍, Training set 83,486 개, Dev set 10,165 개의 질의응답쌍으로 구분
   
 ### AI Open Innovation Hub ### 
 * [한국어 음성DB](http://aihub.or.kr/content/552) - 조용한환경, 2000명/대화음성 1000시간
@@ -24,3 +27,5 @@
 * [기계독해](http://aihub.or.kr/content/554)
 * [멀티모달](http://aihub.or.kr/content/555) 
   
+### AI API.DATA 
+* [공공 인공지능 오픈 API.DATA 서비스 포털](http://aiopen.etri.re.kr/) - 언어처리, 음성지능,시각지능,대화처리
