@@ -17,7 +17,12 @@
 ### SQuAD (Stanford Question Answering Dataset)
 * SQuAD2.0 - https://rajpurkar.github.io/SQuAD-explorer/
   - 100,000 questions in SQuAD1.1 with over 50,000 new
-*  [KorQuAD 2.0](https://korquad.github.io/) - The Korean Question Answering Dataset
+* [KorQuAD 1.0](https://korquad.github.io/KorQuad%201.0/)
+  - crowdsourced 70,000+ question-answer pairs.
+  - 1,637 articles and 70,079 pairs of question answers were collected. 
+  - 1,420 articles are used for the training set, 140 for the dev set, and 77 for the test set. 
+  - 60,407 question-answer pairs are for the training set, 5,774 for the dev set, and 3,898 for the test set.
+* [KorQuAD 2.0](https://korquad.github.io/) - The Korean Question Answering Dataset
   - KorQuAD 1.0에서 질문답변 20,000+ 쌍을 포함하여 총 100,000+ 쌍으로 구성된 한국어 Machine Reading Comprehension 데이터셋
   - 전체 데이터는 47,957 개의 Wikipedia article에 대해 102,960 개의 질의응답 쌍, Training set 83,486 개, Dev set 10,165 개의 질의응답쌍으로 구분
   
