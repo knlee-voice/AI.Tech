@@ -3,7 +3,7 @@
 
 ### Sept. 2019
 * (9/15~19), [Interspeech 2019](https://interspeech2019.org/) - Crossroads of Speech and Language
-* (9/5) LG CNS AI Tech talk for NLU Day (feat.KorQuard) - [https://blog.lgcns.com/2082] 
+* (9/5) LG CNS AI Tech talk for NLU Day (feat.KorQuad) - [https://blog.lgcns.com/2082] 
 
 ### June. 2019
 * (6/1) [한국음성학회 봄학술대회](https://www.speechsciences.or.kr/) -  『2019년 한국음성학회 봄 학술대회』 - AI 시대의 음성ㆍ언어연구
