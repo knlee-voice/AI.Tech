@@ -16,7 +16,7 @@
 * Generative Models
 * Challenges 
 
-[Speech Processing Toolkit](https://github.com/knlee-voice/AI.Tech/blob/master/SpeechProcToolkit.md
+[Speech Processing Toolkit](https://github.com/knlee-voice/AI.Tech/blob/master/SpeechProcToolkit.md)
 * SoX, librosa, WaveSurffer ... 
   
 [Open Lecture / Course / Ebook / Blogs](https://github.com/knlee-voice/AI.Tech/blob/master/OpenCourseBook.md)
