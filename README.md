@@ -22,3 +22,4 @@
 [Open Lecture / Course / Ebook / Blogs](https://github.com/knlee-voice/AI.Tech/blob/master/OpenCourseBook.md)
 
 [Data Sets](https://github.com/knlee-voice/AI.Tech/blob/master/Datasets.md)
+* AudioSet, Open SLR, ... 
