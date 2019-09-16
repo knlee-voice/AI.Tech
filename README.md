@@ -7,7 +7,7 @@
 * TTS
 * Speaker Recognition / Voice Conversion  
   
-[Deep Learning Architecture](https://github.com/knlee-voice/AI.Tech/blob/master/400)
+[Deep Learning Architecture](DLArchitectures.md)
 * LeNet, AlexNet, VGG, LesNet, DensNet, 
 * Graph Convolution Network 
 
