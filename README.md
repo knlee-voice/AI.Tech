@@ -1,8 +1,8 @@
 ## AI.Tech 
-[News Timelines 2019](https://github.com/knlee-voice/AI.Tech/blob/master/NewsTimeline2019.md)  
-* [2019](https://github.com/knlee-voice/AI.Tech/blob/master/NewsTimeline2019.md), [2018](https://github.com/knlee-voice/AI.Tech/blob/master/NewsTimeline2018.md), [2017](https://github.com/knlee-voice/AI.Tech/blob/master/NewsTimeline2017.md), [2016](https://github.com/knlee-voice/AI.Tech/blob/master/NewsTimeline2016.md)
+[News Timelines 2019](NewsTimeline2019.md)  
+* [2019](NewsTimeline2019.md), [2018](NewsTimeline2018.md), [2017](NewsTimeline2017.md), [2016](NewsTimeline2016.md)
 
-[Voice Technology](https://github.com/knlee-voice/AI.Tech/blob/master/VoiceTechTopics.md)
+[Voice Technology](VoiceTechTopics.md)
 * ASR
 * TTS
 * Speaker Recognition / Voice Conversion  
@@ -11,15 +11,15 @@
 * LeNet, AlexNet, VGG, LesNet, DensNet, 
 * Graph Convolution Network 
 
-[General Topics & Trends](https://github.com/knlee-voice/AI.Tech/blob/master/TrendsTopics.md)
+[General Topics & Trends](TrendsTopics.md)
 * Word Embedding 
 * Generative Models
 * Challenges 
 
-[Speech Processing Toolkit](https://github.com/knlee-voice/AI.Tech/blob/master/SpeechProcToolkit.md)
+[Speech Processing Toolkit](SpeechProcToolkit.md)
 * SoX, librosa, WaveSurffer ... 
   
-[Open Lecture / Course / Ebook / Blogs](https://github.com/knlee-voice/AI.Tech/blob/master/OpenCourseBook.md)
+[Open Lecture / Course / Ebook / Blogs](OpenCourseBook.md)
 
-[Data Sets](https://github.com/knlee-voice/AI.Tech/blob/master/Datasets.md)
+[Data Sets](Datasets.md)
 * AudioSet, Open SLR, ... 
