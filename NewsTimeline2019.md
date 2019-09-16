@@ -1,11 +1,15 @@
 ### Dec. 2019
-* (12/14~18) [ASRU2019](http://www.asru2019.org/) - Sentosa@Singapore
+* (12/14~18) [ASRU2019](http://www.asru2019.org/), Sentosa@Singapore
 
 ### Nov. 2019
+* (11/15~16) [SICSS 2019](https://sicss2019.wordpress.com) (Seoul International Conference on Speech Sciences) - "Speech Sciences Moving Forward: New Methods, Data and Populations"
 * (11/3~7) [EMNLP-IJCNLP 2019](https://www.emnlp-ijcnlp2019.org/) - [Tutorials](https://www.emnlp-ijcnlp2019.org/program/tutorials/)
 
+### Oct. 2019 
+* (10/11~12) [제31회 한글 및 한국어 정보처리 학술대회](https://www.khclt-2019.org/) , KAIST
+
 ### Sept. 2019
-* (9/15~19) [Interspeech 2019](https://interspeech2019.org/) - Crossroads of Speech and Language
+* (9/15~19) [Interspeech 2019](https://interspeech2019.org/), Graz@Austria - Crossroads of Speech and Language
 * (9/9) Google AI Blog: Assessing the Quality of Long-Form Synthesized Speech - [post](https://ai.googleblog.com/2019/09/assessing-quality-of-long-form.html)
 * (9/6) Google AI Bolg: Announcing Two New Natural Language Dialog Datasets - [post](https://ai.googleblog.com/2019/09/announcing-two-new-natural-language.html)
 * (9/5) LG CNS AI Tech talk for NLU Day (feat.KorQuad) - [https://blog.lgcns.com/2082] 
