@@ -34,3 +34,6 @@
   
 ### AI API.DATA 
 * [공공 인공지능 오픈 API.DATA 서비스 포털](http://aiopen.etri.re.kr/) - 언어처리, 음성지능,시각지능,대화처리
+
+### Processed (한국어 공개 말뭉치 & 전처리 공개)
+* https://ratsgo.github.io/embedding/downloaddata.html
