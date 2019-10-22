@@ -65,4 +65,4 @@ Notable Papers
   * Method for combining a query and a communication command in a natural language computer system : US20150149152
   
 ### Outstanding term 
-* Confusion2Vec - [arXiv:1811.03199](https://arxiv.org/abs/1811.03199), [Spoken Language Intent Detection using Confusion2Vec](https://arxiv.org/abs/1904.03576)
+* Confusion2Vec - [arXiv:1811.03199](https://arxiv.org/abs/1811.03199), [arXiv:1904.03576](https://arxiv.org/abs/1904.03576)
