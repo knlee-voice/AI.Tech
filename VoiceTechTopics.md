@@ -64,3 +64,5 @@ Notable Papers
   * Method for embedding voice mail in a spoken utterance using a natural language processing computer system : US9601114
   * Method for combining a query and a communication command in a natural language computer system : US20150149152
   
+### Outstanding term 
+* Confusion2Vec - [arXiv:1811.03199](https://arxiv.org/abs/1811.03199), [Spoken Language Intent Detection using Confusion2Vec](https://arxiv.org/abs/1904.03576)
