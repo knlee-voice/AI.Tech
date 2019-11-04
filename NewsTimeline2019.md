@@ -6,6 +6,7 @@
 * (11/3~7) [EMNLP-IJCNLP 2019](https://www.emnlp-ijcnlp2019.org/) - [Tutorials](https://www.emnlp-ijcnlp2019.org/program/tutorials/)
 
 ### Oct. 2019 
+* (10/29) Google AI Blog: On-Device Captioning with Live Caption - [post](https://ai.googleblog.com/2019/10/on-device-captioning-with-live-caption.html)
 * (10/11~12) [제31회 한글 및 한국어 정보처리 학술대회](https://www.khclt-2019.org/) , KAIST
 
 ### Sept. 2019
