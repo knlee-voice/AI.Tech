@@ -10,6 +10,7 @@
 
 ### Apr. 2020
 * Google AI Blog:Using Neural Networks to Find Answers in Tables - - [post](https://ai.googleblog.com/2020/04/using-neural-networks-to-find-answers.html)
+* ClovaCall: Korean Goal-Oriented Dialog Speech Corpus for Automatic Speech Recognition of Contact Centers - [github, paper](https://github.com/clovaai/ClovaCall)
 
 ### Mar. 2020
 * 
