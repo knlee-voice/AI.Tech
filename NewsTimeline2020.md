@@ -1,5 +1,16 @@
-### Jun. 2020
-* 
+### Dec. 2020
+* Google AI Blog: End-to-End, Transferable Deep RL for Graph Optimization - [post](https://ai.googleblog.com/2020/12/end-to-end-transferable-deep-rl-for.html)
+* Google AI Blog: Privacy Considerations in Large Language Models - [post](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html)
+* Google AI Blog: Using AutoML for Time Series Forecasting - [post](https://ai.googleblog.com/2020/12/using-automl-for-time-series-forecasting.html) 
+
+### Nov. 2020
+* Google AI Blog: Navigating Recorder Transcripts Easily, with Smart Scrolling - [post](https://ai.googleblog.com/2020/11/navigating-recorder-transcripts-easily.html) 
+* Google AI Blog: The Language Interpretability Tool (LIT): Interactive Exploration and Analysis of NLP Models - [post](https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html) 
+* Google AI Blog: The Machine Learning Behind Hum to Search - [post](https://ai.googleblog.com/2020/11/the-machine-learning-behind-hum-to.html)
+* Google AI Blog: Improving On-Device Speech Recognition with VoiceFilter-Lite - [post](https://ai.googleblog.com/2020/11/improving-on-device-speech-recognition.html), [youtube](https://www.youtube.com/watch?v=TSd080akKUY)
+
+### Oct. 2020
+* Google AI Blog: Rethinking Attention with Performers - [post](https://ai.googleblog.com/2020/10/rethinking-attention-with-performers.html)
 
 ### May. 2020
 * GPT-3(OpenAI): Language Models are Few-Shot Learners - [arxiv](https://arxiv.org/abs/2005.14165), [github](https://github.com/openai/gpt-3), [article](https://www.zdnet.com/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/)
