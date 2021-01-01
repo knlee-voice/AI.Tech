@@ -7,8 +7,9 @@
 ### Nov. 2020
 * Google AI Blog: Navigating Recorder Transcripts Easily, with Smart Scrolling - [post](https://ai.googleblog.com/2020/11/navigating-recorder-transcripts-easily.html) 
   * 1) Transcription, 2) Recording Content Visualization via Sound Classification, 3) Suggesting Tags for Titles
-  <img src="https://1.bp.blogspot.com/-bvLOwyPPu2M/X71CVk6UwgI/AAAAAAAAG2s/49A0gTIzbbAglSeaYmop_4Y9SvHGihp9QCLcBGAsYHQ/s622/Pipeline.jpg">
   <img src="https://1.bp.blogspot.com/-l1t1yTS2d_k/Xfpv13ZwhWI/AAAAAAAAFCs/nRo5t7dyo-8ptlpzJRKt2CErq63A7fhngCEwYBhgL/s1600/image4.gif" width=500 height=300>
+  <img src="https://1.bp.blogspot.com/-bvLOwyPPu2M/X71CVk6UwgI/AAAAAAAAG2s/49A0gTIzbbAglSeaYmop_4Y9SvHGihp9QCLcBGAsYHQ/s622/Pipeline.jpg">
+  
   
 * Google AI Blog: The Language Interpretability Tool (LIT): Interactive Exploration and Analysis of NLP Models - [post](https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html) 
 * Google AI Blog: The Machine Learning Behind Hum to Search - [post](https://ai.googleblog.com/2020/11/the-machine-learning-behind-hum-to.html)
