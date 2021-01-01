@@ -1,6 +1,6 @@
 ## AI.Tech 
-[News Timelines 2019](NewsTimeline2019.md)  
-* [2019](NewsTimeline2019.md), [2018](NewsTimeline2018.md), [2017](NewsTimeline2017.md), [2016](NewsTimeline2016.md)
+[News Timelines 2021](NewsTimeline2021.md)  
+* [2020](NewsTimeline2020.md), [2019](NewsTimeline2019.md), [2018](NewsTimeline2018.md), [2017](NewsTimeline2017.md), [2016](NewsTimeline2016.md)
 
 [Voice Technology](VoiceTechTopics.md)
 * ASR
