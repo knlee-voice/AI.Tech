@@ -5,3 +5,6 @@
 ### Jan. 2021
 * (1/24) - 구글 AI, 말하기 쓰기 명령에 인간 시각에 대응하고 식별하는 에이전트 오픈 소스 공개- [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20071)
 * (1/11) AWS Contact Center - [aws.amazon](https://aws.amazon.com/ko/blogs/contact-center/how-contact-centers-grow-customer-trust/)
+* Google AI Blog: Learning to Reason Over Tables from Less Data - [post](https://ai.googleblog.com/2021/01/learning-to-reason-over-tables-from.html)
+* Google AI Blog: Stabilizing Live Speech Translation in Google Translate - [post](https://ai.googleblog.com/2021/01/stabilizing-live-speech-translation-in.html)
+* Google AI Blog: ToTTo: A Controlled Table-to-Text Generation Dataset - [post](https://ai.googleblog.com/2021/01/totto-controlled-table-to-text.html)
