@@ -1,4 +1,7 @@
 ### Dec. 2020
+* NeurIPS 2020 (Virtual-only Conference, 12/6~12) - [site](https://nips.cc/Conferences/2020) 
+  * [[DNA플러스_2021-2] 보고서 pdf - NeurIPS_2020을_통해_본_인공지능_기술_트렌드](https://aihub.or.kr/sites/default/files/2021-03/%5BDNA%ED%94%8C%EB%9F%AC%EC%8A%A4_2021-2%5DNeurIPS_2020%EC%9D%84_%ED%86%B5%ED%95%B4_%EB%B3%B8_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EA%B8%B0%EC%88%A0_%ED%8A%B8%EB%A0%8C%EB%93%9C.pdf)
+  * 요약 및 사례, 세부 연구 내용 등 정리가 잘된 보고서! (https://aihub.or.kr/node/24015)
 * Google AI Blog: End-to-End, Transferable Deep RL for Graph Optimization - [post](https://ai.googleblog.com/2020/12/end-to-end-transferable-deep-rl-for.html)
 * Google AI Blog: Privacy Considerations in Large Language Models - [post](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html)
 * Google AI Blog: Using AutoML for Time Series Forecasting - [post](https://ai.googleblog.com/2020/12/using-automl-for-time-series-forecasting.html) 
