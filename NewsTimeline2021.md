@@ -8,6 +8,10 @@
   * 국내 소개 자료 - [Brunch:스탠포드 2021년 AI 인덱스 보고서](https://brunch.co.kr/@synabreu/110)
 * (3/3) State of AI in 10 Charts - https://hai.stanford.edu/news/state-ai-10-charts
   * 국내 소개 자료 - [HAI가 발표한 10대 AI 차트 2021](https://brunch.co.kr/@synabreu/111)
+* Google AI Blog: Progress and Challenges in Long-Form Open-Domain Question Answering - [post](https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html)
+* Google AI Blog: Constructing Transformers For Longer Sequences with Sparse Attention Methods - [post](https://ai.googleblog.com/2021/03/constructing-transformers-for-longer.html)
+* Google AI Blog: LEAF: A Learnable Frontend for Audio Classification - [post](https://ai.googleblog.com/2021/03/leaf-learnable-frontend-for-audio.html)
+
 
 ### Feb. 2021
 * (2/6) 페이스북AI, 다국어 음성 AI 개발 '8개 언어, 5만시간 오디오 세트' 공개 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20198)
