@@ -3,8 +3,12 @@
 
 ### Mar. 2021
 * (3/30) 제4회 AI 차세대 컨택센터 컨퍼런스 2021 - [프로그램](https://conference.etnews.com/conf_info.html?uid=178), [Yputube](https://www.youtube.com/watch?v=GvRkqC_ej98&t=1s)
-* (3/17) AI 미래포럼 창립 웨비나 -  - AI 기술 발전과 한국의 대응 전략, [Webina](https://www.youtube.com/watch?v=4rEL3EL0dcQ), [한국경제](https://www.hankyung.com/it/article/2021031413701)
-  
+* (3/17) AI 미래포럼 창립 웨비나 - AI 기술 발전과 한국의 대응 전략, [Webina](https://www.youtube.com/watch?v=4rEL3EL0dcQ), [한국경제](https://www.hankyung.com/it/article/2021031413701)
+* AI Index 2021 | Stanford HAI (스탠포드 2021년 AI 인덱스 보고서) - [site](https://hai.stanford.edu/research/ai-index-2021)
+  * 국내 소개 자료 - [Brunch:스탠포드 2021년 AI 인덱스 보고서](https://brunch.co.kr/@synabreu/110)
+* (3/3) State of AI in 10 Charts - https://hai.stanford.edu/news/state-ai-10-charts
+  * 국내 소개 자료 - [HAI가 발표한 10대 AI 차트 2021](https://brunch.co.kr/@synabreu/111)
+
 ### Feb. 2021
 * (2/6) 페이스북AI, 다국어 음성 AI 개발 '8개 언어, 5만시간 오디오 세트' 공개 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20198)
 * (2/4) 빅데이터∙AI 연구에 기여, 데이터 1등 모여 얼라이언스 결성 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20175)
