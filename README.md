@@ -22,7 +22,7 @@
 [Open Lecture / Course / Ebook / Blogs](./docs/OpenCourseBook.md)
 
 [Data Sets](./docs/Datasets.md)
-* AudioSet, Open SLR, ... 
+* AudioSet, Open SLR, AI Hub ... 
 
 [Explore github.com](./docs/git_collection.md)
 * Usefule 
