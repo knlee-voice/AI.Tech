@@ -9,6 +9,10 @@
   * [LibriSpeech ASR corpus](http://www.openslr.org/12/)
   * [MUSAN](http://www.openslr.org/17/) - Music, speech, and noise recordings 
   * [Zeroth-Korean](http://www.openslr.org/40/)
+  * [Deeply Korean read speech corpus](http://openslr.org/97/) 
+    - 텍스트감정(negative, neutral, positive), 음성감정(negative, neutral, positive) 
+    - anechoic chamber, studio apartment, and dance studio
+    - 3 distinct distances with 2 types of smartphone
 
 ### DCASE Challenge 
 * http://dcase.community - Detection and Classification of Acoustic Scenes and Events
