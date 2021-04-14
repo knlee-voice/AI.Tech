@@ -1,4 +1,12 @@
 ### Apr. 2021
+
+* (4/12~16) NVIDIA GTC21 - [LIVE](https://www.nvidia.com/en-us/gtc/), [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20760)
+* (4/13) Upcoming DS/ML/AI/DE Online Conferences in 2021 - [blog](https://www.analyticsvidhya.com/blog/2021/04/upcoming-ds-ml-ai-online-conference-in-2021/)
+  - Conversational AI & NLP Summit (28 April, 2021) - [event](https://www.re-work.co/events/conversational-ai-nlp-summit-2021?utm_source=Luke&amp;utm_medium=Media_Partner&amp;utm_campaign=MP_2021_Conversational%26NLP)
+  - NLP SUMMIT 2021 (5-8 October 2021) 
+* (4/13) Rethinking AI – Artificial Intelligence - [blog](https://www.analyticsvidhya.com/blog/2021/04/rethinking-ai-artificial-intelligence/)
+* (4/13) 마이크로소프트, 뉘앙스커뮤니케이션 전격 인수! - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20751)
+* (4/7) MLOps Best Practices for Data Scientists - [blog](https://towardsdatascience.com/mlops-practices-for-data-scientists-dbb01be45dd8)
 * (4/2) 한림원, ‘인공지능 시대의 인재 양성’ 주제 - [Youtube](https://www.youtube.com/watch?v=uZxd1GOiLx4), [요약](https://kast.or.kr/kr/space/article.php?bgu=view&bbs_data=aWR4PTE4NDQyJnN0YXJ0UGFnZT0mbGlzdE5vPSZ0YWJsZT0mY29kZT1ib2RvJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9%7C%7C&PHPSESSID=7d61820f8156f3c5399e56195dd56a63)
 
 ### Mar. 2021
