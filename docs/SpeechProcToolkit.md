@@ -13,6 +13,15 @@
 ### Audacity (audio editor) 
 * https://github.com/audacity/audacity
 
+### SpeechBrain
+* https://github.com/speechbrain/speechbrain 
+* Key features
+  - Speech Recognition: wav2vec 2.0, Hybrid CTC/Attention e2e ASR, Transducer end-to-end ASR
+  - Feature extraction and augmentation: On-the-fly {acoustic feature extraction, feature normalization, SpecAugment} 
+  - Speaker recognition, identification and diarization
+  - Speech enhancement and separation
+  - Multi-microphone processing
+
 ### Mores ... 
 * SpectroTyper Tone Generator - http://www.audiocheck.net/audiocheck_spectrotyper.php <br>
 * Audio-annotato(Javascript web interface) - https://github.com/CrowdCurio/audio-annotator
