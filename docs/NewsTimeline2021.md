@@ -6,6 +6,9 @@
 
 ### Apr. 2021
 * (4/29) AI [Ethics] Framework - [NC Blog](https://blog.ncsoft.com/ai-framework-ep01-210429/), [Youtube](https://www.youtube.com/watch?v=B8Ce5Ar4Q1EV) 
+* (4/28) 화웨이, '개발자 콘퍼런스 클라우드 2021' 개최 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=20878), [News](https://www.ajunews.com/view/20210428090857989?utm_source=dable)
+  - 클라우드 네이티브 및 AI를 위한 6가지 혁신적인 제품 공개 
+  - 세계 최대의 중국 자연어처리기술(NLP) 모델과 컴퓨터비전(CV) 모델을 포함한 팡구모델(Pangu Model): PanGu-Alpha / GPT-3의 1750억개보다 많은 2000억개의 파라미터 / 중국어 전자책, 백과사전, 뉴스, SNS, 웹페이지 등 1.1테라바이트의 데이터로 학습
 * (4/25) [AI 리뷰] 메타러닝으로 인간처럼 진화하는 인공지능 강화학습 알고리즘 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20855)
 ![http://cdn.aitimes.kr/news/photo/202104/20855_31295_5217.gif](http://cdn.aitimes.kr/news/photo/202104/20855_31295_5217.gif)
 * (4/12~16) NVIDIA GTC21 - [LIVE](https://www.nvidia.com/en-us/gtc/), [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20760)
