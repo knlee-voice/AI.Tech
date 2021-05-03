@@ -1,8 +1,11 @@
 ### May 2021
 * (5/3 ~ 5/7 UTC) [ICLR 2021](https://iclr.cc/)
-
+* (5/3) 기업 고객 DX 혁신 생태계 구축 위한... KT ‘B2B 원팀’ 출범 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20911) 
+  - ▷컨택센터 DX ▷IT아웃소싱(ITO) ▷교통 DX ▷실감미디어 DX ▷Biz고객 DX 5개 분과
+  - 참여 기업은 KT를 비롯해 비롯해 컨택센터 솔루션 전문 기업인 한솔인티큐브, KLCNS, 마인드웨어웍스, NHN다이퀘스트, 셀바스AI, 베이글소프트, 예스피치와 컨택센터 운영 및 IT 아웃소싱 전문기업인 메타넷엠플랫폼 등 각 분야의 전문기업
 
 ### Apr. 2021
+* (4/29) AI [Ethics] Framework - [NC Blog](https://blog.ncsoft.com/ai-framework-ep01-210429/), [Youtube](https://www.youtube.com/watch?v=B8Ce5Ar4Q1EV) 
 * (4/25) [AI 리뷰] 메타러닝으로 인간처럼 진화하는 인공지능 강화학습 알고리즘 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20855)
 ![http://cdn.aitimes.kr/news/photo/202104/20855_31295_5217.gif](http://cdn.aitimes.kr/news/photo/202104/20855_31295_5217.gif)
 * (4/12~16) NVIDIA GTC21 - [LIVE](https://www.nvidia.com/en-us/gtc/), [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20760)
