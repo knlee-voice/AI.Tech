@@ -1,5 +1,6 @@
 ### May 2021
 * [Paper] SUPERB: Speech processing Universal PERformance Benchmark - [arxiv](https://arxiv.org/pdf/2105.01051.pdf), [git](https://github.com/s3prl/s3prl)
+<img src="https://github.com/s3prl/s3prl/raw/master/file/S3PRL-interface.png" width="60%">
 
 * (5/3 ~ 5/7 UTC) [ICLR 2021](https://iclr.cc/)
   - "MLP-Mixer: An all-MLP Architecture for Vision" by Nabil MADALI - [arxiv](https://arxiv.org/pdf/2105.01601.pdf ), [Youtube: PR-12](https://youtu.be/KQmZlxdnnuY), [Youtube: Yannic Kilcher](https://www.youtube.com/watch?v=7K4Z8RqjWIk), [reddit](https://www.reddit.com/r/MachineLearning/comments/n69uso/d_paper_explained_mlpmixer_an_allmlp_architecture/)
