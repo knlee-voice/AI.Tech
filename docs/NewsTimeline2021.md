@@ -9,6 +9,8 @@
 
 * (5/11) 모두의연구소-엔비디아, ‘젯슨 AI 교육 프로그램’ - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20992)
   - 젯슨 나노(Jetson Nano) 2GB 개발자 키트가 무료 지원, 엣지 컴퓨팅 디바이스에 AI 기술을 제공
+* (5/10) 네이버-서울대, 초대규모 인공지능 연구센터 설립... GPT-3 능가하는 한국어 기반 AI 목표 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20983)
+
 
 * (5/3 ~ 5/7 UTC) [ICLR 2021](https://iclr.cc/)
   - "MLP-Mixer: An all-MLP Architecture for Vision" by Nabil MADALI - [arxiv](https://arxiv.org/pdf/2105.01601.pdf ), [Youtube: PR-12](https://youtu.be/KQmZlxdnnuY), [Youtube: Yannic Kilcher](https://www.youtube.com/watch?v=7K4Z8RqjWIk), [reddit](https://www.reddit.com/r/MachineLearning/comments/n69uso/d_paper_explained_mlpmixer_an_allmlp_architecture/)
