@@ -1,5 +1,10 @@
 ### May 2021
+* [Paper] SUPERB: Speech processing Universal PERformance Benchmark - [arxiv](https://arxiv.org/pdf/2105.01051.pdf), [git](https://github.com/s3prl/s3prl)
+
 * (5/3 ~ 5/7 UTC) [ICLR 2021](https://iclr.cc/)
+  - "MLP-Mixer: An all-MLP Architecture for Vision" by Nabil MADALI - [arxiv](https://arxiv.org/pdf/2105.01601.pdf ), [Youtube: PR-12](https://youtu.be/KQmZlxdnnuY), [Youtube: Yannic Kilcher](https://www.youtube.com/watch?v=7K4Z8RqjWIk), [reddit](https://www.reddit.com/r/MachineLearning/comments/n69uso/d_paper_explained_mlpmixer_an_allmlp_architecture/)
+  - 
+
 * (5/3) 기업 고객 DX 혁신 생태계 구축 위한... KT ‘B2B 원팀’ 출범 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20911) 
   - ▷컨택센터 DX ▷IT아웃소싱(ITO) ▷교통 DX ▷실감미디어 DX ▷Biz고객 DX 5개 분과
   - 참여 기업은 KT를 비롯해 비롯해 컨택센터 솔루션 전문 기업인 한솔인티큐브, KLCNS, 마인드웨어웍스, NHN다이퀘스트, 셀바스AI, 베이글소프트, 예스피치와 컨택센터 운영 및 IT 아웃소싱 전문기업인 메타넷엠플랫폼 등 각 분야의 전문기업
