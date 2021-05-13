@@ -1,20 +1,15 @@
 ### May 2021
-* [Paper] SUPERB: Speech processing Universal PERformance Benchmark - [arxiv](https://arxiv.org/pdf/2105.01051.pdf), [git](https://github.com/s3prl/s3prl)
+* [Paper] SUPERB: Speech processing Universal PERformance Benchmark - [arxiv](https://arxiv.org/pdf/2105.01051.pdf), [git](https://github.com/s3prl/s3prl), [table_summary](https://pbs.twimg.com/media/E0gbYXVWYAkcNi8?format=png&name=large)
 <img src="https://github.com/s3prl/s3prl/raw/master/file/S3PRL-interface.png" width="60%">
-<img src="https://pbs.twimg.com/media/E0gbYXVWYAkcNi8?format=png&name=large" width="60%">
 
 * (5/11) 네이버, 한국어 '초거대 AI 언어 모델’ 국내 최초로 검색 서비스에 상용화 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20990)
   - 사용자 오타, 맞춤법 오류, 잘못 알고 있는 검색어 입력한 경우 등에 대해 올바른 단어로 전환해 검색해 주거나 적절한 검색어를 추천 
   - 3분기내 수정 의견을 제안 + 사용자의 검색 흐름에 따른 맥락을 분석해 다음 검색어를 예측해 추천하는 기능도 추가될 예정
-
 * (5/11) 모두의연구소-엔비디아, ‘젯슨 AI 교육 프로그램’ - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20992)
   - 젯슨 나노(Jetson Nano) 2GB 개발자 키트가 무료 지원, 엣지 컴퓨팅 디바이스에 AI 기술을 제공
 * (5/10) 네이버-서울대, 초대규모 인공지능 연구센터 설립... GPT-3 능가하는 한국어 기반 AI 목표 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20983)
-
-
 * (5/3 ~ 5/7 UTC) [ICLR 2021](https://iclr.cc/)
   - "MLP-Mixer: An all-MLP Architecture for Vision" by Nabil MADALI - [arxiv](https://arxiv.org/pdf/2105.01601.pdf ), [Youtube: PR-12](https://youtu.be/KQmZlxdnnuY), [Youtube: Yannic Kilcher](https://www.youtube.com/watch?v=7K4Z8RqjWIk), [reddit](https://www.reddit.com/r/MachineLearning/comments/n69uso/d_paper_explained_mlpmixer_an_allmlp_architecture/)
-  - 
 
 * (5/3) 기업 고객 DX 혁신 생태계 구축 위한... KT ‘B2B 원팀’ 출범 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20911) 
   - ▷컨택센터 DX ▷IT아웃소싱(ITO) ▷교통 DX ▷실감미디어 DX ▷Biz고객 DX 5개 분과
