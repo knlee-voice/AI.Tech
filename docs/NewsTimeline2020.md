@@ -17,9 +17,11 @@
 * Google AI Blog: The Language Interpretability Tool (LIT): Interactive Exploration and Analysis of NLP Models - [post](https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html) 
 * Google AI Blog: The Machine Learning Behind Hum to Search - [post](https://ai.googleblog.com/2020/11/the-machine-learning-behind-hum-to.html)
 * Google AI Blog: Improving On-Device Speech Recognition with VoiceFilter-Lite - [post](https://ai.googleblog.com/2020/11/improving-on-device-speech-recognition.html), [youtube](https://www.youtube.com/watch?v=TSd080akKUY)
-  <img src="https://1.bp.blogspot.com/-o9f1-TaQfto/X6wvMcpLjQI/AAAAAAAAGxY/SvjAAFbhJOoa7vcKwlcKIvClgaip-pSWQCLcBGAsYHQ/s768/image5.gif" height=500>
+  <img src="https://1.bp.blogspot.com/-o9f1-TaQfto/X6wvMcpLjQI/AAAAAAAAGxY/SvjAAFbhJOoa7vcKwlcKIvClgaip-pSWQCLcBGAsYHQ/s768/image5.gif" height=400>
   
 ### Oct. 2020
+* (10/14) 월간기술동향 | 2021 10대 전략 기술 - [blog](https://blog.ex-em.com/1474)
+  * People centricity (사람 중심) / Location independence (위치 독립성) / Resilient delivery (탄력적인 전달) / Combinatorial innovation (조합적 혁신)
 * Google AI Blog: Rethinking Attention with Performers - [post](https://ai.googleblog.com/2020/10/rethinking-attention-with-performers.html)
 * Google AI blog: Audiovisual Speech Enhancement in YouTube Stories - [post](https://ai.googleblog.com/2020/10/audiovisual-speech-enhancement-in.html)
   - selfie videos by automatically enhancing their voices and reducing background noise.
