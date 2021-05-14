@@ -1,31 +1,34 @@
 ### May 2021
-* [Paper] SUPERB: Speech processing Universal PERformance Benchmark - [arxiv](https://arxiv.org/pdf/2105.01051.pdf), [git](https://github.com/s3prl/s3prl), [table_summary](https://pbs.twimg.com/media/E0gbYXVWYAkcNi8?format=png&name=large)
-<img src="https://github.com/s3prl/s3prl/raw/master/file/S3PRL-interface.png" width="60%">
-
+* [Paper] SUPERB: Speech processing Universal PERformance Benchmark - [arxiv](https://arxiv.org/pdf/2105.01051.pdf), [git](https://github.com/s3prl/s3prl), [table_summary](https://pbs.twimg.com/media/E0gbYXVWYAkcNi8?format=png&name=large), <img src="https://github.com/s3prl/s3prl/raw/master/file/S3PRL-interface.png" width="50%">
+* (5/13) 제2차 AI 미래포럼 웨비나 / 인공지능의 기대와 현실 - [youtube](https://www.youtube.com/watch?v=bYm-LKb4ov8)
+  * 1. AI 품질을 SW 관점에서 보다(오순영 한컴인텔리전스)
+  * 2. AI 리터러시: 사회적 격차 해소를 위한 노력(김승일 모두의연구소)
+  * 3. AI가 병원에 가면 의료인이 될 수 있을까? (김휘영 연세대)
+  * 4. 군용 AI 관점에서 본 End-to-End Deep Learning  vs.  Hybrid Learning: Performance or Trust (류봉균 EpiSci)
 * (5/11) 네이버, 한국어 '초거대 AI 언어 모델’ 국내 최초로 검색 서비스에 상용화 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20990)
-  - 사용자 오타, 맞춤법 오류, 잘못 알고 있는 검색어 입력한 경우 등에 대해 올바른 단어로 전환해 검색해 주거나 적절한 검색어를 추천 
-  - 3분기내 수정 의견을 제안 + 사용자의 검색 흐름에 따른 맥락을 분석해 다음 검색어를 예측해 추천하는 기능도 추가될 예정
+  * 사용자 오타, 맞춤법 오류, 잘못 알고 있는 검색어 입력 시, 올바른 단어로 전환 or 검색 or 검색어 추천 
+  * 3분기내 수정 의견을 제안 + 사용자의 검색 흐름에 따른 맥락을 분석해 다음 검색어를 예측해 추천 기능 추가 예정
 * (5/11) 모두의연구소-엔비디아, ‘젯슨 AI 교육 프로그램’ - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20992)
-  - 젯슨 나노(Jetson Nano) 2GB 개발자 키트가 무료 지원, 엣지 컴퓨팅 디바이스에 AI 기술을 제공
+  * 젯슨 나노(Jetson Nano) 2GB 개발자 키트가 무료 지원, 엣지 컴퓨팅 디바이스에 AI 기술을 제공
 * (5/10) 네이버-서울대, 초대규모 인공지능 연구센터 설립... GPT-3 능가하는 한국어 기반 AI 목표 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20983)
+* (5/7) 2021 NAVER Search Colloquium Global Re:Search - [사이트](http://naversearchconf.naver.com/), [상세소개](https://blog.naver.com/naver_search/222309902298)
 * (5/3 ~ 5/7 UTC) [ICLR 2021](https://iclr.cc/)
-  - "MLP-Mixer: An all-MLP Architecture for Vision" by Nabil MADALI - [arxiv](https://arxiv.org/pdf/2105.01601.pdf ), [Youtube: PR-12](https://youtu.be/KQmZlxdnnuY), [Youtube: Yannic Kilcher](https://www.youtube.com/watch?v=7K4Z8RqjWIk), [reddit](https://www.reddit.com/r/MachineLearning/comments/n69uso/d_paper_explained_mlpmixer_an_allmlp_architecture/)
-
+  * "MLP-Mixer: An all-MLP Architecture for Vision" by Nabil MADALI - [arxiv](https://arxiv.org/pdf/2105.01601.pdf ), [Youtube: PR-12](https://youtu.be/KQmZlxdnnuY), [Youtube: Yannic Kilcher](https://www.youtube.com/watch?v=7K4Z8RqjWIk), [reddit](https://www.reddit.com/r/MachineLearning/comments/n69uso/d_paper_explained_mlpmixer_an_allmlp_architecture/)
 * (5/3) 기업 고객 DX 혁신 생태계 구축 위한... KT ‘B2B 원팀’ 출범 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20911) 
-  - ▷컨택센터 DX ▷IT아웃소싱(ITO) ▷교통 DX ▷실감미디어 DX ▷Biz고객 DX 5개 분과
-  - 참여 기업은 KT를 비롯해 비롯해 컨택센터 솔루션 전문 기업인 한솔인티큐브, KLCNS, 마인드웨어웍스, NHN다이퀘스트, 셀바스AI, 베이글소프트, 예스피치와 컨택센터 운영 및 IT 아웃소싱 전문기업인 메타넷엠플랫폼 등 각 분야의 전문기업
+  * ▷컨택센터 DX ▷IT아웃소싱(ITO) ▷교통 DX ▷실감미디어 DX ▷Biz고객 DX 5개 분과
+  * 참여 기업은 KT를 비롯해 비롯해 컨택센터 솔루션 전문 기업인 한솔인티큐브, KLCNS, 마인드웨어웍스, NHN다이퀘스트, 셀바스AI, 베이글소프트, 예스피치와 컨택센터 운영 및 IT 아웃소싱 전문기업인 메타넷엠플랫폼 등 각 분야의 전문기업
 
 ### Apr. 2021
 * (4/29) AI [Ethics] Framework - [NC Blog](https://blog.ncsoft.com/ai-framework-ep01-210429/), [Youtube](https://www.youtube.com/watch?v=B8Ce5Ar4Q1EV) 
 * (4/28) 화웨이, '개발자 콘퍼런스 클라우드 2021' 개최 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=20878), [News](https://www.ajunews.com/view/20210428090857989?utm_source=dable)
-  - 클라우드 네이티브 및 AI를 위한 6가지 혁신적인 제품 공개 
-  - 세계 최대의 중국 자연어처리기술(NLP) 모델과 컴퓨터비전(CV) 모델을 포함한 팡구모델(Pangu Model): PanGu-Alpha / GPT-3의 1750억개보다 많은 2000억개의 파라미터 / 중국어 전자책, 백과사전, 뉴스, SNS, 웹페이지 등 1.1테라바이트의 데이터로 학습
+  * 클라우드 네이티브 및 AI를 위한 6가지 혁신적인 제품 공개 
+  * 세계 최대의 중국 자연어처리기술(NLP) 모델과 컴퓨터비전(CV) 모델을 포함한 팡구모델(Pangu Model): PanGu-Alpha / GPT-3의 1750억개보다 많은 2000억개의 파라미터 / 중국어 전자책, 백과사전, 뉴스, SNS, 웹페이지 등 1.1테라바이트의 데이터로 학습
 * (4/25) [AI 리뷰] 메타러닝으로 인간처럼 진화하는 인공지능 강화학습 알고리즘 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20855)
 ![http://cdn.aitimes.kr/news/photo/202104/20855_31295_5217.gif](http://cdn.aitimes.kr/news/photo/202104/20855_31295_5217.gif)
 * (4/12~16) NVIDIA GTC21 - [LIVE](https://www.nvidia.com/en-us/gtc/), [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20760)
 * (4/13) Upcoming DS/ML/AI/DE Online Conferences in 2021 - [blog](https://www.analyticsvidhya.com/blog/2021/04/upcoming-ds-ml-ai-online-conference-in-2021/)
-  - Conversational AI & NLP Summit (28 April, 2021) - [event](https://www.re-work.co/events/conversational-ai-nlp-summit-2021?utm_source=Luke&amp;utm_medium=Media_Partner&amp;utm_campaign=MP_2021_Conversational%26NLP)
-  - NLP SUMMIT 2021 (5-8 October 2021) 
+  * Conversational AI & NLP Summit (28 April, 2021) - [event](https://www.re-work.co/events/conversational-ai-nlp-summit-2021?utm_source=Luke&amp;utm_medium=Media_Partner&amp;utm_campaign=MP_2021_Conversational%26NLP)
+  * NLP SUMMIT 2021 (5-8 October 2021) 
 * (4/13) Rethinking AI – Artificial Intelligence - [blog](https://www.analyticsvidhya.com/blog/2021/04/rethinking-ai-artificial-intelligence/)
 * (4/13) 마이크로소프트, 뉘앙스커뮤니케이션 전격 인수! - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20751)
 * (4/7) MLOps Best Practices for Data Scientists - [blog](https://towardsdatascience.com/mlops-practices-for-data-scientists-dbb01be45dd8)
