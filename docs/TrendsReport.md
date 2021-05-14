@@ -2,7 +2,6 @@
 ### 2021
 * (4/19) 인공지능(Artificial Intelligence) 이슈와 국제 표준화 동향 - [소개](https://spri.kr/posts/view/23194?code=industry_trend), [파일](https://spri.kr/download/22786)
   *  미래AI기술: 사람에 가까운 혹은 넘어서는 AI / 해석 가능한 AI / AI의 학습을 돕는 AI / 새로운 성질의 미디어 데이터로 AI 적용 / 더욱 정교하고 신뢰 가능한 AI 
-  *  
 * (3/25) [IS-114] 유럽의 인공지능 윤리정책 현황과 시사점 - [소개](https://spri.kr/posts/view/23174?code=issue_reports)
 * (3/18) [D.N.A 플러스 2021-2] NeurIPS 2020을 통해 본 인공지능(AI) 기술 트렌드 - [소개](https://www.aihub.or.kr/node/24015), [PDF파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23153&cbIdx=82618&fileNo=1)
   - ① 1,898편의 NeurIPS 2020 논문 제목을 텍스트 마이닝을 활용하여, 총 6대 트렌드를 도출
@@ -52,9 +51,9 @@
 * (8/17) [D.gov Trend & Future 2018-2] 인공지능 기반 챗봇 서비스의 국내외 동향분석 및 발전전망 - [소개](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=37989&bcIdx=20156&parentSeq=20156), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=20156&cbIdx=37989&fileNo=1)
 * (7/31) [SPRi 이슈리포트 2018-002] 범용 인공지능의 개념과 연구 현황 - [소개](https://spri.kr/posts/view/22231?code=issue_reports), [파일](https://spri.kr/download/21964)
 * (5/31) [KISA Report 2018년 Vol.05] 구글 I/O 2018 : 인공지능의 대중화 외 - [소개](https://www.kisa.or.kr/public/library/IS_View.jsp?mode=view&p_No=158&b_No=158&d_No=345&cPage=&ST=TC&SV=), [파일](https://www.kisa.or.kr/jsp/common/downloadAction.jsp?bno=158&dno=345&fseq=2)
-* (4/18) (정책브리프 2018-05) 4차 산업혁명 시대, 우리의 인공지능 현황 - [소개](https://www.itfind.or.kr/publication/regular/periodical/read.do?selectedId=02-001-180419-000001), [파일]()
+* (4/18) (정책브리프 2018-05) 4차 산업혁명 시대, 우리의 인공지능 현황 - [소개](https://www.itfind.or.kr/publication/regular/periodical/read.do?selectedId=02-001-180419-000001)
 * (3/31) [S&T Market Report 제57호] 인공지능(AI) 플랫폼 기술시장동향보고서 - [소개](https://www.itfind.or.kr/publication/regular/periodical/read.do?selectedId=02-001-180405-000003)
-
+* (2/26) [스페셜리포트 2018-2] 미 국방연구원 '설명가능 인공지능(XAI)' - [소개](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=19442&parentSeq=19442), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=19442&cbIdx=82618&fileNo=2)
 
 ----
 ### 중소기업 기술 로드맵
