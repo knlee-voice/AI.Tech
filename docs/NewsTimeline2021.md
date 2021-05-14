@@ -1,5 +1,6 @@
 ### May 2021
-* [Paper] SUPERB: Speech processing Universal PERformance Benchmark - [arxiv](https://arxiv.org/pdf/2105.01051.pdf), [git](https://github.com/s3prl/s3prl), [table_summary](https://pbs.twimg.com/media/E0gbYXVWYAkcNi8?format=png&name=large), <img src="https://github.com/s3prl/s3prl/raw/master/file/S3PRL-interface.png" width="50%">
+
+* (5/14) 신뢰할 수 있는 인공지능, 모두가 누릴 수 있는 AI 구현... 정부, 3대 전략 10대 실천과제 제시 - [AITiMES](http://www.aitimes.kr/news/articleView.html?idxno=21024), [첨부파일](http://www.aitimes.kr/news/download.php?subUploadDir=202105/&savefilename=21024_60.zip&filename=%EC%8B%A0%EB%A2%B0%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EA%B5%AC%ED%98%84%20%EC%A0%84%EB%9E%B5.zip&idxno=60)
 * (5/13) 제2차 AI 미래포럼 웨비나 / 인공지능의 기대와 현실 - [youtube](https://www.youtube.com/watch?v=bYm-LKb4ov8)
   * 1. AI 품질을 SW 관점에서 보다(오순영 한컴인텔리전스)
   * 2. AI 리터러시: 사회적 격차 해소를 위한 노력(김승일 모두의연구소)
@@ -17,14 +18,14 @@
 * (5/3) 기업 고객 DX 혁신 생태계 구축 위한... KT ‘B2B 원팀’ 출범 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20911) 
   * ▷컨택센터 DX ▷IT아웃소싱(ITO) ▷교통 DX ▷실감미디어 DX ▷Biz고객 DX 5개 분과
   * 참여 기업은 KT를 비롯해 비롯해 컨택센터 솔루션 전문 기업인 한솔인티큐브, KLCNS, 마인드웨어웍스, NHN다이퀘스트, 셀바스AI, 베이글소프트, 예스피치와 컨택센터 운영 및 IT 아웃소싱 전문기업인 메타넷엠플랫폼 등 각 분야의 전문기업
+* [Paper] SUPERB: Speech processing Universal PERformance Benchmark - [arxiv](https://arxiv.org/pdf/2105.01051.pdf), [git](https://github.com/s3prl/s3prl), [table_summary](https://pbs.twimg.com/media/E0gbYXVWYAkcNi8?format=png&name=large), <img src="https://github.com/s3prl/s3prl/raw/master/file/S3PRL-interface.png" width="50%">
 
 ### Apr. 2021
 * (4/29) AI [Ethics] Framework - [NC Blog](https://blog.ncsoft.com/ai-framework-ep01-210429/), [Youtube](https://www.youtube.com/watch?v=B8Ce5Ar4Q1EV) 
 * (4/28) 화웨이, '개발자 콘퍼런스 클라우드 2021' 개최 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=20878), [News](https://www.ajunews.com/view/20210428090857989?utm_source=dable)
   * 클라우드 네이티브 및 AI를 위한 6가지 혁신적인 제품 공개 
   * 세계 최대의 중국 자연어처리기술(NLP) 모델과 컴퓨터비전(CV) 모델을 포함한 팡구모델(Pangu Model): PanGu-Alpha / GPT-3의 1750억개보다 많은 2000억개의 파라미터 / 중국어 전자책, 백과사전, 뉴스, SNS, 웹페이지 등 1.1테라바이트의 데이터로 학습
-* (4/25) [AI 리뷰] 메타러닝으로 인간처럼 진화하는 인공지능 강화학습 알고리즘 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20855)
-![http://cdn.aitimes.kr/news/photo/202104/20855_31295_5217.gif](http://cdn.aitimes.kr/news/photo/202104/20855_31295_5217.gif)
+* (4/25) [AI 리뷰] 메타러닝으로 인간처럼 진화하는 인공지능 강화학습 알고리즘 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20855), <img src="http://cdn.aitimes.kr/news/photo/202104/20855_31295_5217.gif" width="50%">
 * (4/12~16) NVIDIA GTC21 - [LIVE](https://www.nvidia.com/en-us/gtc/), [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20760)
 * (4/13) Upcoming DS/ML/AI/DE Online Conferences in 2021 - [blog](https://www.analyticsvidhya.com/blog/2021/04/upcoming-ds-ml-ai-online-conference-in-2021/)
   * Conversational AI & NLP Summit (28 April, 2021) - [event](https://www.re-work.co/events/conversational-ai-nlp-summit-2021?utm_source=Luke&amp;utm_medium=Media_Partner&amp;utm_campaign=MP_2021_Conversational%26NLP)
