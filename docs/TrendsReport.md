@@ -6,6 +6,7 @@
 * (3/18) [D.N.A 플러스 2021-2] NeurIPS 2020을 통해 본 인공지능(AI) 기술 트렌드 - [소개](https://www.aihub.or.kr/node/24015), [PDF파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23153&cbIdx=82618&fileNo=1)
   - ① 1,898편의 NeurIPS 2020 논문 제목을 텍스트 마이닝을 활용하여, 총 6대 트렌드를 도출
   - ② 메타러닝, 연합학습, 자기지도학습, 강화학습, 그래프 기반 딥러닝, 생성적 적대 신경망 기술 트렌드 등 6대 기술 분야 분석
+* (2/4) 혁신을_이끄는_뉴웨이브__인공지능_스타트업 - [기사](https://www.aitimes.kr/news/articleView.html?idxno=20182), [파일, 101p](https://startuprecipe.co.kr/wp-content/uploads/2021/02/%ED%98%81%EC%8B%A0%EC%9D%84_%EC%9D%B4%EB%81%84%EB%8A%94_%EB%89%B4%EC%9B%A8%EC%9D%B4%EB%B8%8C__%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85.pdf)
 * (1/15) [IT & Future Strategy 2021-1] 주목받는 인공지능(AI) 9대 핵심 기술 분석 및 주요 시사점 - [소개](https://www.aihub.or.kr/node/13408), [PDF파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=22921&cbIdx=25932&fileNo=1)
   - 요약: Forbes, State of AI 2020 등 글로벌 주요 언론, 기업, 인공지능 주요 인사의 인터뷰 내용 기반 
   - 초대규모 모델 GPT-3 “GPT-3의 등장 및 언어모델의 스케일업”
@@ -17,6 +18,7 @@
   - 생성적 AI(Generativa AI) “(사물 등) 인식을 위한 AI가 아닌 창조를 하는 AI”
   - 전이학습(Transfer learning) “누구나 딥러닝을 할 수 있는 환경 확산”
   - AutoML “AI도 AI가 만들어 낸다”
+
 
 ### 2020 
 * (12/31) [IF 2020-10] 세계가 주목하는 인공지능 스타트업 - [소개](https://www.aihub.or.kr/node/14853), [PDF파일](https://www.aihub.or.kr/sites/default/files/2021-02/%5BIT%26FutureStrategy_2020-10%5D_%EC%84%B8%EA%B3%84%EA%B0%80_%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85_%28%EC%B5%9C%EC%A2%85%29.pdf)
@@ -38,22 +40,27 @@
 * (1/31) [2020년 Vol.01 KISA Report] CES2020 : 인공지능과 로봇의 만남 등 10편 - [소개](https://www.kisa.or.kr/public/library/IS_View.jsp?mode=view&p_No=158&b_No=158&d_No=368&cPage=&ST=TC&SV=), [파일](https://www.kisa.or.kr/jsp/common/downloadAction.jsp?bno=158&dno=368&fseq=1)
 
 ### 2019
+* (12/31) [KISDI] 공공·민간 분야의 인공지능(AI) 융합·활용 활성화를 위한 정책방안 연구 - [소개](http://m.kisdi.re.kr/mobile/repo/res_view.m?key1=14751&key2=0&key3=&category=2), 
 * (12/20) [D.N.A 플러스 2019-10] 세계적으로 주목받는 인공지능 스타트업 현황과 비즈니스 모델 - [소개](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=21730&parentSeq=21730), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=21730&cbIdx=82618&fileNo=1)
-* (12/2) NIPA 이슈리포트(2019-34호) 인공지능 기반 에듀테크 기업 및 서비스 동향 - [소개](https://nipa.kr/main/selectBbsNttView.do?key=116&bbsNo=11&nttNo=7013&bbsTy=&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=3), [파일](https://nipa.kr/main/downloadBbsFile.do?key=116&bbsNo=11&bbsTy=&atchmnflNo=10861)
+* (12/2) NIPA 이슈리포트(2019-34호) 인공지능 기반 에듀테크 기업 및 서비스 동향 - [소개](https://nipa.kr/main/selectBbsNttView.do?key=116&bbsNo=11&nttNo=7013&bbsTy=&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=3), [파일(195p)](https://nipa.kr/main/downloadBbsFile.do?key=116&bbsNo=11&bbsTy=&atchmnflNo=10861)
 * (10/25) [NIPA 이슈리포트 2019-32호] 인공지능산업 생태계 현황과 발전전략 - [소개](https://www.nipa.kr/main/selectBbsNttView.do?key=116&bbsNo=11&nttNo=6937&bbsTy=&searchCtgry=&pageUnit=10&searchCnd=all&searchKrwd=&pageIndex=1), [PDF파일](https://www.nipa.kr/main/downloadBbsFile.do?key=116&bbsNo=11&bbsTy=&atchmnflNo=10743)
   * 내용: AI 기업 성숙화 단계 가이드, ‘AI made in Germany’ 12대 전략 요약 
 * (8/9) [글로벌ICT이슈] 인공지능 기반 챗봇기술 국외 현황과 시사점 - [소개](https://www.globalict.kr/country/country_view.do?menuCode=030200&mode=VIEW&knwldNo=138287)
 
 ### 2018
-* (12/27) 인공지능(AI)과 프라이버시의 역설: AI 음성비서를 중심으로 - - [소개](http://www.kisdi.re.kr/kisdi/fp/kr/publication/selectResearch.do?cmd=fpSelectResearch&curPage=1&sMenuType=3&controlNoSer=41&controlNo=14497&langdiv=1)
+* (12/27) 인공지능(AI)과 프라이버시의 역설: AI 음성비서를 중심으로 - - [소개](http://www.kisdi.re.kr/kisdi/fp/kr/publication/selectResearch.do?cmd=fpSelectResearch&curPage=1&sMenuType=3&controlNoSer=41&controlNo=14497&langdiv=1), [파일](http://www.kisdi.re.kr/kisdi/common/download?type=DR&file=1%7C14751)
 * (12/18) [스페셜리포트 2018-18] 미국방연구원 AI 캠페인 '차세대 인공지능(AI NEXT)' - [소개](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=20470&parentSeq=20470), [자료](https://www.nia.or.kr/common/board/Download.do?bcIdx=20470&cbIdx=82618&fileNo=1)
-* (10/25) [KISTEP 기술동향브리프 2018-16] 인공지능(SW) - [소개](https://www.kistep.re.kr/board.es?mid=a10306010000&bid=0031&b_list=10&act=view&list_no=34956&nPage=16&keyField=&orderby=), [파일](https://www.kistep.re.kr/boardDownload.es?bid=0031&list_no=34956&seq=9580) ***
+* (12/10) IITP, ICT RnD 기술로드맵 2023 발표 - [소개](https://www.iitp.kr/kr/1/notice/reportAndClarify/view.it?ArticleIdx=3437&count=true): SW․AI․차세대보안 - [파일](https://www.itfind.or.kr/admin/getFile.htm?identifier=02-004-190220-000003)
+* (10/25) [KISTEP 기술동향브리프 2018-16] 인공지능(SW) - [소개](https://www.kistep.re.kr/board.es?mid=a10306010000&bid=0031&b_list=10&act=view&list_no=34956&nPage=16&keyField=&orderby=), [파일](https://www.kistep.re.kr/boardDownload.es?bid=0031&list_no=34956&seq=9580) *** 
 * (8/17) [D.gov Trend & Future 2018-2] 인공지능 기반 챗봇 서비스의 국내외 동향분석 및 발전전망 - [소개](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=37989&bcIdx=20156&parentSeq=20156), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=20156&cbIdx=37989&fileNo=1)
 * (7/31) [SPRi 이슈리포트 2018-002] 범용 인공지능의 개념과 연구 현황 - [소개](https://spri.kr/posts/view/22231?code=issue_reports), [파일](https://spri.kr/download/21964)
 * (5/31) [KISA Report 2018년 Vol.05] 구글 I/O 2018 : 인공지능의 대중화 외 - [소개](https://www.kisa.or.kr/public/library/IS_View.jsp?mode=view&p_No=158&b_No=158&d_No=345&cPage=&ST=TC&SV=), [파일](https://www.kisa.or.kr/jsp/common/downloadAction.jsp?bno=158&dno=345&fseq=2)
+* (5/25) [4차산업혁명위원회] I-Korea 4.0 실현을 위한 인공지능(AI) R&D 전략 - [소개](https://www.k-ai.or.kr/kr/participate/reference.php?bbs_data=aWR4PTQ4MCZzdGFydFBhZ2U9MTAmbGlzdE5vPTEzJnRhYmxlPWNzX2Jic19kYXRhJmNvZGU9dGFiNV9jMiZzZWFyY2hfaXRlbT0mc2VhcmNoX29yZGVyPQ==%7C%7C&bgu=view), [파일](https://www.4th-ir.go.kr/article/download/39), <img src="https://www.korea.kr/newsWeb/resources/temp/images/000131/01.jpg" width=80%>
 * (4/18) (정책브리프 2018-05) 4차 산업혁명 시대, 우리의 인공지능 현황 - [소개](https://www.itfind.or.kr/publication/regular/periodical/read.do?selectedId=02-001-180419-000001)
 * (3/31) [S&T Market Report 제57호] 인공지능(AI) 플랫폼 기술시장동향보고서 - [소개](https://www.itfind.or.kr/publication/regular/periodical/read.do?selectedId=02-001-180405-000003)
 * (2/26) [스페셜리포트 2018-2] 미 국방연구원 '설명가능 인공지능(XAI)' - [소개](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=19442&parentSeq=19442), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=19442&cbIdx=82618&fileNo=2)
+* (2/5) [SPRi 이슈리포트 2017-010] 중소기업.스타트업의 인공지능 컴퓨팅 인프라 현황과 시사점 - [소개](https://spri.kr/posts/view/21957?code=issue_reports)
+* (1/23) [SPRi 이슈리포트 2017-009] AlphaGo Zero의 인공지능 알고리즘 - [소개](https://spri.kr/posts/view/21955?code=issue_reports)
 
 ----
 ### 중소기업 기술 로드맵
