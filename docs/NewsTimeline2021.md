@@ -1,14 +1,10 @@
 ### May 2021
-
+* (5/17) ‘한국어 자연어 이해 평가 데이터셋(KLUE)’ 공개 (업스테이지, CC-BY-SA 라이선스) - [AITiMES](http://www.aitimes.kr/news/articleView.html?idxno=21043)
 * (5/14) 신뢰할 수 있는 인공지능, 모두가 누릴 수 있는 AI 구현... 정부, 3대 전략 10대 실천과제 제시 - [AITiMES](http://www.aitimes.kr/news/articleView.html?idxno=21024), [첨부파일](http://www.aitimes.kr/news/download.php?subUploadDir=202105/&savefilename=21024_60.zip&filename=%EC%8B%A0%EB%A2%B0%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EA%B5%AC%ED%98%84%20%EC%A0%84%EB%9E%B5.zip&idxno=60)
 * (5/13) 제2차 AI 미래포럼 웨비나 / 인공지능의 기대와 현실 - [youtube](https://www.youtube.com/watch?v=bYm-LKb4ov8)
-  * 1. AI 품질을 SW 관점에서 보다(오순영 한컴인텔리전스)
-  * 2. AI 리터러시: 사회적 격차 해소를 위한 노력(김승일 모두의연구소)
-  * 3. AI가 병원에 가면 의료인이 될 수 있을까? (김휘영 연세대)
-  * 4. 군용 AI 관점에서 본 End-to-End Deep Learning  vs.  Hybrid Learning: Performance or Trust (류봉균 EpiSci)
+  * 1 . AI 품질을 SW 관점에서 보다(오순영 한컴인텔리전스) / 2. AI 리터러시: 사회적 격차 해소를 위한 노력(김승일 모두연) / 3. AI가 병원에 가면 의료인이 될 수 있을까?(김휘영 연세대) / 4. 군용 AI 관점에서 본 End-to-End Deep Learning  vs.  Hybrid Learning: Performance or Trust (류봉균 EpiSci)
 * (5/11) 네이버, 한국어 '초거대 AI 언어 모델’ 국내 최초로 검색 서비스에 상용화 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20990)
-  * 사용자 오타, 맞춤법 오류, 잘못 알고 있는 검색어 입력 시, 올바른 단어로 전환 or 검색 or 검색어 추천 
-  * 3분기내 수정 의견을 제안 + 사용자의 검색 흐름에 따른 맥락을 분석해 다음 검색어를 예측해 추천 기능 추가 예정
+  * 사용자 오타, 맞춤법 오류, 잘못 알고 있는 검색어 입력 시, 올바른 단어로 전환-검색-검색어 추천 / 향후 수정 의견 or 맥락 분석을 토한 다음 검색어 예측 추천
 * (5/11) 모두의연구소-엔비디아, ‘젯슨 AI 교육 프로그램’ - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20992)
   * 젯슨 나노(Jetson Nano) 2GB 개발자 키트가 무료 지원, 엣지 컴퓨팅 디바이스에 AI 기술을 제공
 * (5/10) 네이버-서울대, 초대규모 인공지능 연구센터 설립... GPT-3 능가하는 한국어 기반 AI 목표 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20983)
@@ -38,6 +34,9 @@
 ### Mar. 2021
 * (3/30) 제4회 AI 차세대 컨택센터 컨퍼런스 2021 - [프로그램](https://conference.etnews.com/conf_info.html?uid=178), [Yputube](https://www.youtube.com/watch?v=GvRkqC_ej98&t=1s)
 * (3/17) AI 미래포럼 창립 웨비나 - AI 기술 발전과 한국의 대응 전략, [Webina](https://www.youtube.com/watch?v=4rEL3EL0dcQ), [한국경제](https://www.hankyung.com/it/article/2021031413701)
+  * 기조연설 - 1) AI의 과거, 현재, 그리고 미래(김진형 KAIST) / 2) 글로벌 AI 연구트랜드 - 이홍락(LG AI연구원, CSAI)
+  * 발제 - 1) AI 연구의 최신 동향과 한국의 과제, 2) '연구개발자가 원하는 AI 혁신생태계', 3) 보다 나은 사회를 향한 AI 활용 사례 
+  * 지정토론(주재걸, 정지훈, 이경전), 자유토론(오혜연, 백준호, 김윤이), 종합토론(안현실 소장 외 - 라운드테이블)
 * AI Index 2021 | Stanford HAI (스탠포드 2021년 AI 인덱스 보고서) - [site](https://hai.stanford.edu/research/ai-index-2021)
   * 국내 소개 자료 - [Brunch:스탠포드 2021년 AI 인덱스 보고서](https://brunch.co.kr/@synabreu/110)
 * (3/3) State of AI in 10 Charts - https://hai.stanford.edu/news/state-ai-10-charts
@@ -54,6 +53,7 @@
 
 ### Jan. 2021
 * (1/24) - 구글 AI, 말하기 쓰기 명령에 인간 시각에 대응하고 식별하는 에이전트 오픈 소스 공개- [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20071)
+* (1/13) [한경 CES 웨비나] 9개 AI 대학원장! CES 2021에서 찾는 AI의 미래 - [Webina](https://www.youtube.com/watch?v=bit6lw4NHHw&t=151s)
 * (1/11) AWS Contact Center - [aws.amazon](https://aws.amazon.com/ko/blogs/contact-center/how-contact-centers-grow-customer-trust/)
 * Google AI Blog: Learning to Reason Over Tables from Less Data - [post](https://ai.googleblog.com/2021/01/learning-to-reason-over-tables-from.html)
 * Google AI Blog: Stabilizing Live Speech Translation in Google Translate - [post](https://ai.googleblog.com/2021/01/stabilizing-live-speech-translation-in.html)
