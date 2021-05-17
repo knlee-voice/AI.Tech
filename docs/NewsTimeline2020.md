@@ -30,6 +30,7 @@
 * Google AI Blog: Advanced NLP with Efficient Projection-Based Model Architectures - [post](https://ai.googleblog.com/2020/09/advancing-nlp-with-efficient-projection.html)
   - [PRADO](https://www.aclweb.org/anthology/D19-1506.pdf): Projection Attention Networks for Document Classification On-Device
   - NLP domain-specific knowledge on text segmentation into 1)characters/ 2)word-pieces/ 3)words
+* (9/10) SKT 주관 ai.x2020컨퍼런스 - [온라인 컨퍼런스](https://www.skt.ai/kr/ai_x/index.do), [요약글](https://littlefoxdiary.tistory.com/60)
 
 ### Aug. 2020
 * Google AI Blog: An Analysis of Online Datasets Using Dataset Search - [post](https://ai.googleblog.com/2020/08/an-analysis-of-online-datasets-using.html)
