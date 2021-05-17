@@ -10,14 +10,13 @@
 ### Nov. 2020
 * Google AI Blog: Navigating Recorder Transcripts Easily, with Smart Scrolling - [post](https://ai.googleblog.com/2020/11/navigating-recorder-transcripts-easily.html) 
   * 1) Transcription, 2) Recording Content Visualization via Sound Classification, 3) Suggesting Tags for Titles
-  <img src="https://1.bp.blogspot.com/-l1t1yTS2d_k/Xfpv13ZwhWI/AAAAAAAAFCs/nRo5t7dyo-8ptlpzJRKt2CErq63A7fhngCEwYBhgL/s1600/image4.gif" width=500 height=300>
-  <img src="https://1.bp.blogspot.com/-bvLOwyPPu2M/X71CVk6UwgI/AAAAAAAAG2s/49A0gTIzbbAglSeaYmop_4Y9SvHGihp9QCLcBGAsYHQ/s622/Pipeline.jpg">
+  <img src="https://1.bp.blogspot.com/-l1t1yTS2d_k/Xfpv13ZwhWI/AAAAAAAAFCs/nRo5t7dyo-8ptlpzJRKt2CErq63A7fhngCEwYBhgL/s1600/image4.gif" width=45%>
+  <img src="https://1.bp.blogspot.com/-bvLOwyPPu2M/X71CVk6UwgI/AAAAAAAAG2s/49A0gTIzbbAglSeaYmop_4Y9SvHGihp9QCLcBGAsYHQ/s622/Pipeline.jpg" width=45%>
   
   
 * Google AI Blog: The Language Interpretability Tool (LIT): Interactive Exploration and Analysis of NLP Models - [post](https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html) 
 * Google AI Blog: The Machine Learning Behind Hum to Search - [post](https://ai.googleblog.com/2020/11/the-machine-learning-behind-hum-to.html)
-* Google AI Blog: Improving On-Device Speech Recognition with VoiceFilter-Lite - [post](https://ai.googleblog.com/2020/11/improving-on-device-speech-recognition.html), [youtube](https://www.youtube.com/watch?v=TSd080akKUY)
-  <img src="https://1.bp.blogspot.com/-o9f1-TaQfto/X6wvMcpLjQI/AAAAAAAAGxY/SvjAAFbhJOoa7vcKwlcKIvClgaip-pSWQCLcBGAsYHQ/s768/image5.gif" height=400>
+* Google AI Blog: Improving On-Device Speech Recognition with VoiceFilter-Lite - [post](https://ai.googleblog.com/2020/11/improving-on-device-speech-recognition.html), [youtube](https://www.youtube.com/watch?v=TSd080akKUY), [image](https://1.bp.blogspot.com/-o9f1-TaQfto/X6wvMcpLjQI/AAAAAAAAGxY/SvjAAFbhJOoa7vcKwlcKIvClgaip-pSWQCLcBGAsYHQ/s768/image5.gif)
   
 ### Oct. 2020
 * (10/14) 월간기술동향 | 2021 10대 전략 기술 - [blog](https://blog.ex-em.com/1474)
@@ -37,13 +36,13 @@
 * Google AI Blog: Language-Agnostic BERT Sentence Embedding - [post](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
   * LaBSE(multilingual BERT embedding model) for 109 languages, [LASER](https://research.fb.com/downloads/laser-language-agnostic-sentence-representations/) (facebook), m~USE
 * Google AI Blog: REALM: Integrating Retrieval into Language Representation Models - [post](https://ai.googleblog.com/2020/08/realm-integrating-retrieval-into.html)
-  <img src=="https://1.bp.blogspot.com/-OuZB6r1b-pc/XzRPJYOMNsI/AAAAAAAAGWw/qBKVlzIudt4itmvTrYBtOSJaR1N1MB4OgCLcBGAsYHQ/s1123/image2.png">
+  <img src="https://1.bp.blogspot.com/-OuZB6r1b-pc/XzRPJYOMNsI/AAAAAAAAGWw/qBKVlzIudt4itmvTrYBtOSJaR1N1MB4OgCLcBGAsYHQ/s1123/image2.png" width=60%>
   
 ### Jul. 2020
 * Google AI Blog: Announcing ScaNN: Efficient Vector Similarity Search - [post](https://ai.googleblog.com/2020/07/announcing-scann-efficient-vector.html)
   <img src="https://1.bp.blogspot.com/-Rsymb9XvPOE/Xx8rfRnmTHI/AAAAAAAAGRQ/U2n_bBNXS4IBstYrx2IalrFXufLUvmn2gCLcBGAsYHQ/s1600/ScaNN%2Btom%2Bexport.gif">
 * Google AI Blog: Grounding Natural Language Instructions to Mobile UI Actions - [post](https://ai.googleblog.com/2020/07/grounding-natural-language-instructions.html)
-  <img src="https://1.bp.blogspot.com/-CemiVojz7C0/XwekwEp2UxI/AAAAAAAAGOM/xIAJa9i8DXA7Ev3B6qcx6JcQ7MJ9n0xqgCLcBGAsYHQ/s1600/image2%2B%25281%2529.jpg" width=500> 
+  <img src="https://1.bp.blogspot.com/-CemiVojz7C0/XwekwEp2UxI/AAAAAAAAGOM/xIAJa9i8DXA7Ev3B6qcx6JcQ7MJ9n0xqgCLcBGAsYHQ/s1600/image2%2B%25281%2529.jpg" width=50%> 
 * Google AI Blog: Duality - A New Approach to Reinforcement Learning - [post](https://ai.googleblog.com/2020/07/duality-new-approach-to-reinforcement.html)
 * Google AI Blog: SmartReply for YouTube Creators - [post](https://ai.googleblog.com/2020/07/smartreply-for-youtube-creators.html)
 
@@ -52,11 +51,11 @@
 * Google AI Blog: RepNet: Counting Repetitions in Video - [post](https://ai.googleblog.com/2020/06/repnet-counting-repetitions-in-videos.html)
 * Google AI Blog: Improving Speech Representations and Personalized Models Using Self-Supervision - [post](https://ai.googleblog.com/2020/06/improving-speech-representations-and.html)  
   - While representation learning is commonly used in the text domain (e.g. BERT and ALBERT) and in the images domain (e.g. Inception layers and SimCLR), such approaches are underutilized in the speech domain.
-  <img src="https://1.bp.blogspot.com/--6oDS6ltR24/XuueZaVBtbI/AAAAAAAAGHE/Z_VkeTCVVzceDc_pzyux_anrW3APAa42gCLcBGAsYHQ/s1600/image1%2B%25281%2529.jpg" width=600>
-  <img src="https://1.bp.blogspot.com/-r5DC8qVFIbk/XuvWtrAaJLI/AAAAAAAAGHw/YaZl4CqrbIAAHWQQ3WoX8IsGoKr7AZVCQCLcBGAsYHQ/s1600/Datasets.png" width=600>
+  <img src="https://1.bp.blogspot.com/--6oDS6ltR24/XuueZaVBtbI/AAAAAAAAGHE/Z_VkeTCVVzceDc_pzyux_anrW3APAa42gCLcBGAsYHQ/s1600/image1%2B%25281%2529.jpg" width=60%>
+  <img src="https://1.bp.blogspot.com/-r5DC8qVFIbk/XuvWtrAaJLI/AAAAAAAAGHw/YaZl4CqrbIAAHWQQ3WoX8IsGoKr7AZVCQCLcBGAsYHQ/s1600/Datasets.png" width=60%>
 * Google AI Blog:Extracting Structured Data from Templatic Document - [post](https://ai.googleblog.com/2020/06/extracting-structured-data-from.html)
-  <img src="https://1.bp.blogspot.com/-ZRYMFqoczjo/XuO2Fcr1_2I/AAAAAAAAGFI/qSPKpLQwTCUbUYbJJAMcZJRkFqBcr3q2wCLcBGAsYHQ/s1600/image1.png" width=600>
-  <img src="https://1.bp.blogspot.com/-Zxq4ZnZ4O_w/XuO1pBHCjeI/AAAAAAAAGE8/OE2vCnT2Lr0Sws3Q2n5iqMBmYQmFfl6iACLcBGAsYHQ/s1600/image2.png" width=500> 
+  <img src="https://1.bp.blogspot.com/-ZRYMFqoczjo/XuO2Fcr1_2I/AAAAAAAAGFI/qSPKpLQwTCUbUYbJJAMcZJRkFqBcr3q2wCLcBGAsYHQ/s1600/image1.png" width=60%>
+  <img src="https://1.bp.blogspot.com/-Zxq4ZnZ4O_w/XuO1pBHCjeI/AAAAAAAAGE8/OE2vCnT2Lr0Sws3Q2n5iqMBmYQmFfl6iACLcBGAsYHQ/s1600/image2.png" width=50%> 
 * Google AI Blog: PEGASUS: A State-of-the-Art Model for Abstractive Text Summarization - [post](https://ai.googleblog.com/2020/06/pegasus-state-of-art-model-for.html)
 
 
@@ -65,7 +64,7 @@
 * Google AI Blog: Speeding Up Neural Network Training with Data Echoing - [post](https://ai.googleblog.com/2020/05/speeding-up-neural-network-training.html)
 * GPT-3(OpenAI): Language Models are Few-Shot Learners - [arxiv](https://arxiv.org/abs/2005.14165), [github](https://github.com/openai/gpt-3), [article](https://www.zdnet.com/article/openais-gigantic-gpt-3-hints-at-the-limits-of-language-models-for-ai/)
   * an autoregressive language model with 175 billion parameters, 10x more than any previous non-sparse language model
-  <img src="https://zdnet1.cbsistatic.com/hub/i/r/2020/06/01/1b57a8c3-e280-4aa8-9487-e8149a3b63ea/resize/1200xauto/f6417879baf2750b5ec19e2dc6e1a92b/gpt-3-versus-the-others-may-2020.png" width=800>
+  <img src="https://zdnet1.cbsistatic.com/hub/i/r/2020/06/01/1b57a8c3-e280-4aa8-9487-e8149a3b63ea/resize/1200xauto/f6417879baf2750b5ec19e2dc6e1a92b/gpt-3-versus-the-others-may-2020.png" width=70%>
 * Google AI Blog: Understanding the Shape of Large-Scale Data - [post](https://ai.googleblog.com/2020/05/understanding-shape-of-large-scale-data.html)
 * Google AI Blog: An NLU-Powered Tool to Explore COVID-19 Scientific Literature - [post](https://ai.googleblog.com/2020/05/an-nlu-powered-tool-to-explore-covid-19.html)
 
