@@ -1,15 +1,15 @@
 
 ### 2021
-* (4/19) 인공지능(Artificial Intelligence) 이슈와 국제 표준화 동향 - [안내](https://spri.kr/posts/view/23194?code=industry_trend), [파일](https://spri.kr/download/22786)
+* (4/19) 인공지능(Artificial Intelligence) 이슈와 국제 표준화 동향 - [안내](https://spri.kr/posts/view/23194?code=industry_trend), [파일](https://spri.kr/download/22786)(p.13)
   *  미래AI기술: 사람에 가까운 혹은 넘어서는 AI / 해석 가능한 AI / AI의 학습을 돕는 AI / 새로운 성질의 미디어 데이터로 AI 적용 / 더욱 정교하고 신뢰 가능한 AI 
 * (3/25) [IS-114] 유럽의 인공지능 윤리정책 현황과 시사점 - [안내](https://spri.kr/posts/view/23174?code=issue_reports)
-* (3/18) [D.N.A 플러스 2021-2] NeurIPS 2020을 통해 본 인공지능(AI) 기술 트렌드 - [안내](https://www.aihub.or.kr/node/24015), [PDF파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23153&cbIdx=82618&fileNo=1)
+* (3/18) [DNA플러스 2021-2] NeurIPS 2020을 통해 본 인공지능(AI) 기술 트렌드 - [안내](https://www.aihub.or.kr/node/24015), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23153&cbIdx=82618&fileNo=1)(p.80)
   - ① 1,898편의 NeurIPS 2020 논문 제목을 텍스트 마이닝을 활용하여, 총 6대 트렌드를 도출
   - ② 메타러닝, 연합학습, 자기지도학습, 강화학습, 그래프 기반 딥러닝, 생성적 적대 신경망 기술 트렌드 등 6대 기술 분야 분석
-* (3/3) [IF 2021-3] 데이터 기반 포스트 코로나 이슈 분석과 10대 메가트렌드 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=25932&bcIdx=23065&parentSeq=23065), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23065&cbIdx=25932&fileNo=3)
-* (2/4) 혁신을_이끄는_뉴웨이브__인공지능_스타트업 - [기사](https://www.aitimes.kr/news/articleView.html?idxno=20182), [파일](https://startuprecipe.co.kr/wp-content/uploads/2021/02/%ED%98%81%EC%8B%A0%EC%9D%84_%EC%9D%B4%EB%81%84%EB%8A%94_%EB%89%B4%EC%9B%A8%EC%9D%B4%EB%B8%8C__%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85.pdf)(101p)
-* (2/4) [IF 2021-2] 초대규모 AI 모델(GPT-3)의 부상과 대응 방안 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=25932&bcIdx=23018&parentSeq=23018), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23018&cbIdx=25932&fileNo=1)
-* (1/15) [IF 2021-1] 주목받는 인공지능(AI) 9대 핵심 기술 분석 및 주요 시사점 - [안내](https://www.aihub.or.kr/node/13408), [PDF파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=22921&cbIdx=25932&fileNo=1)
+* (3/3) [IF 2021-3] 데이터 기반 포스트 코로나 이슈 분석과 10대 메가트렌드 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=25932&bcIdx=23065&parentSeq=23065), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23065&cbIdx=25932&fileNo=3)/[pdf](https://aihub.or.kr/sites/default/files/2021-03/%5BIF-2021-3%5D%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B8%B0%EB%B0%98_%ED%8F%AC%EC%8A%A4%ED%8A%B8_%EC%BD%94%EB%A1%9C%EB%82%98_%EC%9D%B4%EC%8A%88_%EB%B6%84%EC%84%9D%EA%B3%BC_10%EB%8C%80_%EB%A9%94%EA%B0%80%ED%8A%B8%EB%A0%8C%EB%93%9C.pdf)(p.35)
+* (2/4) 혁신을_이끄는_뉴웨이브__인공지능_스타트업 - [기사](https://www.aitimes.kr/news/articleView.html?idxno=20182), [파일](https://startuprecipe.co.kr/wp-content/uploads/2021/02/%ED%98%81%EC%8B%A0%EC%9D%84_%EC%9D%B4%EB%81%84%EB%8A%94_%EB%89%B4%EC%9B%A8%EC%9D%B4%EB%B8%8C__%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85.pdf)(p.101)
+* (2/4) [IF 2021-2] 초대규모 AI 모델(GPT-3)의 부상과 대응 방안 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=25932&bcIdx=23018&parentSeq=23018), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23018&cbIdx=25932&fileNo=1)(p.29)
+* (1/15) [IF 2021-1] 주목받는 인공지능(AI) 9대 핵심 기술 분석 및 주요 시사점 - [안내](https://www.aihub.or.kr/node/13408), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=22921&cbIdx=25932&fileNo=1)(p.28)
   - 요약: Forbes, State of AI 2020 등 글로벌 주요 언론, 기업, 인공지능 주요 인사의 인터뷰 내용 기반 
   - 초대규모 모델 GPT-3 “GPT-3의 등장 및 언어모델의 스케일업”
   - 연합학습(Federated Learning) “개인정보가 보호되는 분산 AI 학습”
@@ -22,14 +22,14 @@
   - AutoML “AI도 AI가 만들어 낸다”
 
 ### 2020 
-* (12/31) [IF 2020-10] 세계가 주목하는 인공지능 스타트업 - [안내](https://www.aihub.or.kr/node/14853), [PDF파일](https://www.aihub.or.kr/sites/default/files/2021-02/%5BIT%26FutureStrategy_2020-10%5D_%EC%84%B8%EA%B3%84%EA%B0%80_%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85_%28%EC%B5%9C%EC%A2%85%29.pdf)
+* (12/31) [IF 2020-10] 세계가 주목하는 인공지능 스타트업 - [안내](https://www.aihub.or.kr/node/14853), [PDF](https://www.aihub.or.kr/sites/default/files/2021-02/%5BIT%26FutureStrategy_2020-10%5D_%EC%84%B8%EA%B3%84%EA%B0%80_%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85_%28%EC%B5%9C%EC%A2%85%29.pdf)(p.72)
   - 세계 인공지능 스타트업 TOP 10 / 세계 인공지능 유니콘 TOP 10 / 국내 인공지능 스타트업 TOP 10
 * (12/21) [IITP] 인공지능 기술청사진 2030 2차 년도 보고서 배포 - [공개자료실](https://www.iitp.kr/kr/1/knowledge/openReference/view.it?ArticleIdx=5248&count=true)
   - 인공지능을 21개 소분류로 구분하여 정의, 기술·시장 동향, 프로젝트 현황, R&D 이슈, 기술 완성도, 연도별 R&D 발전전망, R&D 주제를 조사, 분석한 자료로 2년간 추진한 프로젝트
   - 차세대AI 성과홍보 동영상 링크 : https://youtu.be/RBLXcAT6Muc
   - 인공지능 기술청사진 홍보 동영상 링크 : https://youtu.be/Qon-jHsG8X4
   - [보고서:인공지능 기술청사진.zip](https://www.iitp.kr/file/download.it?seq=7494)
-* (12/16) 2020년도 ICT RnD 기술로드맵 2025 보고서 - [자료실](https://www.iitp.kr/kr/1/knowledge/openReference/view.it?ArticleIdx=5239&count=true), 인공지능_SW_자율주행자동차보고서 - [파일](http://iitp.kr/resources/file/201217/4.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_SW_%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EC%9E%90%EB%8F%99%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)
+* (12/16) 2020년도 ICT RnD 기술로드맵 2025 보고서 - [자료실](https://www.iitp.kr/kr/1/knowledge/openReference/view.it?ArticleIdx=5239&count=true), 인공지능_SW_자율주행자동차보고서 - [PDF](http://iitp.kr/resources/file/201217/4.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_SW_%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EC%9E%90%EB%8F%99%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)(p.286)
 * (12/4) [IS-109] 인공지능 고성과 연구의 비결, 기초와 협력 - [안내](https://spri.kr/posts/view/23118?code=issue_reports)
 * (10/29) 이슈리포트(2019-32호) 인공지능산업 생태계 현황과 발전전략 - [안내](https://www.nipa.kr/main/selectBbsNttView.do?key=116&bbsNo=11&nttNo=6937&bbsTy=&searchCtgry=&pageUnit=10)
 * (10/14) [IF 2020-6] AI 스타트업 생태계 혁신을 위한 정책방향 - 국내·외 AI 스타트업 현황분석을 중심으로 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=25932&bcIdx=22721&parentSeq=22721), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=22721&cbIdx=25932&fileNo=1)
@@ -46,8 +46,8 @@
 ### 2019
 * (12/31) [KISDI] 공공·민간 분야의 인공지능(AI) 융합·활용 활성화를 위한 정책방안 연구 - [안내](http://m.kisdi.re.kr/mobile/repo/res_view.m?key1=14751&key2=0&key3=&category=2), 
 * (12/20) [D.N.A 플러스 2019-10] 세계적으로 주목받는 인공지능 스타트업 현황과 비즈니스 모델 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=21730&parentSeq=21730), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=21730&cbIdx=82618&fileNo=1)
-* (12/2) NIPA 이슈리포트(2019-34호) 인공지능 기반 에듀테크 기업 및 서비스 동향 - [안내](https://nipa.kr/main/selectBbsNttView.do?key=116&bbsNo=11&nttNo=7013&bbsTy=&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=3), [파일(195p)](https://nipa.kr/main/downloadBbsFile.do?key=116&bbsNo=11&bbsTy=&atchmnflNo=10861)
-* (10/25) [NIPA 이슈리포트 2019-32호] 인공지능산업 생태계 현황과 발전전략 - [안내](https://www.nipa.kr/main/selectBbsNttView.do?key=116&bbsNo=11&nttNo=6937&bbsTy=&searchCtgry=&pageUnit=10&searchCnd=all&searchKrwd=&pageIndex=1), [PDF파일](https://www.nipa.kr/main/downloadBbsFile.do?key=116&bbsNo=11&bbsTy=&atchmnflNo=10743)
+* (12/2) NIPA 이슈리포트(2019-34호) 인공지능 기반 에듀테크 기업 및 서비스 동향 - [안내](https://nipa.kr/main/selectBbsNttView.do?key=116&bbsNo=11&nttNo=7013&bbsTy=&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=3), [파일](https://nipa.kr/main/downloadBbsFile.do?key=116&bbsNo=11&bbsTy=&atchmnflNo=10861)(p.195)
+* (10/25) [NIPA 이슈리포트 2019-32호] 인공지능산업 생태계 현황과 발전전략 - [안내](https://www.nipa.kr/main/selectBbsNttView.do?key=116&bbsNo=11&nttNo=6937&bbsTy=&searchCtgry=&pageUnit=10&searchCnd=all&searchKrwd=&pageIndex=1), [파일](https://www.nipa.kr/main/downloadBbsFile.do?key=116&bbsNo=11&bbsTy=&atchmnflNo=10743)
   * 내용: AI 기업 성숙화 단계 가이드, ‘AI made in Germany’ 12대 전략 요약 
 * (8/9) [글로벌ICT이슈] 인공지능 기반 챗봇기술 국외 현황과 시사점 - [안내](https://www.globalict.kr/country/country_view.do?menuCode=030200&mode=VIEW&knwldNo=138287)
 
