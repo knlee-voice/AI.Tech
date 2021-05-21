@@ -80,5 +80,7 @@
 
 ### Jan. 2020
 * Google AI Blog: Reformer: The Efficient Transformer - [post](https://ai.googleblog.com/2020/01/reformer-efficient-transformer.html)
-* Google AI Blog: Towards a Conversational Agent that Can Chat About… - [post](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html), 
-"Towards a Human-like Open-Domain Chatbot" - [arxiv](https://arxiv.org/abs/2001.09977)
+* Google AI Blog: Towards a Conversational Agent that Can Chat About… - [post](https://ai.googleblog.com/2020/01/towards-conversational-agent-that-can.html)
+  * "Towards a Human-like Open-Domain Chatbot" - [arxiv](https://arxiv.org/abs/2001.09977)
+  * Human Evaluation Metric: Sensibleness and Specificity Average (SSA): Meena Sensibleness and Specificity Average (SSA) compared with that of humans, Mitsuku, Cleverbot, XiaoIce, and  [DialoGPT](https://arxiv.org/abs/1911.00536). - [Image](https://user-images.githubusercontent.com/16833628/119069934-fe6a5280-ba21-11eb-968b-8d63434a40fb.png)
+
