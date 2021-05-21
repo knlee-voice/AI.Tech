@@ -1,8 +1,8 @@
 ### May 2021
-* (5/18) Google I/O 2021 - [keynote_in_16min](https://www.youtube.com/watch?v=_xLgXIhebxA), [zdnet](https://zdnet.co.kr/view/?no=20210519112226), [keynote_9m](https://www.youtube.com/watch?v=L7c4wS7T_T8)
-  * LaMDA(a next-generation AI for dialogue) - [review](https://techcrunch.com/2021/05/18/googles-lamda-makes-conversations-with-ais-more-conversational/)
+* (5/18) Google I/O 2021 - [keynote_in_16min](https://www.youtube.com/watch?v=_xLgXIhebxA), [zdnet](https://zdnet.co.kr/view/?no=20210519112226), [keynote_9m](https://www.youtube.com/watch?v=L7c4wS7T_T8), [Event recap](https://www.techradar.com/news/google-io-2021-live-blog)
+  * LaMDA(a next-generation AI for dialogue), MUM(Multi-task Unified Model) - [review](https://techcrunch.com/2021/05/18/googles-lamda-makes-conversations-with-ais-more-conversational/), [NLP리뷰](https://jiho-ml.com/google-io-2021/)
 * (5/17) LG, 초거대 인공지능 개발에 1억달러 (6천억개 파라미터 하반기 공개(GPT-3 1750억개)) - [Zdnet](https://zdnet.co.kr/view/?no=20210517091347), [AiTimes](http://www.aitimes.com/news/articleView.html?idxno=138583), [매경](https://www.mk.co.kr/news/business/view/2021/05/476762/)
-* (5/17) ‘한국어 자연어 이해 평가 데이터셋(KLUE)’ 공개 (업스테이지, CC-BY-SA 라이선스) - [AITiMES](http://www.aitimes.kr/news/articleView.html?idxno=21043)
+* (5/17) ‘한국어 자연어 이해 평가 데이터셋(KLUE)’ 공개(CC-BY-SA 라이선스) - [AITiMES](http://www.aitimes.kr/news/articleView.html?idxno=21043), [arxiv](https://arxiv.org/abs/2105.09680), https://klue-benchmark.com/
 * (5/14) 신뢰할 수 있는 인공지능, 모두가 누릴 수 있는 AI 구현... 정부, 3대 전략 10대 실천과제 제시 - [AITiMES](http://www.aitimes.kr/news/articleView.html?idxno=21024), [첨부파일](http://www.aitimes.kr/news/download.php?subUploadDir=202105/&savefilename=21024_60.zip&filename=%EC%8B%A0%EB%A2%B0%ED%95%A0%20%EC%88%98%20%EC%9E%88%EB%8A%94%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EA%B5%AC%ED%98%84%20%EC%A0%84%EB%9E%B5.zip)
 * (5/13) 제2차 AI 미래포럼 웨비나 / 인공지능의 기대와 현실 - [youtube](https://www.youtube.com/watch?v=bYm-LKb4ov8)
   * 1 . AI 품질을 SW 관점에서 보다 /2. AI 리터러시: 사회적 격차 해소를 위한 노력 /3. AI가 병원에 가면 의료인이 될 수 있을까? /4. 군용 AI 관점에서 본 E2E Deep Learning vs. Hybrid Learning: Performance or Trust
