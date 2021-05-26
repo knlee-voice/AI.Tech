@@ -6,6 +6,7 @@
 * (3/18) [DNA플러스 2021-2] NeurIPS 2020을 통해 본 인공지능(AI) 기술 트렌드 - [안내](https://www.aihub.or.kr/node/24015), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23153&cbIdx=82618&fileNo=1)(p.80)
   - ① 1,898편의 NeurIPS 2020 논문 제목을 텍스트 마이닝을 활용하여, 총 6대 트렌드를 도출
   - ② 메타러닝, 연합학습, 자기지도학습, 강화학습, 그래프 기반 딥러닝, 생성적 적대 신경망 기술 트렌드 등 6대 기술 분야 분석
+* (3/11) 디지털정부 해외 최신 정책·기술 브리프 : D.gov & Tech (2021-1호) - [안내](https://aihub.or.kr/node/23709), [파일](https://aihub.or.kr/sites/default/files/2021-03/D.gov%26Tech_2021-1%ED%98%B8_vol.53-1.pdf)
 * (3/3) [IF 2021-3] 데이터 기반 포스트 코로나 이슈 분석과 10대 메가트렌드 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=25932&bcIdx=23065&parentSeq=23065), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23065&cbIdx=25932&fileNo=3)/[pdf](https://aihub.or.kr/sites/default/files/2021-03/%5BIF-2021-3%5D%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B8%B0%EB%B0%98_%ED%8F%AC%EC%8A%A4%ED%8A%B8_%EC%BD%94%EB%A1%9C%EB%82%98_%EC%9D%B4%EC%8A%88_%EB%B6%84%EC%84%9D%EA%B3%BC_10%EB%8C%80_%EB%A9%94%EA%B0%80%ED%8A%B8%EB%A0%8C%EB%93%9C.pdf)(p.35)
 * (2/4) 혁신을_이끄는_뉴웨이브__인공지능_스타트업 - [기사](https://www.aitimes.kr/news/articleView.html?idxno=20182), [파일](https://startuprecipe.co.kr/wp-content/uploads/2021/02/%ED%98%81%EC%8B%A0%EC%9D%84_%EC%9D%B4%EB%81%84%EB%8A%94_%EB%89%B4%EC%9B%A8%EC%9D%B4%EB%B8%8C__%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85.pdf)(p.101)
 * (2/4) [IF 2021-2] 초대규모 AI 모델(GPT-3)의 부상과 대응 방안 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=25932&bcIdx=23018&parentSeq=23018), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23018&cbIdx=25932&fileNo=1)(p.29)
@@ -43,7 +44,8 @@
 * (2/10) TTA 저널 187호 - 인공지능 - [안내](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=187), 인공지능 학습 알고리즘의 동향 - [다운로드](https://www.tta.or.kr/data/reportDown.jsp?news_num=7100)
   * 인공지능의 미래가 인간 중심의 디자인에 초점을 맞춰야 한다는 관점에서 인공지능의 발전 단계를 인공지능 경험(AIX, AI Experience)의 단계라고 명명
 * (1/31) [2020년 Vol.01 KISA Report] CES2020 : 인공지능과 로봇의 만남 등 10편 - [안내](https://www.kisa.or.kr/public/library/IS_View.jsp?mode=view&p_No=158&b_No=158&d_No=368&cPage=&ST=TC&SV=), [파일](https://www.kisa.or.kr/jsp/common/downloadAction.jsp?bno=158&dno=368&fseq=1)
-
+* (1/8) (182호)과학기술_ICT_정책기술동향 - [정책동향](https://www.msit.go.kr/bbs/view.do?sCode=user&mId=101&mPid=100&pageIndex=&bbsSeqNo=80&nttSeqNo=3167223&searchOpt=ALL&searchTxt=), [파일](https://www.bioin.or.kr/board.do?num=304162&cmd=view&bid=policy)
+ 
 ### 2019
 * (12/31) [KISDI] 공공·민간 분야의 인공지능(AI) 융합·활용 활성화를 위한 정책방안 연구 - [안내](http://m.kisdi.re.kr/mobile/repo/res_view.m?key1=14751&key2=0&key3=&category=2), 
 * (12/20) [D.N.A 플러스 2019-10] 세계적으로 주목받는 인공지능 스타트업 현황과 비즈니스 모델 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=21730&parentSeq=21730), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=21730&cbIdx=82618&fileNo=1)
@@ -91,6 +93,8 @@
 * IITP 정보통신기획평가원 - https://www.iitp.kr/main.it
 * 「IT & Future Strategy 보고서」: 21세기 한국사회의 주요 패러다임 변화를 분석하고 이를 토대로 미래 지능화 시대의 주요 이슈를 전망, ICT를 통한 해결방안을 모색하기 위해 한국지능정보사회진흥원(NIA)에서 기획, 발간하는 보고서
 ----
+### AI Hub - AI Trend 
+* https://aihub.or.kr/notice/AI_Trend
 
 ### Gartner 
 * <img src="https://www.ciokorea.com/files/ciokr/2021/01/123.png" width=80%>
@@ -99,6 +103,7 @@
   * [Gartner-top-strategic-technology-trends-for-2021](https://www.gartner.com/smarterwithgartner/gartner-top-strategic-technology-trends-for-2021/), [위디엑스](https://www.wedesignx.com/knowledge/2021-gartner-strategic-technology-trend-top-9), [Image for Hype cycle 2020](https://images-cdn.newscred.com/Zz0xZTMzMGUxNGRlNWQxMWVhYTYyMTBhMTMzNTllZGE5ZA==)
   * (20/12/24) 2021 달라진 가트너 전략 - [koscom](https://newsroom.koscom.co.kr/24720), [파일](https://newsroom.koscom.co.kr/wp-content/uploads/2020/12/koscom-report_201223.pdf), Infographis**
   * (21/01/14) 가트너, 2021년 9대 전략 기술 트렌드 제시 - [sapstoryhub](https://sapstoryhub.co.kr/%EA%B0%80%ED%8A%B8%EB%84%88-2021%EB%85%84-9%EB%8C%80-%EC%A0%84%EB%9E%B5-%EA%B8%B0%EC%88%A0-%ED%8A%B8%EB%A0%8C%EB%93%9C-%EC%A0%9C%EC%8B%9C/)
+  * (20/10/26) 가트너, 2021년 주요 전략기술 발표(BioIN BT동향 2020-22호) - [파일](https://www.bioin.or.kr/InnoDS/data/upload/tech/45D98758-4D8A-5CF8-65E6-653106671933.pdf)
 
 * 2020 가트너 전략
   * Smarter With Gartner - [원문](https://www.gartner.com/smarterwithgartner/gartner-top-10-strategic-technology-trends-for-2020/), [Youtube](https://youtu.be/6HzdOkPPPRU)
