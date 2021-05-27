@@ -16,6 +16,10 @@
 * Transformer
 * Self-supervised Learning
 
+[Conversational AI](./doc/ConvAI.md)
+* Voice Assistant, Smart Speaker
+* AICC(AI Contact Center): Chatbot, Advisor, Voicebot, VOC analytics 
+
 [Voice Technology](./docs/VoiceTechTopics.md)
 * ASR, TTS, Speaker Recognition, Voice Conversion  
   
