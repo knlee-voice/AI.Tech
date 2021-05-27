@@ -52,6 +52,7 @@
 * (4/13) Rethinking AI – Artificial Intelligence - [blog](https://www.analyticsvidhya.com/blog/2021/04/rethinking-ai-artificial-intelligence/)
 * (4/13) 마이크로소프트, 뉘앙스커뮤니케이션 전격 인수! - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20751)
 * (4/7) MLOps Best Practices for Data Scientists - [blog](https://towardsdatascience.com/mlops-practices-for-data-scientists-dbb01be45dd8)
+* (4/7) SKT, 국립국어원과 AI한국어 모델 'GLM' 개발 협력- [AiTimes]( http://www.aitimes.com/news/articleView.html?idxno=137810)
 * (4/2) 한림원, ‘인공지능 시대의 인재 양성’ 주제 - [Youtube](https://www.youtube.com/watch?v=uZxd1GOiLx4), [요약](https://kast.or.kr/kr/space/article.php?bgu=view&bbs_data=aWR4PTE4NDQyJnN0YXJ0UGFnZT0mbGlzdE5vPSZ0YWJsZT0mY29kZT1ib2RvJnNlYXJjaF9pdGVtPSZzZWFyY2hfb3JkZXI9%7C%7C&PHPSESSID=7d61820f8156f3c5399e56195dd56a63)
 * Google AI Blog: Evolving Reinforcement Learning Algorithms - [blog](https://ai.googleblog.com/2021/04/evolving-reinforcement-learning.html)
 
@@ -63,6 +64,7 @@
   * 지정토론(주재걸, 정지훈, 이경전), 자유토론(오혜연, 백준호, 김윤이), 종합토론(안현실 소장 외 - 라운드테이블)
 * AI Index 2021 | Stanford HAI (스탠포드 2021년 AI 인덱스 보고서) - [site](https://hai.stanford.edu/research/ai-index-2021)
   * 국내 소개 자료 - [Brunch:스탠포드 2021년 AI 인덱스 보고서](https://brunch.co.kr/@synabreu/110)
+* (3/14) SKT-카카오 '초거대 AI' 개발 (수백억원 규모 ESG 펀드 공동 조성) - [한경](https://www.hankyung.com/it/article/2021031412241)
 * (3/3) State of AI in 10 Charts - https://hai.stanford.edu/news/state-ai-10-charts
   * 국내 소개 자료 - [HAI가 발표한 10대 AI 차트 2021](https://brunch.co.kr/@synabreu/111)
 * Google AI Blog: Progress and Challenges in Long-Form Open-Domain Question Answering - [post](https://ai.googleblog.com/2021/03/progress-and-challenges-in-long-form.html)
