@@ -1,3 +1,6 @@
+### Jun 2021
+* (6/24) AI·DX SUMMIT KOREA 2021 (전자신문사) - [등록](https://conference.etnews.com/conf_info.html?uid=183)
+ 
 ### May 2021
 * (5/25) NAVER AI NOW 컨퍼런스 - 네이버, '초대규모 AI' 한국어 언어모델 ‘하이퍼클로바’ 공개 - [NAVER AI NOW](https://naver-ai-now.kr/), [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21122)
   - GPT-3보다 6,500배 많은 한국어 데이터 학습(한국어 비중이 97%) / 규모: GPT-3(175B)를 뛰어넘는 204B(2040억 개) 파라미터 
@@ -18,6 +21,7 @@
 * (5/11) 모두의연구소-엔비디아, ‘젯슨 AI 교육 프로그램’ - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20992)
   * 젯슨 나노(Jetson Nano) 2GB 개발자 키트가 무료 지원, 엣지 컴퓨팅 디바이스에 AI 기술을 제공
 * (5/10) 네이버-서울대, 초대규모 인공지능 연구센터 설립... GPT-3 능가하는 한국어 기반 AI 목표 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20983)
+* (5/9) 삼성SDS, AI 기반 지능형 컨택센터 사업 확대: △상담사의 단순, 반복적인 업무 50% 이상 절감 △AI의 고객 문의 유형 실시간 분류 및 답변 추천을 통한 상담 시간 20% 절감 - [뉴스](http://focusmagazine.kr/m/view.php?idx=7710), 
 * (5/7) 2021 NAVER Search Colloquium Global Re:Search - [사이트](http://naversearchconf.naver.com/), [상세소개](https://blog.naver.com/naver_search/222309902298)
 * (5/3 ~ 5/7 UTC) [ICLR 2021](https://iclr.cc/)
   * [10 papers review](https://towardsdatascience.com/iclr-2021-a-selection-of-10-papers-you-shouldnt-miss-888d8b8099dd) - ICLR2020, Vision Transformer(ViT) - [리뷰](https://velog.io/@changdaeoh/Vision-Transformer-Review)
@@ -67,6 +71,7 @@
 
 
 ### Feb. 2021
+* (2/23) 고객 상담·투자 구성 제안까지···은행권 'AI 행원' 도입 물결 - [기사](https://www.seoulfn.com/news/articleView.html?idxno=411417)
 * (2/6) 페이스북AI, 다국어 음성 AI 개발 '8개 언어, 5만시간 오디오 세트' 공개 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20198)
 * (2/4) 빅데이터∙AI 연구에 기여, 데이터 1등 모여 얼라이언스 결성 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20175)
 * Google AI Blog: Lyra: A New Very Low-Bitrate Codec for Speech Compression - [post](https://ai.googleblog.com/2021/02/lyra-new-very-low-bitrate-codec-for.html)
