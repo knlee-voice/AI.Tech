@@ -18,6 +18,7 @@
 * Google AI Blog: Improving On-Device Speech Recognition with VoiceFilter-Lite - [post](https://ai.googleblog.com/2020/11/improving-on-device-speech-recognition.html), [youtube](https://www.youtube.com/watch?v=TSd080akKUY), [image](https://1.bp.blogspot.com/-o9f1-TaQfto/X6wvMcpLjQI/AAAAAAAAGxY/SvjAAFbhJOoa7vcKwlcKIvClgaip-pSWQCLcBGAsYHQ/s768/image5.gif)
   
 ### Oct. 2020
+* (10/29) SK텔레콤, 말로 하는 AI 상담 서비스 ‘보이스봇’ 공개 - [ITWORLD](https://www.itworld.co.kr/news/169974), [로봇신문](https://www.irobotnews.com/news/articleView.html?idxno=22764)
 * (10/14) 월간기술동향 | 2021 10대 전략 기술 - [blog](https://blog.ex-em.com/1474)
   * People centricity (사람 중심) / Location independence (위치 독립성) / Resilient delivery (탄력적인 전달) / Combinatorial innovation (조합적 혁신)
 * (10/13) SK텔레콤, AWS 클라우드 기반 '스마트 컨택센터' 상용화 - 종량제(Pay Per Use)서비스, [전자신문](https://www.etnews.com/20201013000030) 
