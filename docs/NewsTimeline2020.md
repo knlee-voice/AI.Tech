@@ -6,14 +6,13 @@
 * Google AI Blog: Privacy Considerations in Large Language Models - [post](https://ai.googleblog.com/2020/12/privacy-considerations-in-large.html)
 * Google AI Blog: Using AutoML for Time Series Forecasting - [post](https://ai.googleblog.com/2020/12/using-automl-for-time-series-forecasting.html) 
   <img src="https://1.bp.blogspot.com/-5VIKGwKurE4/X8p0t96KlzI/AAAAAAAAG3w/R_mfc8UOYG8tSbn0RjvdNhS8z9RPYxxZwCLcBGAsYHQ/s1999/image2.png" width=700>
+* Selvy블로그: AI 고객센터 상담 - [소개](https://www.selvasai.com/news/?q=YToxOntzOjEyOiJrZXl3b3JkX3R5cGUiO3M6MzoiYWxsIjt9&bmode=view&idx=5570964&t=board)
 
 ### Nov. 2020
 * Google AI Blog: Navigating Recorder Transcripts Easily, with Smart Scrolling - [post](https://ai.googleblog.com/2020/11/navigating-recorder-transcripts-easily.html) 
   * 1) Transcription, 2) Recording Content Visualization via Sound Classification, 3) Suggesting Tags for Titles
   <img src="https://1.bp.blogspot.com/-l1t1yTS2d_k/Xfpv13ZwhWI/AAAAAAAAFCs/nRo5t7dyo-8ptlpzJRKt2CErq63A7fhngCEwYBhgL/s1600/image4.gif" width=45%>
   <img src="https://1.bp.blogspot.com/-bvLOwyPPu2M/X71CVk6UwgI/AAAAAAAAG2s/49A0gTIzbbAglSeaYmop_4Y9SvHGihp9QCLcBGAsYHQ/s622/Pipeline.jpg" width=45%>
-  
-  
 * Google AI Blog: The Language Interpretability Tool (LIT): Interactive Exploration and Analysis of NLP Models - [post](https://ai.googleblog.com/2020/11/the-language-interpretability-tool-lit.html) 
 * Google AI Blog: The Machine Learning Behind Hum to Search - [post](https://ai.googleblog.com/2020/11/the-machine-learning-behind-hum-to.html)
 * Google AI Blog: Improving On-Device Speech Recognition with VoiceFilter-Lite - [post](https://ai.googleblog.com/2020/11/improving-on-device-speech-recognition.html), [youtube](https://www.youtube.com/watch?v=TSd080akKUY), [image](https://1.bp.blogspot.com/-o9f1-TaQfto/X6wvMcpLjQI/AAAAAAAAGxY/SvjAAFbhJOoa7vcKwlcKIvClgaip-pSWQCLcBGAsYHQ/s768/image5.gif)
@@ -21,6 +20,7 @@
 ### Oct. 2020
 * (10/14) 월간기술동향 | 2021 10대 전략 기술 - [blog](https://blog.ex-em.com/1474)
   * People centricity (사람 중심) / Location independence (위치 독립성) / Resilient delivery (탄력적인 전달) / Combinatorial innovation (조합적 혁신)
+* (10/13) SK텔레콤, AWS 클라우드 기반 '스마트 컨택센터' 상용화 - 종량제(Pay Per Use)서비스, [전자신문](https://www.etnews.com/20201013000030) 
 * Google AI Blog: Rethinking Attention with Performers - [post](https://ai.googleblog.com/2020/10/rethinking-attention-with-performers.html)
 * Google AI blog: Audiovisual Speech Enhancement in YouTube Stories - [post](https://ai.googleblog.com/2020/10/audiovisual-speech-enhancement-in.html)
   - selfie videos by automatically enhancing their voices and reducing background noise.
