@@ -33,6 +33,8 @@
   - [보고서:인공지능 기술청사진.zip](https://www.iitp.kr/file/download.it?seq=7494)
 * (12/16) 2020년도 ICT RnD 기술로드맵 2025 보고서 - [자료실](https://www.iitp.kr/kr/1/knowledge/openReference/view.it?ArticleIdx=5239&count=true), 인공지능_SW_자율주행자동차보고서 - [PDF](http://iitp.kr/resources/file/201217/4.%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_SW_%EC%9E%90%EC%9C%A8%EC%A3%BC%ED%96%89%EC%9E%90%EB%8F%99%EC%B0%A8%EB%B3%B4%EA%B3%A0%EC%84%9C.pdf)(p.286)
 * (12/4) [IS-109] 인공지능 고성과 연구의 비결, 기초와 협력 - [안내](https://spri.kr/posts/view/23118?code=issue_reports)
+* (10/29) AI 국가 경쟁력 확보를 위한 AI 데이터 생태계 조성방안 연구 - [안내](https://kpc4ir.kaist.ac.kr/index.php?document_srl=3160&mid=KPC4IR_Reports), [파일](https://kpc4ir.kaist.ac.kr/?module=file&act=procFileDownload&file_srl=3161&sid=4a00d5fd6f0bae95b740414837c0d786&module_srl=2313)
+  * 내용: 데이터 처리 법적 문제, 기계학습 과정에서 저작권 침해 문제 포함 / 전문가 대상 설문조사 결과
 * (10/29) 이슈리포트(2019-32호) 인공지능산업 생태계 현황과 발전전략 - [안내](https://www.nipa.kr/main/selectBbsNttView.do?key=116&bbsNo=11&nttNo=6937&bbsTy=&searchCtgry=&pageUnit=10)
 * (10/14) [IF 2020-6] AI 스타트업 생태계 혁신을 위한 정책방향 - 국내·외 AI 스타트업 현황분석을 중심으로 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=25932&bcIdx=22721&parentSeq=22721), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=22721&cbIdx=25932&fileNo=1)
 * (8/10) [IF 2020-5] AI 활성화를 위한 3대 자원 지원 전략 - 데이터, 알고리즘, 컴퓨팅 파워 - [안내](https://aihub.or.kr/blog/10709), [파일](https://aihub.or.kr/sites/default/files/2020-11/%5BIF%202020-5%5D%20AI%20%ED%99%9C%EC%84%B1%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%203%EB%8C%80%20%EC%9E%90%EC%9B%90%20%EC%A7%80%EC%9B%90%20%EC%A0%84%EB%9E%B5.pdf)(31p)
