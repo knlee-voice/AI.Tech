@@ -1,5 +1,6 @@
 
 ### 2021
+* (5/26) [IF 2021-5] 인공지능 플랫폼 글로벌 선도기업 분석 - [안내](https://signalm.sedaily.com/ReportView/3518), [안내](https://www.itfind.or.kr/publication/regular/periodical/read.do?selectedId=02-001-210527-000004&pageSize=40&pageIndex=0), [파일](https://signalm.sedaily.com/Common/FileDownload?fileName=[IF%EB%B3%B4%EA%B3%A0%EC%84%9C]_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%ED%94%8C%EB%9E%AB%ED%8F%BC_%EA%B8%80%EB%A1%9C%EB%B2%8C_%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85_%EB%B6%84%EC%84%9D.pdf&fullPath=/Service/Branch/Signal/Report/2021/05/27/[IF%EB%B3%B4%EA%B3%A0%EC%84%9C]_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%ED%94%8C%EB%9E%AB%ED%8F%BC_%EA%B8%80%EB%A1%9C%EB%B2%8C_%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85_%EB%B6%84%EC%84%9D.pdf)
 * (4/19) 인공지능(Artificial Intelligence) 이슈와 국제 표준화 동향 - [안내](https://spri.kr/posts/view/23194?code=industry_trend), [파일](https://spri.kr/download/22786)(p.13)
   *  미래AI기술: 사람에 가까운 혹은 넘어서는 AI / 해석 가능한 AI / AI의 학습을 돕는 AI / 새로운 성질의 미디어 데이터로 AI 적용 / 더욱 정교하고 신뢰 가능한 AI 
 * (3/25) [IS-114] 유럽의 인공지능 윤리정책 현황과 시사점 - [안내](https://spri.kr/posts/view/23174?code=issue_reports)
@@ -70,6 +71,10 @@
 * (2/26) [스페셜리포트 2018-2] 미 국방연구원 '설명가능 인공지능(XAI)' - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=19442&parentSeq=19442), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=19442&cbIdx=82618&fileNo=2)
 * (2/5) [SPRi 이슈리포트 2017-010] 중소기업.스타트업의 인공지능 컴퓨팅 인프라 현황과 시사점 - [안내](https://spri.kr/posts/view/21957?code=issue_reports)
 * (1/23) [SPRi 이슈리포트 2017-009] AlphaGo Zero의 인공지능 알고리즘 - [안내](https://spri.kr/posts/view/21955?code=issue_reports)
+
+### 2017
+* (6/23) 해외 ICT R&D 정책동향 (2017-01) 일본의 인공지능(AI) 정책 동향과 실행전략 - [안내](https://www.iitp.kr/kr/1/knowledge/periodicalViewD.it?searClassCode=B_ITA_24&masterCode=publication&identifier=02-001-170623-000015), [파일](https://www.itfind.or.kr/admin/getFile2.htm?identifier=02-001-170623-000015)
+  * AI 3대 분야별 로드맵 (단계별) 
 
 ----
 
