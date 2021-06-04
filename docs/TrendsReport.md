@@ -25,6 +25,7 @@
   - AutoML “AI도 AI가 만들어 낸다”
 
 ### 2020 
+* [KDI 경제정보센터: 2020-03 AI편] 해외동향 - 불붙은 AI 기술패권 전쟁, 누가 AI 경쟁에서 이기고 있는가? - [안내](https://eiec.kdi.re.kr/publish/reviewView.do?ridx=4&idx=39&fcode=000020003600003), [파일](https://eiec.kdi.re.kr/publish/reviewCallDownload.do?fidx=23063&ridx=4)
 * (12/31) [IF 2020-10] 세계가 주목하는 인공지능 스타트업 - [안내](https://www.aihub.or.kr/node/14853), [PDF](https://www.aihub.or.kr/sites/default/files/2021-02/%5BIT%26FutureStrategy_2020-10%5D_%EC%84%B8%EA%B3%84%EA%B0%80_%EC%A3%BC%EB%AA%A9%ED%95%98%EB%8A%94_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85_%28%EC%B5%9C%EC%A2%85%29.pdf)(p.72)
   - 세계 인공지능 스타트업 TOP 10 / 세계 인공지능 유니콘 TOP 10 / 국내 인공지능 스타트업 TOP 10
 * (12/21) [IITP] 인공지능 기술청사진 2030 2차 년도 보고서 배포 - [공개자료실](https://www.iitp.kr/kr/1/knowledge/openReference/view.it?ArticleIdx=5248&count=true)
