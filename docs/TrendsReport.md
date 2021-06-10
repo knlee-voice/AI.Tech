@@ -44,6 +44,7 @@
 * (8/25) [글로벌ICT이슈] 유럽연합(EU)의 인공지능(AI) 백서 - [안내](https://www.itfind.or.kr/publication/regular/periodical/read.do?selectedId=02-001-200910-000005&selectedCategory=E_15_06&selectedGroupId=E_15&pageSize=50&pageIndex=0), [PDF파일](https://aihub.or.kr/sites/default/files/2020-05/20200508%20EU%20%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5%20%EB%B0%B1%EC%84%9C%EC%99%80%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EC%A0%84%EB%9E%B5.pdf)
 * (8/7) [IS-100] 인공지능 연구지수 ( AI Research Index ) : 세계 최고의 인공지능 대학은? - [안내](https://spri.kr/posts/view/23032?code=issue_reports), [파일](https://spri.kr/download/22620), [기사](https://www.sciencetimes.co.kr/news/%EC%84%B8%EA%B3%84-%EC%B5%9C%EA%B3%A0%EC%9D%98-%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5-%EB%8C%80%ED%95%99%EC%9D%80/)
 * (5/21) [IF 2020-2] 데이터로 살펴보는 글로벌 인공지능 수준과 시사점 - 스탠포드 AI Index 2019를 중심으로 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=25932&bcIdx=22444&parentSeq=22444), [안내2](https://www.itfind.or.kr/publication/regular/periodical/read.do?selectedId=02-001-200714-000005), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=22444&cbIdx=25932&fileNo=1)(136p)
+* (4/1) 인공지능 기술청사진 2030 배포 - [안내](https://www.iitp.kr/kr/1/knowledge/openReference/view.it), [zip파일](https://www.iitp.kr/file/download.it?seq=6993)
 * (3/10) [스페셜리포트 2020-3] 미국 내 인공지능 연구에 대한 향후 20년간 커뮤니티 로드맵 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=21857&parentSeq=21857), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=21857&cbIdx=82618&fileNo=1)
 * (2/10) TTA 저널 187호 - 인공지능 - [안내](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=187), 인공지능 학습 알고리즘의 동향 - [다운로드](https://www.tta.or.kr/data/reportDown.jsp?news_num=7100)
   * 인공지능의 미래가 인간 중심의 디자인에 초점을 맞춰야 한다는 관점에서 인공지능의 발전 단계를 인공지능 경험(AIX, AI Experience)의 단계라고 명명
@@ -78,6 +79,13 @@
   * AI 3대 분야별 로드맵 (단계별) 
 
 ----
+### [특별기획] 인공지능 기술 청사진 2030 연재 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=136737)
+  * 깊이성장 - ① [자기지도학습](http://www.aitimes.com/news/articleView.html?idxno=136140), ② [메타학습](http://www.aitimes.com/news/articleView.html?idxno=136179), ③ [강화학습](http://www.aitimes.com/news/articleView.html?idxno=136181)
+  * 범위성장 - ④ [지식상식기반추론](http://www.aitimes.com/news/articleView.html?idxno=135941), ⑤ [실세계변화ㆍ절차적 지식](http://www.aitimes.com/news/articleView.html?idxno=136681)
+  * 신뢰성   - ⑥ [설명 가능한 AI](http://www.aitimes.com/news/articleView.html?idxno=136219), ⑦ [견고한 AI](http://www.aitimes.com/news/articleView.html?idxno=136220), ⑧ [공정한 AI](http://www.aitimes.com/news/articleView.html?idxno=136224)
+  * 소통감성 - ⑨ [단일감각지능고도화-시각지능](http://www.aitimes.com/news/articleView.html?idxno=136392), ⑩ [단일감각지능고도화-언어청각지능](http://www.aitimes.com/news/articleView.html?idxno=136393), ⑪ [복합대화 기술](http://www.aitimes.com/news/articleView.html?idxno=136394), ⑫ [에이전트 간 협업기술](http://www.aitimes.com/news/articleView.html?idxno=136395)
+  * 공감     - ⑬ [다중감각인지](http://www.aitimes.com/news/articleView.html?idxno=135952), ⑭ [행동지능](http://www.aitimes.com/news/articleView.html?idxno=136684), ⑮ [교감형 AI](http://www.aitimes.com/news/articleView.html?idxno=136689)
+  * 지속성장 - ⑯ [학습역량 진단 및 개선](http://www.aitimes.com/news/articleView.html?idxno=136713), ⑰ [평생학습](http://www.aitimes.com/news/articleView.html?idxno=136714), ⑱ [뇌인지 발달모사](http://www.aitimes.com/news/articleView.html?idxno=136716), ⑲ [연합학습](http://www.aitimes.com/news/articleView.html?idxno=136724), ⑳ [모델경량화](http://www.aitimes.com/news/articleView.html?idxno=136725)
 
 ### 중소기업 기술 로드맵
 * (2021~2023) 대분류: 인공지능 - [안내](http://smroadmap.smtech.go.kr/s0401/index/search_year/2020)
@@ -93,7 +101,6 @@
   * 인간·인공지능 협업 시스템 - [소개](http://smroadmap.smtech.go.kr/s0401/view/search_year/2018/id/1992)
   * 공공서비스 특화 챗봇 시스템 - [소개](http://smroadmap.smtech.go.kr/s0401/view/search_year/2018/id/1996)
   * 화자 확인 시스템 - [소개](http://smroadmap.smtech.go.kr/s0401/view/search_year/2018/id/1994)
-
 ----
 
 * SPRI 소프트웨어정책연구소 - https://spri.kr/
