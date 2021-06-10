@@ -1,7 +1,12 @@
 ### Jun 2021
 * (6/24) AI·DX SUMMIT KOREA 2021 (전자신문사) - [등록](https://conference.etnews.com/conf_info.html?uid=183)
- 
+* (6/5) 페이스북 AI, 한국어 포함한 전 세계 101개국 언어, 다대다 데이터 세트 '플로레스-101' 오픈소스 공개 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21240)
+  *  다국어 번역 AI 모델 M2M-100([git](https://github.com/pytorch/fairseq/tree/master/examples/m2m_100?fbclid=IwAR13Qms-_259kjU-7NhW0eqyLEOzADUxnbn2ea75G1tFqzhMEaKl76ixLaM)) / FLORES-101 Evaluation Benchmark([git](https://github.com/facebookresearch/flores?fbclid=IwAR0qvXY6LMM5kB3qK8n-8YRfxq_Y-DEBU1f_WWWIAeaPKy826AGNWEMnUfU))
+* (6/3) 단발성 정부 AI 정책..."지속가능 AI 모델 구축에 한계" - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=138592) 
+* <img src="https://cdn.aitimes.com/news/photo/202105/138592_138583_531.png" width=60%>
+
 ### May 2021
+* (5/31) '새로운 AI 로봇 학습법으로 웨어러블 재활로봇 혁신'...서울대 조규진 교수 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=138758)
 * (5/25) NAVER AI NOW 컨퍼런스 - 네이버, '초대규모 AI' 한국어 언어모델 ‘하이퍼클로바’ 공개 - [NAVER AI NOW](https://naver-ai-now.kr/), [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21122), [브런치](https://brunch.co.kr/@louis1st/430)
   - GPT-3보다 6,500배 많은 한국어 데이터 학습(한국어 비중 97%) / 규모: GPT-3(175B)를 뛰어넘는 204B(2040억 개) 파라미터 
 * (5/24) 네이버, KAIST AI 대학원과 초대규모 AI 개발 위한 공동연구센터 설립 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21104)
