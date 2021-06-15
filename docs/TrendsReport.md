@@ -6,7 +6,8 @@
 * (6/3) 2020 인공지능 산업실태조사 보고서 - [안내](https://spri.kr/posts/view/23214?code=research), [안내](https://signalm.sedaily.com/ReportView/3544), [파일](https://spri.kr/download/22805)
   * 메모: 직무분류- 인공지능 프로젝트 관리자, 컨설턴트, 개발자(아키텍트, SW엔지니어, HW엔지니어, 서비스엔지니어, 기타), 운영관리자, 데이터 가공처리 담당자, 데이터 분석가 
   * 그림 및 예시 - AI 기술 구현 구성 요소, 컴퓨팅 인프라 현황 (GPU 등) 
-* (5/26) [IF 2021-5] 인공지능 플랫폼 글로벌 선도기업 분석 - [안내](https://signalm.sedaily.com/ReportView/3518), [안내](https://www.itfind.or.kr/publication/regular/periodical/read.do?selectedId=02-001-210527-000004&pageSize=40&pageIndex=0), [파일](https://signalm.sedaily.com/Common/FileDownload?fileName=[IF%EB%B3%B4%EA%B3%A0%EC%84%9C]_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%ED%94%8C%EB%9E%AB%ED%8F%BC_%EA%B8%80%EB%A1%9C%EB%B2%8C_%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85_%EB%B6%84%EC%84%9D.pdf&fullPath=/Service/Branch/Signal/Report/2021/05/27/[IF%EB%B3%B4%EA%B3%A0%EC%84%9C]_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%ED%94%8C%EB%9E%AB%ED%8F%BC_%EA%B8%80%EB%A1%9C%EB%B2%8C_%EC%84%A0%EB%8F%84%EA%B8%B0%EC%97%85_%EB%B6%84%EC%84%9D.pdf)
+* (5/26) [IF 2021-5] 인공지능 플랫폼 글로벌 선도기업 분석 - [안내](https://signalm.sedaily.com/ReportView/3518), [안내](https://www.itfind.or.kr/publication/regular/periodical/read.do?selectedId=02-001-210527-000004), [파일](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=25932&bcIdx=23426&parentSeq=23426)
+* (5/14) VRㆍAR 디바이스 제작ㆍ이용 가이드라인(2021) - [안내](https://signalm.sedaily.com/ReportView/3477), [파일](https://www.nipa.kr/main/downloadBbsFile.do?key=112&bbsNo=8&bbsTy=&atchmnflNo=12888)
 * (4/19) 인공지능(Artificial Intelligence) 이슈와 국제 표준화 동향 - [안내](https://spri.kr/posts/view/23194?code=industry_trend), [파일](https://spri.kr/download/22786)(p.13)
   *  미래AI기술: 사람에 가까운 혹은 넘어서는 AI / 해석 가능한 AI / AI의 학습을 돕는 AI / 새로운 성질의 미디어 데이터로 AI 적용 / 더욱 정교하고 신뢰 가능한 AI 
 * (3/25) [IS-114] 유럽의 인공지능 윤리정책 현황과 시사점 - [안내](https://spri.kr/posts/view/23174?code=issue_reports)
