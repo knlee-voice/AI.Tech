@@ -16,7 +16,7 @@
 * Transformer
 * Self-supervised Learning
 
-[Conversational AI](./doc/ConvAI.md)
+[Conversational AI](./docs/ConvAI.md)
 * Voice Assistant, Smart Speaker
 * AICC(AI Contact Center): Chatbot, Advisor, Voicebot, VOC analytics 
 
@@ -27,6 +27,9 @@
 * SoX, librosa, WaveSurffer ... 
   
 [Open Lecture / Course / Ebook / Blogs](./docs/OpenCourseBook.md)
+
+[AI Certification](./docs/CertiAI.md)
+* Cloud Certification (AWS, GGP, MS Azure) 
 
 [Data Sets](./docs/Datasets.md)
 * AudioSet, Open SLR, AI Hub ... 
