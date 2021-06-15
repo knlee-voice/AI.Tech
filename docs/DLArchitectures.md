@@ -1,9 +1,12 @@
 # Deep Learning Architectures
 
-* [A BRIEF HISTORY OF NEURAL NETWORK ARCHITECTURES](https://www.topbots.com/a-brief-history-of-neural-network-architectures/)
-* [Deep Learning Architectures - UiO](https://www.uio.no/studier/emner/matnat/ifi/INF5860/v17/timeplan/architectures-in-deep-learning.pdf)
-* [A State-of-the-Art Survey on Deep Learning Theory and Architectures](https://www.mdpi.com/2079-9292/8/3/292/pdf)
-
+* Deep Learning Architectures (Univ. of OSLO) - [pdf](https://www.uio.no/studier/emner/matnat/ifi/INF5860/v17/timeplan/architectures-in-deep-learning.pdf)
+* MDPI Review: A State-of-the-Art Survey on Deep Learning Theory and Architectures(2019) - [pdf](https://www.mdpi.com/2079-9292/8/3/292/pdf)
+* A BRIEF HISTORY OF NEURAL NETWORK ARCHITECTURES(2017) - [topbots.com](https://www.topbots.com/a-brief-history-of-neural-network-architectures/)
+* O'REILLY::Deep Learning(by Patterson&Gibson) Major Architectures of Deep Networks - [link](https://www.oreilly.com/library/view/deep-learning/9781491924570/ch04.html)
+* Nvida:: deep-learning-nutshell-history-training - [link](https://developer.nvidia.com/blog/deep-learning-nutshell-history-training/)
+* IBM:: Article-Deep learning architectures(update 2021, 2017) - [link](https://developer.ibm.com/technologies/artificial-intelligence/articles/cc-machine-learning-deep-learning-architectures/)
+* A Brief History of Neural Nets and Deep Learning(2020) - [link](https://www.skynettoday.com/overviews/neural-net-history)
 ---
 
 * LeNet-5 (1998)
@@ -33,18 +36,14 @@
 
 * Transformer: Attention Is All You Need (2017)
   - [medium: Transformer Architecture: Attention Is All You Need](https://medium.com/@adityathiruvengadam/transformer-architecture-attention-is-all-you-need-aeccd9f50d09)
-  - ![Transformer - model architecture](https://miro.medium.com/max/626/1*JuGZaZcRtmrtCEPY8qfsUw.png)
-
+<img src="https://miro.medium.com/max/626/1*JuGZaZcRtmrtCEPY8qfsUw.png" width=60%>
 
 * iconic LSTM 
-![http://fastml.com/deep-learning-architecture-diagrams](http://fastml.com/images/deep_learning_diagrams/lstm.png)
+<img src="http://fastml.com/images/deep_learning_diagrams/lstm.png" width=60%>
 
 
 __CNNs Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more …__
-https://medium.com/@siddharthdas_32104/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5
+[medium](https://medium.com/@siddharthdas_32104/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
 
 __How to draw Deep learning network architecture diagrams?__ 
-* Deep learning architecture diagrams
-  * http://fastml.com/deep-learning-architecture-diagrams
-
-* https://www.ibm.com/developerworks/library/cc-machine-learning-deep-learning-architectures/index.html
+* Deep learning architecture diagrams(2016) - [site](http://fastml.com/deep-learning-architecture-diagrams)
