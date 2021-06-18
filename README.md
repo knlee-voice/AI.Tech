@@ -28,6 +28,7 @@
   * CS 20, CS231n, CS224n, ... 
 * [Paper Review Group](./docs/ReviewGroup.md)
   * PR12, jiphyeonjeon, ... 
+* [Talk & Keynote](./docs/TechTalk.md)
 * [Ebook / Blogs](./docs/OpenCourseBook.md) 
 
 [ETC.]
