@@ -24,15 +24,12 @@
   * Cloud Certification (AWS, GGP, MS Azure) 
 * [Open Data Sets](./docs/Datasets.md)
   * AudioSet, Open SLR, AI Hub ... 
-* [Open Course Ware(Online Program)](./docs/OCW.md)
+* [Open Course Ware](./docs/OCW.md) (Online Program)
   * CS 20, CS231n, CS224n, ... 
 * [Paper Review Group](./docs/ReviewGroup.md)
   * PR12, jiphyeonjeon, ... 
 * [Talk & Keynote](./docs/TechTalk.md)
 * [Ebook / Blogs](./docs/OpenCourseBook.md) 
 
-[ETC.]
---- 
-* [Speech Processing Toolkit](./docs/SpeechProcToolkit.md)
-  - SoX, librosa, WaveSurffer ...  
 * [Explore github.com](./docs/git_collection.md)
+
