@@ -1,15 +1,3 @@
-### Open Lecture/Courses
-
-| Name | URL | Team | Year |
-| :-------- | :--------: | --------: | --------: |
-| CS 20: Tensorflow for Deep Learning Research | http://cs20si.stanford.edu | Manning | 2018 |
-| CS224n: Natural Language Processing with Deep Learning | http://cs224n.stanford.edu | Socher | 2018 |
-| CS224n: Natural Language Processing with Deep Learning | https://github.com/stanfordnlp/cs224n-winter17-notes | | 2017 |
-| Oxford Deep NLP 2017 course | https://github.com/oxford-cs-deepnlp-2017/lectures | Blunsom | 2017 |
-| CS231n: Convolutional Neural Networks for Visual Recognition. | http://cs231n.github.io , http://cs231n.github.io/convolutional-networks | Karpathy | 2017 | 
-
-
-
 ### Free Online Book
 Name & URL 
 * Voice Application Development for Android - [packt pub](https://www.packtpub.com/application-development/voice-application-development-android), [code](https://androidspeechbook.wordpress.com), [github](https://github.com/zoraidacallejas/sandra)
