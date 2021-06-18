@@ -31,5 +31,10 @@
 * [Talk & Keynote](./docs/TechTalk.md)
 * [Ebook / Blogs](./docs/OpenCourseBook.md) 
 
+[ETC.]
+---
 * [Explore github.com](./docs/git_collection.md)
+* [Speech Processing Toolkit](./docs/SpeechProcToolkit.md)
+  - SoX, librosa, WaveSurffer ...  
+
 
