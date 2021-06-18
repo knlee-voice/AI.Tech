@@ -1,38 +1,35 @@
-## AI.Tech 
-[News Timelines 2021](./docs/NewsTimeline2021.md)  
-* [2021](./docs/NewsTimeline2021.md), [2020](./docs/NewsTimeline2020.md), [2019](./docs/NewsTimeline2019.md), [2018](./docs/NewsTimeline2018.md), [2017](./docs/NewsTimeline2017.md), [2016](NewsTimeline2016.md)
-* (Articles, News, Tech blogs, etc.)
+# AI.Tech 
+[AI News Timelines]
+--- 
+* [News 2021](./docs/NewsTimeline2021.md) : `(News, Articles, Riviews, etc.)`
+* [News 2020](./docs/NewsTimeline2020.md)
+* [News 2019](./docs/NewsTimeline2019.md), [News 2018](./docs/NewsTimeline2018.md), [News 2017](./docs/NewsTimeline2017.md), [News 2016](NewsTimeline2016.md)
 
-[AI Trends Report](./docs/TrendsReport.md)
-* Reports & News: AI Hub, IITP 정책보고서 등 
 
-[Deep Learning Architecture](./docs/DLArchitectures.md)
-* LeNet, AlexNet, VGG, LesNet, DensNet, 
-* Graph Convolution Network 
+[AI Trends Report]
+---
+* [AI Trends Report](./docs/TrendsReport.md) : `AI Hub, IITP 정책보고서 등` 
 
-[General Topics & Trends](./docs/TrendsTopics.md)
-* Word Embedding 
-* Generative Models
-* Transformer
-* Self-supervised Learning
+[Everything You Need to Know about AI] 
+---
+* [Deep Learning Architecture](./docs/DLArchitectures.md)
+  * LeNet, AlexNet, VGG, LesNet, DensNet, Graph Convolution Network ... 
+* [General Topics & Trends](./docs/TrendsTopics.md)
+  * Word Embedding, Generative Models, Transformer, Self-supervised Learning
+* [Conversational AI](./docs/ConvAI.md)
+  * Voice Assistant, Smart Speaker, 
+  * AICC(AI Contact Center): Chatbot, Advisor, Voicebot, VOC analytics
+* [Voice Technology](./docs/VoiceTechTopics.md)
+  * ASR, TTS, Speaker Recognition, Voice Conversion  
+* [AI Certification](./docs/CertiAI.md)
+  * Cloud Certification (AWS, GGP, MS Azure) 
+* [Open Data Sets](./docs/Datasets.md)
+  * AudioSet, Open SLR, AI Hub ... 
+* [Open Course Ware(Online Program)](./docs/OCW.md)
+* [Ebook / Blogs](./docs/OpenCourseBook.md) 
 
-[Conversational AI](./docs/ConvAI.md)
-* Voice Assistant, Smart Speaker
-* AICC(AI Contact Center): Chatbot, Advisor, Voicebot, VOC analytics 
-
-[Voice Technology](./docs/VoiceTechTopics.md)
-* ASR, TTS, Speaker Recognition, Voice Conversion  
-  
-[Speech Processing Toolkit](./docs/SpeechProcToolkit.md)
-* SoX, librosa, WaveSurffer ... 
-  
-[Open Lecture / Course / Ebook / Blogs](./docs/OpenCourseBook.md)
-
-[AI Certification](./docs/CertiAI.md)
-* Cloud Certification (AWS, GGP, MS Azure) 
-
-[Data Sets](./docs/Datasets.md)
-* AudioSet, Open SLR, AI Hub ... 
-
-[Explore github.com](./docs/git_collection.md)
-* Usefule 
+[ETC.]
+--- 
+* [Speech Processing Toolkit](./docs/SpeechProcToolkit.md)
+  - SoX, librosa, WaveSurffer ...  
+* [Explore github.com](./docs/git_collection.md)
