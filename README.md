@@ -17,8 +17,7 @@
 * [General Topics & Trends](./docs/TrendsTopics.md)
   * Word Embedding, Generative Models, Transformer, Self-supervised Learning
 * [Conversational AI](./docs/ConvAI.md)
-  * Voice Assistant, Smart Speaker, 
-  * AICC(AI Contact Center): Chatbot, Advisor, Voicebot, VOC analytics
+  * Voice Assistant, Smart Speaker, AICC(Chatbot, Advisor, Voicebot, VOC analytics)
 * [Voice Technology](./docs/VoiceTechTopics.md)
   * ASR, TTS, Speaker Recognition, Voice Conversion  
 * [AI Certification](./docs/CertiAI.md)
