@@ -26,6 +26,7 @@
 * [Open Data Sets](./docs/Datasets.md)
   * AudioSet, Open SLR, AI Hub ... 
 * [Open Course Ware(Online Program)](./docs/OCW.md)
+  * CS 20, CS231n, CS224n, ... 
 * [Ebook / Blogs](./docs/OpenCourseBook.md) 
 
 [ETC.]
