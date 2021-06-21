@@ -1,6 +1,13 @@
+### July 2021
+* (7/21) 알렉사 라이브 2021'(AI 음성 기술과 앰비언트 컴퓨팅의 미래) - https://developer.amazon.com/en-US/alexa/alexa-live
+
 ### Jun 2021
 * (6/24) AI·DX SUMMIT KOREA 2021 (전자신문사) - [등록](https://conference.etnews.com/conf_info.html?uid=183)
+* (6/20) 인공지능 모델 관리와 AI 개발·배포에 혁신적인 ‘모델옵스(ModelOps)’는 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21399)
+* (6/19) 세계 최초, 대형마트에서 AI기반 무인 쇼핑과 전통 쇼핑 '아마존 프레쉬' 오픈 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21394) 
+* (6/18) AI 학습용 데이터 170종, 4억 8천만건 전격 개방 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21388) 
 * (6/13) 텐서플로우 라이트 이용한 혁신적인 음성 임베딩 - 음성 AI모델 온 디바이스로 구현하는 'FRILL' 오픈 소스 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21321)
+* (6/11) C3.ai DTI, 에너지 AI 연구에 획기적 발전 이룬 21개 팀에 49억원 수여 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21316)
 * (6/5) 페이스북 AI, 한국어 포함한 전 세계 101개국 언어, 다대다 데이터 세트 '플로레스-101' 오픈소스 공개 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21240)
   * 다국어 번역 AI 모델 M2M-100([git](https://github.com/pytorch/fairseq/tree/master/examples/m2m_100?fbclid=IwAR13Qms-_259kjU-7NhW0eqyLEOzADUxnbn2ea75G1tFqzhMEaKl76ixLaM)) / FLORES-101 Evaluation Benchmark([git](https://github.com/facebookresearch/flores?fbclid=IwAR0qvXY6LMM5kB3qK8n-8YRfxq_Y-DEBU1f_WWWIAeaPKy826AGNWEMnUfU))
 * (6/3) 단발성 정부 AI 정책..."지속가능 AI 모델 구축에 한계" - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=138592) 
