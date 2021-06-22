@@ -18,6 +18,8 @@ Notable Papers
 
 Open Source (Libs/Github)
 ---
+  * [kaldi-asr.org](https://kaldi-asr.org/) / [github](https://github.com/kaldi-asr/kaldi)
+    * Compile Kaldi for Android(2017) - [github.io](http://jcsilva.github.io/2017/03/18/compile-kaldi-android/)
   * NeuralSP: Neural network based Speech Processing - https://opensourcelibs.com/lib/neural_sp
     * Key features: [giters](https://giters.com/hirofumi0810/neural_sp) (End-to-End ASR/LM implementation with PyTorch, including Conformer) 
   * https://github.com/mozilla/DeepSpeech, https://github.com/PaddlePaddle/DeepSpeech
