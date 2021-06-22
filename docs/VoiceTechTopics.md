@@ -18,10 +18,11 @@ Notable Papers
 
 Open Source (Libs/Github)
 ---
-  * NeuralSP: Neural network based Speech Processing - https://opensourcelibs.com/lib/neural_sp 
-    * (e2e STT, best-practices conformer) 
+  * NeuralSP: Neural network based Speech Processing - https://opensourcelibs.com/lib/neural_sp
+    * Key features: [giters](https://giters.com/hirofumi0810/neural_sp) (End-to-End ASR/LM implementation with PyTorch, including Conformer) 
   * https://github.com/mozilla/DeepSpeech, https://github.com/PaddlePaddle/DeepSpeech
   * https://github.com/sooftware/openspeech 
+  * Hugging Face - [Dataset:librispeech_asr](https://huggingface.co/datasets/librispeech_asr), [wav2vec](https://huggingface.co/facebook/wav2vec2-base), [wav2vec2-base](https://huggingface.co/facebook/wav2vec2-base-960h)
 
 
 # TTS 
