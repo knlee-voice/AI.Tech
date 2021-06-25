@@ -1,5 +1,6 @@
 ### July 2021
 * (7/21) 알렉사 라이브 2021'(AI 음성 기술과 앰비언트 컴퓨팅의 미래) - https://developer.amazon.com/en-US/alexa/alexa-live
+* (7/8~10) 2021한국인공지능학회 하계학술대회 - [행사안내](http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20210401&CpPage=#CONF)
 
 ### Jun 2021
 * (6/24) 세일즈포스, AWS의 음성, 비디오 및 인공지능 서비스 구축 지원(AWS서비스 종량제) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21456)
