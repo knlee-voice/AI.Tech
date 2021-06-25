@@ -2,6 +2,7 @@
 * (7/21) 알렉사 라이브 2021'(AI 음성 기술과 앰비언트 컴퓨팅의 미래) - https://developer.amazon.com/en-US/alexa/alexa-live
 
 ### Jun 2021
+* (6/24) 세일즈포스, AWS의 음성, 비디오 및 인공지능 서비스 구축 지원(AWS서비스 종량제) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21456)
 * (6/24) AI·DX SUMMIT KOREA 2021 (전자신문사) - [등록](https://conference.etnews.com/conf_info.html?uid=183)
 * (6/20) 인공지능 모델 관리와 AI 개발·배포에 혁신적인 ‘모델옵스(ModelOps)’는 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21399)
 * (6/19) 세계 최초, 대형마트에서 AI기반 무인 쇼핑과 전통 쇼핑 '아마존 프레쉬' 오픈 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21394) 
