@@ -1,9 +1,12 @@
 ### July 2021
 * (7/21) 알렉사 라이브 2021'(AI 음성 기술과 앰비언트 컴퓨팅의 미래) - https://developer.amazon.com/en-US/alexa/alexa-live
-* (7/8~10) 2021한국인공지능학회 하계학술대회 - [행사안내](http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20210401&CpPage=#CONF)
+* (7/8~10) 2021 한국인공지능학회 하계학술대회 - [행사안내](http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20210401&CpPage=#CONF)
+* (7/5) 페이스북 AI, 인공지능으로 '홈 서비스 로봇' 학습, 'Habitat 2.0' 오픈소스로 공개 - [AiTimes](http://www.aitimes.kr/news/articleView.html?idxno=21557)
+* (7/4) [AI 리뷰] 게임 플레이 에이전트를 빠르게 학습하고, 배포 - [AiTimes](http://www.aitimes.kr/news/articleView.html?idxno=21550)
 
 ### Jun 2021
 * (6/28~7/1) MWC2021 - https://www.mwcbarcelona.com/
+  * [AiTimes](http://www.aitimes.kr/news/articleView.html?idxno=21531), Nvidia AI-on-5G - [nvidia 블로그](https://blogs.nvidia.co.kr/2021/06/25/edge-ai-5g-mwc-barcelona/), AI-on-5G 이노베이션 랩 구축 - [nextdaily](http://www.nextdaily.co.kr/news/article.html?id=20210629800039) 
 * (6/24) 세일즈포스, AWS의 음성, 비디오 및 인공지능 서비스 구축 지원(AWS서비스 종량제) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21456)
 * (6/24) AI·DX SUMMIT KOREA 2021 (전자신문사) - [등록](https://conference.etnews.com/conf_info.html?uid=183)
 * (6/20) 인공지능 모델 관리와 AI 개발·배포에 혁신적인 ‘모델옵스(ModelOps)’는 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21399)
