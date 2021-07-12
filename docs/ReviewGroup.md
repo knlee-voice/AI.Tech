@@ -9,3 +9,5 @@
 * PR12 딥러닝 논문읽기 모임
   * [Youtube](https://www.youtube.com/playlist?list=PLlMkM4tgfjnJhhd4wn5aj8fVTYJwIpWkS)
 
+* Paper repository
+  * speech-paper-reading(음성 관련 논문 기록) - https://github.com/speech-paper-reading/speech-paper-reading
