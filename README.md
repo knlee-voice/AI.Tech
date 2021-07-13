@@ -30,7 +30,7 @@
 [Open Resource]
 ---
 * [Open Data Sets](./docs/Datasets.md)
-  * AudioSet, Open SLR, AI Hub ... 
+  * (link) [AudioSet](https://research.google.com/audioset/), [Open SLR](https://openslr.org/), [AI Hub](https://aihub.or.kr/),,, 
 * [Open Course Ware](./docs/OCW.md) (Online Program)
   * CS 20, CS231n, CS224n, ... 
   
