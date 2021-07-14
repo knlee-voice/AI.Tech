@@ -1,4 +1,6 @@
-# Koreab Speech Database for ASR 
+# Korean Speech Database for ASR 
+
+`기관별 / 년도별 / 종류별`
 
 ### AI Open Innovation Hub ### 
 * [한국어 대화 AI 데이터](https://aihub.or.kr/aidata/85)
@@ -18,9 +20,12 @@
   - 21시간 10분 분량 (총 클립수 : 1,943건/총 이미지: 158,383장/대화정보: 10,961 pair) 
 
 ### ETRI 
-
+* 
 
 ### SiTEC
-
+* 
 
 ### ETC. 
+* Zeroth 
+* KoSpeech 
+* 
