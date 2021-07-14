@@ -10,6 +10,7 @@
 
 ### Jun 2021
 * [Communications of the ACM] Deep Learning for AI - [acm](https://dl.acm.org/doi/10.1145/3448250), [youtube](https://www.youtube.com/watch?v=at0OXoUmEj4)
+* [2021 AWS Machine Learning Summit](https://www.amazon.science/latest-news/on-demand-the-2021-aws-machine-learning-summit)
 * (6/28~7/1) MWC2021 - https://www.mwcbarcelona.com/, [pdf](https://dl.acm.org/doi/pdf/10.1145/3448250), [blog](https://bdtechtalks.com/2021/07/01/deep-learning-future-bengio-hinton-lecun/)
   * [AiTimes](http://www.aitimes.kr/news/articleView.html?idxno=21531), Nvidia AI-on-5G - [nvidia 블로그](https://blogs.nvidia.co.kr/2021/06/25/edge-ai-5g-mwc-barcelona/), AI-on-5G 이노베이션 랩 구축 - [nextdaily](http://www.nextdaily.co.kr/news/article.html?id=20210629800039) 
 * (6/24) 세일즈포스, AWS의 음성, 비디오 및 인공지능 서비스 구축 지원(AWS서비스 종량제) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21456)
