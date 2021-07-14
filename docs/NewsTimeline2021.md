@@ -1,5 +1,8 @@
 ### July 2021
 * (7/21) 알렉사 라이브 2021'(AI 음성 기술과 앰비언트 컴퓨팅의 미래) - https://developer.amazon.com/en-US/alexa/alexa-live
+* (7/14) 메타버스 대중화 이끌 새로운 플랫폼... SKT, ‘이프랜드’ 공개 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21671)
+* (7/14) SKT 인공지능 전문가들... AI 이론과 실제 개발사례 등 81개 온라인 강의 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21672)
+* (7/13) 전세계 소규모 뉴스 조직을 위한 인공지능 아카데미 출범 (구글 뉴스 이니셔티브(Google News Initiative)는 런던정치경제대학(London School of Economics and Political Science)의 저널리즘 싱크탱크인 폴리스(Polis)와 협력) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21653)
 * (7/8~10) 2021 한국인공지능학회 하계학술대회 - [행사안내](http://aiassociation.kr/Conference/ConferenceView.asp?AC=0&CODE=CC20210401&CpPage=#CONF)
 * (7/9) 인공지능 프로젝트 챌린지 ‘CLOVA AI RUSH 2021’ 성료… - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21618), 챌린지 참가자 및 네이버 관계자 200여 명이 참가
 * (7/5) 페이스북 AI, 인공지능으로 '홈 서비스 로봇' 학습, 'Habitat 2.0' 오픈소스로 공개 - [AiTimes](http://www.aitimes.kr/news/articleView.html?idxno=21557)
