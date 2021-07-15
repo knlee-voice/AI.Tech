@@ -32,8 +32,8 @@
 * [Open Data Sets](./docs/Datasets.md)
   * (link) [AudioSet](https://research.google.com/audioset/), [Open SLR](https://openslr.org/), [AI Hub](https://aihub.or.kr/),,, 
   * [Korean Speech DB for ASR](./docs/KoSpeechDB.md) : `한국어 음성DB 정리: 199x ~ 202x`  
-* [Open Course Ware](./docs/OCW.md) (Online Program)
-  * CS 20, CS231n, CS224n, ... 
+* [Open Course Ware](./docs/OCW.md) - `MOOCs(massive open online courses)`
+  * CS20, CS231n, CS224n, ... 
   
 [ETC.]
 ---
