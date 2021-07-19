@@ -1,5 +1,10 @@
 ### July 2021
 * (7/21) 알렉사 라이브 2021'(AI 음성 기술과 앰비언트 컴퓨팅의 미래) - https://developer.amazon.com/en-US/alexa/alexa-live
+* (7/17) 페이스북 AI, 혁신적인 AI 챗봇 ‘블렌더봇 2.0’ 오픈 소스로 공개 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21724), [Facebook AI](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet/) 
+  - ParlAI(unified platform for sharing, training and evaluating dialogue models across many tasks)
+  - Codes: https://parl.ai/projects/blenderbot2 / [Paper1](https://github.com/facebookresearch/ParlAI/blob/master/projects/sea/Internet_Augmented_Dialogue.pdf) / [Paper2](https://github.com/facebookresearch/ParlAI/blob/master/projects/msc/msc.pdf)
+<img src="http://www.allusanewshub.com/wp-content/uploads/2021/07/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge-800x421.png" width="80%">
+
 * (7/14) 메타버스 대중화 이끌 새로운 플랫폼... SKT, ‘이프랜드’ 공개 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21671)
 * (7/14) SKT 인공지능 전문가들... AI 이론과 실제 개발사례 등 81개 온라인 강의 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21672)
 * (7/13) 전세계 소규모 뉴스 조직을 위한 인공지능 아카데미 출범 (구글 뉴스 이니셔티브(Google News Initiative)는 런던정치경제대학(London School of Economics and Political Science)의 저널리즘 싱크탱크인 폴리스(Polis)와 협력) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21653)
