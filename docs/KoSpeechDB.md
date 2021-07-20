@@ -74,12 +74,11 @@
 ### ETRI 
 * 공공 인공지능 오픈 API·DATA 서비스 포털 - https://aiopen.etri.re.kr/
   - [음성 학습데이터](https://aiopen.etri.re.kr/service_dataset.php?category=voice) / 분량(전체 발화수)
-  - 1) 다채널 잡음처리 기술 개발 및 평가용 데이터 / 50명 * 100발화 * 8마이크 (40,208)
-  - 2) 텔레매틱스 목적지 인식을 위한 음향모델 적응용 음성 데이터 / 50명 * 120발화 (6,000)
-  - 3) 잡음처리 및 음성검출을 위한 스마트폰 환경 연속어 음성 데이터 / 50명 * 100발화 * 2환경 (10,000)
-  - 4) 한국어 및 영어 음향모델 훈련용 음성 데이터 / 한/영 각 50명 * 100발화 (10,000)
-  - 5) 음성인터페이스 개발을 위한 어린이 음성 데이터 / 50명 * 100발화 * 3환경 (16,200)
-  - 
+  - 다채널 잡음처리 기술 개발 및 평가용 데이터 / 50명 * 100발화 * 8마이크 (40,208)
+  - 텔레매틱스 목적지 인식을 위한 음향모델 적응용 음성 데이터 / 50명 * 120발화 (6,000)
+  - 잡음처리 및 음성검출을 위한 스마트폰 환경 연속어 음성 데이터 / 50명 * 100발화 * 2환경 (10,000)
+  - 한국어 및 영어 음향모델 훈련용 음성 데이터 / 한/영 각 50명 * 100발화 (10,000)
+  - 음성인터페이스 개발을 위한 어린이 음성 데이터 / 50명 * 100발화 * 3환경 (16,200)
 * 한국어 음성 감정 데이터셋(KESDy18) - [소개](https://nanum.etri.re.kr/share/kjnoh/SER-DB-ETRIv18?lang=eng)
   - 헤드셋 마이크(Shure S35) 장치를 통해 수집한 음성데이터에 대한 데이터셋(2018.04~2018.09).
   - 한국인 성우 총 30명 (남/여 각 15명) ~ Arousal : (이완) 1-2-3-4-5 (각성) / Valence : (부정) 1-2-3-4-5 (긍정)
@@ -90,6 +89,10 @@
 
 ---
 ### ETC. 
-* Zeroth 
-* KoSpeech 
+* Zeroth-Korean - [openSLR](https://www.openslr.org/40/)
+  -  51.6 hours transcribed Korean audio for training data (22,263 utterances, 105 people, 3000 sentences) 
+  -  1.2 hours transcribed Korean audio for testing data (457 utterances, 10 people)
+* KoSpeech: Open-Source Toolkit for End-to-End Korean Speech Recognition [Paper](https://www.sciencedirect.com/science/article/pii/S2665963821000026)
 * 
+--- 
+* 딥러닝 학습을 위한 국내외 데이터셋 현황 - 음성편 - [webzine](https://webzine.aihub.or.kr/insight/vol04/sub4.php)
