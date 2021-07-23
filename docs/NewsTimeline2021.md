@@ -3,6 +3,7 @@
 * (7/17) 페이스북 AI, 혁신적인 AI 챗봇 ‘블렌더봇 2.0’ 오픈 소스로 공개 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21724), [Facebook AI](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet/) 
   - ParlAI(unified platform for sharing, training and evaluating dialogue models across many tasks)
   - Codes: https://parl.ai/projects/blenderbot2 / [Paper1](https://github.com/facebookresearch/ParlAI/blob/master/projects/sea/Internet_Augmented_Dialogue.pdf) / [Paper2](https://github.com/facebookresearch/ParlAI/blob/master/projects/msc/msc.pdf)
+  - 관련글: [챗봇이 기억을 갖다](https://moon-walker.medium.com/%EC%B1%97%EB%B4%87%EC%9D%B4-%EA%B8%B0%EC%96%B5%EC%9D%84-%EA%B0%96%EB%8B%A4-facebook%EC%9D%98-blender-bot-2-0-31deb09bc309)
 <img src="http://www.allusanewshub.com/wp-content/uploads/2021/07/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge-800x421.png" width="80%">
 
 * (7/14) 메타버스 대중화 이끌 새로운 플랫폼... SKT, ‘이프랜드’ 공개 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21671)
