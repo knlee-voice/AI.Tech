@@ -1,4 +1,8 @@
+### August 2021
+* (8/2) 국내 최초 의료 연구 AI 플랫폼 구축한 딥노이드, 17일 상장 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=139930)
+
 ### July 2021
+* (7/30) [AI 실생활 체험기] KB국민은행 AI 체험존에 숨겨진 비밀 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=139897)
 * (7/21) 알렉사 라이브 2021'(AI 음성 기술과 앰비언트 컴퓨팅의 미래) - https://developer.amazon.com/en-US/alexa/alexa-live
 * (7/18~24) [ICML 2021](https://icml.cc/virtual/2021/calendar) - [AITimes:구글](http://www.aitimes.kr/news/articleView.html?idxno=21837)
 * (7/17) 페이스북 AI, 혁신적인 AI 챗봇 ‘블렌더봇 2.0’ 오픈 소스로 공개 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21724), [Facebook AI](https://ai.facebook.com/blog/blender-bot-2-an-open-source-chatbot-that-builds-long-term-memory-and-searches-the-internet/) 
@@ -105,10 +109,11 @@
 
 
 ### Feb. 2021
+* (2/24) "AI와 '인간스럽게' 소통하다" [특별기획 AI 2030] ⑪ 복합대화 기술 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=136394)
 * (2/23) 고객 상담·투자 구성 제안까지···은행권 'AI 행원' 도입 물결 - [기사](https://www.seoulfn.com/news/articleView.html?idxno=411417)
 * (2/22) "보이스봇이 대신 상담해드려요"…AI 콜센터 키우는 통신업계 - [한경](https://www.hankyung.com/it/article/2021022242451)
 * (2/6) 페이스북AI, 다국어 음성 AI 개발 '8개 언어, 5만시간 오디오 세트' 공개 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20198)
-* (2/4) 빅데이터∙AI 연구에 기여, 데이터 1등 모여 얼라이언스 결성 - [AITIMES](http://www.aitimes.kr/news/articleView.html?idxno=20175)
+* (2/4) 빅데이터∙AI 연구에 기여, 데이터 1등 모여 얼라이언스 결성 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=20175)
 * Google AI Blog: Lyra: A New Very Low-Bitrate Codec for Speech Compression - [post](https://ai.googleblog.com/2021/02/lyra-new-very-low-bitrate-codec-for.html)
 
 ### Jan. 2021
