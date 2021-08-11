@@ -1,6 +1,8 @@
 ### August 2021
 * (8/9~11) 2021 서울대학교 AI여름학교 - [바로가기](https://aiis.snu.ac.kr/aisummerschool2021/)
   * 최은솔 UT Austin, Addressing Information Seeking Queries: From Finding to Presenting Answer
+  * 강동엽 UC Berkeley, Styles and Interactions in Human-centered NLP
+  * 민세원 U Washington, Toward Real-World Natural Language Understanding
 * (8/9) [컨퍼런스 현장리뷰] ACL-IJCNLP 2021 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=140049)
 * (8/3) [칼럼이 있는 AI톡] "화자(話者)가 누구인가?"가 중요해진 세상 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=139957)
 * (8/2) 국내 최초 의료 연구 AI 플랫폼 구축한 딥노이드, 17일 상장 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=139930)
