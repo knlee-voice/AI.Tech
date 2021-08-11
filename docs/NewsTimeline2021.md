@@ -1,4 +1,8 @@
 ### August 2021
+* (8/9~11) 2021 서울대학교 AI여름학교 - [바로가기](https://aiis.snu.ac.kr/aisummerschool2021/)
+  * 최은솔 UT Austin, Addressing Information Seeking Queries: From Finding to Presenting Answer
+* (8/9) [컨퍼런스 현장리뷰] ACL-IJCNLP 2021 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=140049)
+* (8/3) [칼럼이 있는 AI톡] "화자(話者)가 누구인가?"가 중요해진 세상 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=139957)
 * (8/2) 국내 최초 의료 연구 AI 플랫폼 구축한 딥노이드, 17일 상장 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=139930)
 
 ### July 2021
@@ -95,6 +99,7 @@
 
 ### Mar. 2021
 * (3/30) 제4회 AI 차세대 컨택센터 컨퍼런스 2021 - [프로그램](https://conference.etnews.com/conf_info.html?uid=178), [Yputube](https://www.youtube.com/watch?v=GvRkqC_ej98&t=1s)
+* (3/19,23) "AI 메타버스 타임머신 타고 역사 속 인물 만난다" - [(上)](http://www.aitimes.com/news/articleView.html?idxno=137405&page=3&total=146), [(下)](http://www.aitimes.com/news/articleView.html?idxno=137351)
 * (3/17) AI 미래포럼 창립 웨비나 - AI 기술 발전과 한국의 대응 전략, [Webina](https://www.youtube.com/watch?v=4rEL3EL0dcQ), [한국경제](https://www.hankyung.com/it/article/2021031413701)
   * `기조연설- 1) AI의 과거, 현재, 그리고 미래(김진형 KAIST) / 2) 글로벌 AI 연구트랜드 - 이홍락(LG AI연구원, CSAI)`
   * `발제- 1) AI 연구의 최신 동향과 한국의 과제, 2) '연구개발자가 원하는 AI 혁신생태계', 3) 보다 나은 사회를 향한 AI 활용 사례`
