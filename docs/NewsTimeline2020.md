@@ -33,6 +33,7 @@
 * (9/10) SKT 주관 ai.x2020컨퍼런스 - [온라인 컨퍼런스](https://www.skt.ai/kr/ai_x/index.do), [요약글](https://littlefoxdiary.tistory.com/60)
 
 ### Aug. 2020
+* (8/5) 서울대 'AI 여름학교'(국내외 저명 AI연구자 17명과 신진학자 8명도 강사) - [기사](https://zdnet.co.kr/view/?no=20200805224344), [홈페이지](https://aiis.snu.ac.kr/aisummerschool2020/)
 * Google AI Blog: An Analysis of Online Datasets Using Dataset Search - [post](https://ai.googleblog.com/2020/08/an-analysis-of-online-datasets-using.html)
 * Google AI Blog: Language-Agnostic BERT Sentence Embedding - [post](https://ai.googleblog.com/2020/08/language-agnostic-bert-sentence.html)
   * LaBSE(multilingual BERT embedding model) for 109 languages, [LASER](https://research.fb.com/downloads/laser-language-agnostic-sentence-representations/) (facebook), m~USE
