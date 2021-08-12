@@ -3,6 +3,7 @@
   * 최은솔 UT Austin, Addressing Information Seeking Queries: From Finding to Presenting Answer
   * 강동엽 UC Berkeley, Styles and Interactions in Human-centered NLP
   * 민세원 U Washington, Toward Real-World Natural Language Understanding
+* (8/11) 음성 클러스터링 기술 기업 '카르돔'- 키오스크 적용 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=22075)
 * (8/9) [컨퍼런스 현장리뷰] ACL-IJCNLP 2021 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=140049)
 * (8/3) [칼럼이 있는 AI톡] "화자(話者)가 누구인가?"가 중요해진 세상 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=139957)
 * (8/2) 국내 최초 의료 연구 AI 플랫폼 구축한 딥노이드, 17일 상장 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=139930)
@@ -16,6 +17,7 @@
   - Codes: https://parl.ai/projects/blenderbot2 / [Paper1](https://github.com/facebookresearch/ParlAI/blob/master/projects/sea/Internet_Augmented_Dialogue.pdf) / [Paper2](https://github.com/facebookresearch/ParlAI/blob/master/projects/msc/msc.pdf)
   - 관련글: [챗봇이 기억을 갖다](https://moon-walker.medium.com/%EC%B1%97%EB%B4%87%EC%9D%B4-%EA%B8%B0%EC%96%B5%EC%9D%84-%EA%B0%96%EB%8B%A4-facebook%EC%9D%98-blender-bot-2-0-31deb09bc309)
 <img src="http://www.allusanewshub.com/wp-content/uploads/2021/07/facebooks-blenderbot-2-0-bot-surfs-the-web-for-knowledge-800x421.png" width="80%">
+
 * (7/15) 엔씨소프트, 인공지능 번역 엔진 개발... 4개 국어, 한국어·영어·일본어·중국어 실시간 AI 번역 지원 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21692)
 * (7/14) 메타버스 대중화 이끌 새로운 플랫폼... SKT, ‘이프랜드’ 공개 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21671)
 * (7/14) SKT 인공지능 전문가들... AI 이론과 실제 개발사례 등 81개 온라인 강의 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21672)
