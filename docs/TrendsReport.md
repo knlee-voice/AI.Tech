@@ -4,7 +4,8 @@
 * (8/11) [KOCCA포커스 통권 134호] 메타버스와 콘텐츠 - [안내](https://www.kocca.kr/cop/bbs/list/B0000141.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=200898&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
 * (7/30) [KOCCA] 실감콘텐츠 글로벌 동향분석(제2호) - [보고서](https://www.kocca.kr/cop/bbs/view/B0158973/1845392.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=204025&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
 * (7/15) [KOCCA] 실감콘텐츠 글로벌 동향분석(제1호) - [보고서](https://www.kocca.kr/cop/bbs/view/B0158973/1845391.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=204025&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
-* (8/15) [KOCCA] 실감콘텐츠 글로벌 동향분석(제1호)
+* (7/6) [KISA Report 6월호_4] AI기반의 운영 모델로 변화하는 은행 및 금융서비스 - [안내](https://www.kisa.or.kr/public/library/IS_View.jsp?mode=view&p_No=158&b_No=158&d_No=542&ST=T&SV=), [파일](https://www.kisa.or.kr/jsp/common/downloadAction.jsp?bno=158&dno=542&fseq=1)
+* (7/6) [KISA Report 6월호_2] ‘네이버 AI NOW’ 리뷰 - [안내](https://www.kisa.or.kr/public/library/IS_View.jsp?mode=view&p_No=158&b_No=158&d_No=540&cPage=2&ST=T&SV=), [6월호_전체](https://www.kisa.or.kr/public/library/IS_View.jsp?mode=view&p_No=158&b_No=158&d_No=538&cPage=2&ST=T&SV=)
 * (6/4) [오픈데이터 나우 제26호] 2020 EU 오픈데이터 성숙도 보고서 주요내용 분석 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=27974&bcIdx=23472&parentSeq=23472), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23472&cbIdx=27974&fileNo=1)
   * 메모: 오픈데이터 품질지표, 메타데이터 품질 모니터링, 2014년 메타데이터 표준인 DCAT(Data Catalog Vocalbulary) 제시
 * (6/3) 2020 인공지능 산업실태조사 보고서 - [안내](https://spri.kr/posts/view/23214?code=research), [안내](https://signalm.sedaily.com/ReportView/3544), [파일](https://spri.kr/download/22805)
@@ -18,6 +19,7 @@
 * (3/18) [DNA플러스 2021-2] NeurIPS 2020을 통해 본 인공지능(AI) 기술 트렌드 - [안내](https://www.aihub.or.kr/node/24015), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23153&cbIdx=82618&fileNo=1)(p.80)
   - ① 1,898편의 NeurIPS 2020 논문 제목을 텍스트 마이닝을 활용하여, 총 6대 트렌드를 도출
   - ② 메타러닝, 연합학습, 자기지도학습, 강화학습, 그래프 기반 딥러닝, 생성적 적대 신경망 기술 트렌드 등 6대 기술 분야 분석
+* (3/17) [IS-115] 로그인(Log In) 메타버스 : 인간×공간×시간의 혁명 - [안내](https://spri.kr/posts/view/23165?code=issue_reports), [파일](https://spri.kr/download/22745)
 * (3/11) 디지털정부 해외 최신 정책·기술 브리프 : D.gov & Tech (2021-1호) - [안내](https://aihub.or.kr/node/23709), [파일](https://aihub.or.kr/sites/default/files/2021-03/D.gov%26Tech_2021-1%ED%98%B8_vol.53-1.pdf)
 * (3/3) [IF 2021-3] 데이터 기반 포스트 코로나 이슈 분석과 10대 메가트렌드 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=25932&bcIdx=23065&parentSeq=23065), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23065&cbIdx=25932&fileNo=3)/[pdf](https://aihub.or.kr/sites/default/files/2021-03/%5BIF-2021-3%5D%EB%8D%B0%EC%9D%B4%ED%84%B0_%EA%B8%B0%EB%B0%98_%ED%8F%AC%EC%8A%A4%ED%8A%B8_%EC%BD%94%EB%A1%9C%EB%82%98_%EC%9D%B4%EC%8A%88_%EB%B6%84%EC%84%9D%EA%B3%BC_10%EB%8C%80_%EB%A9%94%EA%B0%80%ED%8A%B8%EB%A0%8C%EB%93%9C.pdf)(p.35)
 * (2/4) 혁신을_이끄는_뉴웨이브__인공지능_스타트업 - [기사](https://www.aitimes.kr/news/articleView.html?idxno=20182), [파일](https://startuprecipe.co.kr/wp-content/uploads/2021/02/%ED%98%81%EC%8B%A0%EC%9D%84_%EC%9D%B4%EB%81%84%EB%8A%94_%EB%89%B4%EC%9B%A8%EC%9D%B4%EB%B8%8C__%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%8A%A4%ED%83%80%ED%8A%B8%EC%97%85.pdf)(p.101)
@@ -71,6 +73,7 @@
 * (8/9) [글로벌ICT이슈] 인공지능 기반 챗봇기술 국외 현황과 시사점 - [안내](https://www.globalict.kr/country/country_view.do?menuCode=030200&mode=VIEW&knwldNo=138287)
 
 ### 2018
+* (12/31) [Insight Report] AI 기반 감성 증강 10대 유망 서비스 탐색 - [안내](https://ksp.etri.re.kr/ksp/plan-report/read.htm?id=664&dataDivCd=01), [파일](https://ksp.etri.re.kr/ksp/plan-report/file?id=664)
 * (12/27) 인공지능(AI)과 프라이버시의 역설: AI 음성비서를 중심으로 - [안내](http://www.kisdi.re.kr/kisdi/fp/kr/publication/selectResearch.do?cmd=fpSelectResearch&curPage=1&sMenuType=3&controlNoSer=41&controlNo=14497&langdiv=1), [파일](http://www.kisdi.re.kr/kisdi/common/download?type=DR&file=1%7C14751)
 * (12/18) [스페셜리포트 2018-18] 미국방연구원 AI 캠페인 '차세대 인공지능(AI NEXT)' - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=20470&parentSeq=20470), [자료](https://www.nia.or.kr/common/board/Download.do?bcIdx=20470&cbIdx=82618&fileNo=1)
 * (12/10) IITP, ICT RnD 기술로드맵 2023 발표 - [안내](https://www.iitp.kr/kr/1/notice/reportAndClarify/view.it?ArticleIdx=3437&count=true): SW․AI․차세대보안 - [파일](https://www.itfind.or.kr/admin/getFile.htm?identifier=02-004-190220-000003)
