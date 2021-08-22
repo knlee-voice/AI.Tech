@@ -52,6 +52,7 @@
 
 ### May 2021
 * (5/31) '새로운 AI 로봇 학습법으로 웨어러블 재활로봇 혁신'...서울대 조규진 교수 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=138758)
+* (5/26) '초거대AI' 시대 성큼… 세계 IT 공룡 각축전 (글로벌 IT업계 新격전지,‘초거대 인공지능’기술개발 촉발) - [한국일보](https://www.hankookilbo.com/News/Read/A2021052609150003764), [주요동향](https://now.k2base.re.kr/portal/trend/mainTrend/view.do?poliTrndId=TRND0000000000043310&menuNo=200004)
 * (5/25) NAVER AI NOW 컨퍼런스 - 네이버, '초대규모 AI' 한국어 언어모델 ‘하이퍼클로바’ 공개 - [NAVER AI NOW](https://naver-ai-now.kr/), [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21122), [브런치](https://brunch.co.kr/@louis1st/430)
   - `GPT-3보다 6,500배 많은 한국어 데이터 학습(한국어 비중 97%) / 규모: GPT-3(175B)를 뛰어넘는 204B(2040억 개) 파라미터`
 * (5/24) 네이버, KAIST AI 대학원과 초대규모 AI 개발 위한 공동연구센터 설립 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=21104)
