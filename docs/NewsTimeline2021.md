@@ -1,4 +1,10 @@
 ### August 2021
+* (8/22) Baidu: 2세대 쿤룬 인공지능 칩과 오픈소스 AI 플랫폼 바이두 브레인 7.0 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=22209)
+* (8/22) 스탠퍼드대 연구진, "대규모 언어모델이 편향성 강화하고 심각한 환경 오염 발생시켜" - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=140210)
+* (8/20) 테슬라 일론 머스크, 인공지능 휴머노이드 '테슬라 봇(Tesla Bot)' 공개 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=22200)
+* (8/18) KT AI 원팀, ‘초거대 인공지능’ 개발 나선다 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=22156)
+  * '21년 말 1차 초거대 AI 학습 완료, '22년 상반기 내 상용화: 대규모 AI 연산 인프라 구축, 향후 2,000억 파라미터(매개변수) 이상의 모델까지 가능하도록 인프라 규모 점진 확대
+* (8/15) 샤오미, 인공지능 4족 보행 로봇개 '아이언 에그 로봇(Iron Egg Robot)' - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=22123)
 * (8/9~11) 2021 서울대학교 AI여름학교 - [바로가기](https://aiis.snu.ac.kr/aisummerschool2021/)
   * 최은솔 UT Austin, Addressing Information Seeking Queries: From Finding to Presenting Answer
   * 강동엽 UC Berkeley, Styles and Interactions in Human-centered NLP
