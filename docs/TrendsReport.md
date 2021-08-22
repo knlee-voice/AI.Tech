@@ -1,7 +1,11 @@
 
 ### 2021
-
-* (6/4) [오픈데이터 나우 제26호] - 2020 EU 오픈데이터 성숙도 보고서 주요내용 분석 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=27974&bcIdx=23472&parentSeq=23472), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23472&cbIdx=27974&fileNo=1)
+* (8/15) [KOCCA] 실감콘텐츠 글로벌 동향분석(제3호) : 메타버스 기업으로의 변신 선언한 Facebook의 비전과 과제 - [안내](https://www.itfind.or.kr/report/analysis/read.do?selectedId=02-004-210817-000009), [보고서](https://www.kocca.kr/cop/bbs/view/B0158973/1845423.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=204025&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
+* (8/11) [KOCCA포커스 통권 134호] 메타버스와 콘텐츠 - [안내](https://www.kocca.kr/cop/bbs/list/B0000141.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=200898&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
+* (7/30) [KOCCA] 실감콘텐츠 글로벌 동향분석(제2호) - [보고서](https://www.kocca.kr/cop/bbs/view/B0158973/1845392.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=204025&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
+* (7/15) [KOCCA] 실감콘텐츠 글로벌 동향분석(제1호) - [보고서](https://www.kocca.kr/cop/bbs/view/B0158973/1845391.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=204025&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
+* (8/15) [KOCCA] 실감콘텐츠 글로벌 동향분석(제1호)
+* (6/4) [오픈데이터 나우 제26호] 2020 EU 오픈데이터 성숙도 보고서 주요내용 분석 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=27974&bcIdx=23472&parentSeq=23472), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23472&cbIdx=27974&fileNo=1)
   * 메모: 오픈데이터 품질지표, 메타데이터 품질 모니터링, 2014년 메타데이터 표준인 DCAT(Data Catalog Vocalbulary) 제시
 * (6/3) 2020 인공지능 산업실태조사 보고서 - [안내](https://spri.kr/posts/view/23214?code=research), [안내](https://signalm.sedaily.com/ReportView/3544), [파일](https://spri.kr/download/22805)
   * 메모: 직무분류- 인공지능 프로젝트 관리자, 컨설턴트, 개발자(아키텍트, SW엔지니어, HW엔지니어, 서비스엔지니어, 기타), 운영관리자, 데이터 가공처리 담당자, 데이터 분석가 
