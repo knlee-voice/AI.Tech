@@ -15,7 +15,7 @@
 * [Deep Learning Architecture](./docs/DLArchitectures.md)
   * LeNet, AlexNet, VGG, LesNet, DensNet, Graph Convolution Network ... 
 * [General Topics & Trends](./docs/TrendsTopics.md)
-  * Word Embedding, Generative Models, Transformer, Self-supervised Learning
+  * Word Embedding, Generative Models, Transformer, Self-supervised Learning, Hyper-scale AI
 * [Conversational AI](./docs/ConvAI.md)
   * Voice Assistant, Smart Speaker, AICC(Chatbot, Advisor, Voicebot, VOC analytics)
 * [Voice Technology](./docs/VoiceTechTopics.md)
