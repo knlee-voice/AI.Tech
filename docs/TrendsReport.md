@@ -36,6 +36,7 @@
   - 생성적 AI(Generativa AI) “(사물 등) 인식을 위한 AI가 아닌 창조를 하는 AI”
   - 전이학습(Transfer learning) “누구나 딥러닝을 할 수 있는 환경 확산”
   - AutoML “AI도 AI가 만들어 낸다”
+* (1/14) [KISTEP 2021-2] 언택트 시대의 10대 미래유망기술 - [보고서](https://www.kistep.re.kr/reportDetail.es?mid=a10305010000&rpt_no=RES0220210026), [다운로드](https://www.kistep.re.kr/reportDownload.es?rpt_no=RES0220210026&seq=res_0026P@4)
 
 ### 2020 
 * [KDI 경제정보센터: 2020-03 AI편] 해외동향 - 불붙은 AI 기술패권 전쟁, 누가 AI 경쟁에서 이기고 있는가? - [안내](https://eiec.kdi.re.kr/publish/reviewView.do?ridx=4&idx=39&fcode=000020003600003), [파일](https://eiec.kdi.re.kr/publish/reviewCallDownload.do?fidx=23063&ridx=4)
@@ -51,6 +52,8 @@
 * (10/29) AI 국가 경쟁력 확보를 위한 AI 데이터 생태계 조성방안 연구 - [안내](https://kpc4ir.kaist.ac.kr/index.php?document_srl=3160&mid=KPC4IR_Reports), [파일](https://kpc4ir.kaist.ac.kr/?module=file&act=procFileDownload&file_srl=3161&sid=4a00d5fd6f0bae95b740414837c0d786&module_srl=2313)
   * 내용: 데이터 처리 법적 문제, 기계학습 과정에서 저작권 침해 문제 포함 / 전문가 대상 설문조사 결과
 * (10/29) 이슈리포트(2019-32호) 인공지능산업 생태계 현황과 발전전략 - [안내](https://www.nipa.kr/main/selectBbsNttView.do?key=116&bbsNo=11&nttNo=6937&bbsTy=&searchCtgry=&pageUnit=10)
+* (10/27) [KISTI DATA INSIGHT](https://mirian.kisti.re.kr/insight/insight.jsp) 제14호, 딥러닝으로 예측한 미래 고성장 과학기술영역 100선 
+* (10/15) [KISTI DATA INSIGHT](https://mirian.kisti.re.kr/insight/insight.jsp) 제13호, 주목해야 할 인공지능(AI) 기술 세계 100대 기업과 국가별 기술경쟁력 비교 
 * (10/14) [IF 2020-6] AI 스타트업 생태계 혁신을 위한 정책방향 - 국내·외 AI 스타트업 현황분석을 중심으로 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=25932&bcIdx=22721&parentSeq=22721), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=22721&cbIdx=25932&fileNo=1)
 * (8/10) [IF 2020-5] AI 활성화를 위한 3대 자원 지원 전략 - 데이터, 알고리즘, 컴퓨팅 파워 - [안내](https://aihub.or.kr/blog/10709), [파일](https://aihub.or.kr/sites/default/files/2020-11/%5BIF%202020-5%5D%20AI%20%ED%99%9C%EC%84%B1%ED%99%94%EB%A5%BC%20%EC%9C%84%ED%95%9C%203%EB%8C%80%20%EC%9E%90%EC%9B%90%20%EC%A7%80%EC%9B%90%20%EC%A0%84%EB%9E%B5.pdf)(31p)
   * AI 서비스 개발 주요 프로세스 및 3대 핵심 자원 (데이터, 알고리즘/모델, 컴퓨팅 파워/자원)
@@ -61,6 +64,7 @@
 * (3/10) [스페셜리포트 2020-3] 미국 내 인공지능 연구에 대한 향후 20년간 커뮤니티 로드맵 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=21857&parentSeq=21857), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=21857&cbIdx=82618&fileNo=1)
 * (2/10) TTA 저널 187호 - 인공지능 - [안내](https://www.tta.or.kr/data/reporthosulist_view.jsp?kind_num=1&hosu=187), 인공지능 학습 알고리즘의 동향 - [다운로드](https://www.tta.or.kr/data/reportDown.jsp?news_num=7100)
   * 인공지능의 미래가 인간 중심의 디자인에 초점을 맞춰야 한다는 관점에서 인공지능의 발전 단계를 인공지능 경험(AIX, AI Experience)의 단계라고 명명
+* (2/10) [KISTEP] 제6회 과학기술예측조사를 위한 사전기획 연구(p.178) - [안내](https://www.kistep.re.kr/reportDetail.es?mid=a10305010000&rpt_no=RES0220200058), [다운로드](https://www.kistep.re.kr/reportDownload.es?rpt_no=RES0220200058&seq=res_0026P@2)
 * (1/31) [2020년 Vol.01 KISA Report] CES2020 : 인공지능과 로봇의 만남 등 10편 - [안내](https://www.kisa.or.kr/public/library/IS_View.jsp?mode=view&p_No=158&b_No=158&d_No=368&cPage=&ST=TC&SV=), [파일](https://www.kisa.or.kr/jsp/common/downloadAction.jsp?bno=158&dno=368&fseq=1)
 * (1/8) (182호)과학기술_ICT_정책기술동향 - [정책동향](https://www.msit.go.kr/bbs/view.do?sCode=user&mId=101&mPid=100&pageIndex=&bbsSeqNo=80&nttSeqNo=3167223&searchOpt=ALL&searchTxt=), [파일](https://www.bioin.or.kr/board.do?num=304162&cmd=view&bid=policy)
  
@@ -68,6 +72,9 @@
 * (12/31) [KISDI] 공공·민간 분야의 인공지능(AI) 융합·활용 활성화를 위한 정책방안 연구 - [안내](http://m.kisdi.re.kr/mobile/repo/res_view.m?key1=14751&key2=0&key3=&category=2), 
 * (12/20) [D.N.A 플러스 2019-10] 세계적으로 주목받는 인공지능 스타트업 현황과 비즈니스 모델 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=21730&parentSeq=21730), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=21730&cbIdx=82618&fileNo=1)
 * (12/2) NIPA 이슈리포트(2019-34호) 인공지능 기반 에듀테크 기업 및 서비스 동향 - [안내](https://nipa.kr/main/selectBbsNttView.do?key=116&bbsNo=11&nttNo=7013&bbsTy=&searchCtgry=&searchCnd=all&searchKrwd=&pageIndex=3), [파일](https://nipa.kr/main/downloadBbsFile.do?key=116&bbsNo=11&bbsTy=&atchmnflNo=10861)(p.195)
+* (11/21) [KISTI DATA INSIGHT](https://mirian.kisti.re.kr/insight/insight.jsp) 제11호, 딥러닝을 이용한 기술클러스터의 미래 성장가능성 예측
+* (11/14) [KISTI DATA INSIGHT](https://mirian.kisti.re.kr/insight/insight.jsp) 제10호, 딥러닝 기반 글로벌 특허기술 장기전략 예측
+* (11/8) [KISTI DATA INSIGHT](https://mirian.kisti.re.kr/insight/insight.jsp) 제9호, 데이터기반 인공지능 글로벌 연구경쟁력 분석
 * (10/25) [NIPA 이슈리포트 2019-32호] 인공지능산업 생태계 현황과 발전전략 - [안내](https://www.nipa.kr/main/selectBbsNttView.do?key=116&bbsNo=11&nttNo=6937&bbsTy=&searchCtgry=&pageUnit=10&searchCnd=all&searchKrwd=&pageIndex=1), [파일](https://www.nipa.kr/main/downloadBbsFile.do?key=116&bbsNo=11&bbsTy=&atchmnflNo=10743)
   * 내용: AI 기업 성숙화 단계 가이드, ‘AI made in Germany’ 12대 전략 요약 
 * (8/9) [글로벌ICT이슈] 인공지능 기반 챗봇기술 국외 현황과 시사점 - [안내](https://www.globalict.kr/country/country_view.do?menuCode=030200&mode=VIEW&knwldNo=138287)
@@ -76,7 +83,7 @@
 * (12/31) [Insight Report] AI 기반 감성 증강 10대 유망 서비스 탐색 - [안내](https://ksp.etri.re.kr/ksp/plan-report/read.htm?id=664&dataDivCd=01), [파일](https://ksp.etri.re.kr/ksp/plan-report/file?id=664)
 * (12/27) 인공지능(AI)과 프라이버시의 역설: AI 음성비서를 중심으로 - [안내](http://www.kisdi.re.kr/kisdi/fp/kr/publication/selectResearch.do?cmd=fpSelectResearch&curPage=1&sMenuType=3&controlNoSer=41&controlNo=14497&langdiv=1), [파일](http://www.kisdi.re.kr/kisdi/common/download?type=DR&file=1%7C14751)
 * (12/18) [스페셜리포트 2018-18] 미국방연구원 AI 캠페인 '차세대 인공지능(AI NEXT)' - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=82618&bcIdx=20470&parentSeq=20470), [자료](https://www.nia.or.kr/common/board/Download.do?bcIdx=20470&cbIdx=82618&fileNo=1)
-* (12/10) IITP, ICT RnD 기술로드맵 2023 발표 - [안내](https://www.iitp.kr/kr/1/notice/reportAndClarify/view.it?ArticleIdx=3437&count=true): SW․AI․차세대보안 - [파일](https://www.itfind.or.kr/admin/getFile.htm?identifier=02-004-190220-000003)
+* (12/10) IITP, ICT RnD 기술로드맵 2023 발표(p.214) - [안내](https://www.iitp.kr/kr/1/notice/reportAndClarify/view.it?ArticleIdx=3437&count=true): SW․AI․차세대보안 - [파일](https://www.itfind.or.kr/admin/getFile.htm?identifier=02-004-190220-000003)
 * (10/25) [KISTEP 기술동향브리프 2018-16] 인공지능(SW) - [안내](https://www.kistep.re.kr/board.es?mid=a10306010000&bid=0031&b_list=10&act=view&list_no=34956&nPage=16&keyField=&orderby=), [파일](https://www.kistep.re.kr/boardDownload.es?bid=0031&list_no=34956&seq=9580) *** 
 * (8/17) [D.gov Trend & Future 2018-2] 인공지능 기반 챗봇 서비스의 국내외 동향분석 및 발전전망 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=37989&bcIdx=20156&parentSeq=20156), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=20156&cbIdx=37989&fileNo=1)
 * (7/31) [SPRi 이슈리포트 2018-002] 범용 인공지능의 개념과 연구 현황 - [안내](https://spri.kr/posts/view/22231?code=issue_reports), [파일](https://spri.kr/download/21964)
@@ -123,6 +130,7 @@
 * NIPA 정보통신산업진흥원 - https://ai-korea.kr/main/main.do
 * IITP 정보통신기획평가원 - https://www.iitp.kr/main.it
 * 「IT & Future Strategy 보고서」: 21세기 한국사회의 주요 패러다임 변화를 분석하고 이를 토대로 미래 지능화 시대의 주요 이슈를 전망, ICT를 통한 해결방안을 모색하기 위해 한국지능정보사회진흥원(NIA)에서 기획, 발간하는 보고서
+* KISTI DATA INSIGHT - https://mirian.kisti.re.kr/insight/insight.jsp
 ----
 ### AI Hub - AI Trend 
 * https://aihub.or.kr/notice/AI_Trend
