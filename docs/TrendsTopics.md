@@ -8,7 +8,6 @@
 * GPT3 - "Language Models are Few-Shot Learners", NeurIPS 2020. - [arxiv](https://arxiv.org/abs/2005.14165), [논문리뷰](https://littlefoxdiary.tistory.com/44), [analyticsvidhya](https://www.analyticsvidhya.com/blog/2021/01/gpt-3-the-next-big-thing-foundation-of-future/)
 <img src="https://www.researchgate.net/publication/344197785/figure/fig5/AS:934416989835265@1599793779247/GPT-architecture-described-in-Improving-Language-Understanding-by-Generative.ppm" width=70%>
 
-
 ###  A method of pre-training language representations
 * Context-free models
   - word2vec or GloVe generate a single "word embedding" 
@@ -39,7 +38,6 @@
 * generative models for speech - https://github.com/igul222/speech
 * wave2letter - End-to-End ConvNet-based SR system : http://arxiv.org/pdf/1609.03193v2.pdf
 
-
 ### Word Embedding 
 * Word2Vec Google Code - [archive](https://code.google.com/archive/p/word2vec), [svn](http://word2vec.googlecode.com/svn/trunk)(broken), [group](https://groups.google.com/forum/#!forum/word2vec-toolkit)
 * [The Illustrated Word2vec](http://jalammar.github.io/illustrated-word2vec/) by Jay Alammar
@@ -49,3 +47,13 @@
 ### Subword unit 
 * Word Piece Model - [git](https://github.com/rsennrich/subword-nmt), [blog](https://lovit.github.io/nlp/2018/04/02/wpm/)
 * Byte-pair Encoding (BPE) 
+
+---
+### Hyperscale AI
+* 국내 뉴스 - 날짜별
+  - (7/8) 대기업들이 뛰어드는 ‘초거대 AI’는 무엇 (하이퍼클로바, 성능비교) - [매경](https://www.mk.co.kr/news/business/view/2021/07/659406/)
+  - (5/25) 검색의도 파악하는 네이버 '초거대 AI'…LG도 "1억弗 투자" - [머니투데이](https://news.mt.co.kr/mtview.php?no=2021052419052347334)
+  - (5/24) "250년치 논문·특허 분석…'초거대 AI'는 (LG AI연구원장 인터뷰) - [매경](https://www.mk.co.kr/news/economy/view/2021/05/499279/)
+  - (2/10) 망자와의 대화 … AI가 '디지털 환생' 시대 여나 - [한경](https://www.hankyung.com/opinion/article/2021020959791)
+* 발표, 블로그 외
+  - [방송트랜드&인사이트] 초거대 AI, 인간 대신 콘텐츠 창작할까, 이희대 - [링크](http://www.kocca.kr/trend/vol26/sub/s21.html)
