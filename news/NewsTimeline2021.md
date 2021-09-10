@@ -1,3 +1,9 @@
+### Sep. 2021
+* (9/9) KT, 글로벌데이터 전문기업 ‘Epsilon’ 1,700억원에 인수 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=22435)
+* (9/8) 디에스랩글로벌, 무제한 오토라벨링이 가능한 서버 설치형 MLOps 솔루션 ‘DS2.ai Enterprise’ - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=22418)
+* (8/30~9/3) [INTERSPEECH2021](https://www.interspeech2021.org/)
+
+
 ### August 2021
 * (8/22) Baidu: 2세대 쿤룬 인공지능 칩과 오픈소스 AI 플랫폼 바이두 브레인 7.0 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=22209)
 * (8/22) 스탠퍼드대 연구진, "대규모 언어모델이 편향성 강화하고 심각한 환경 오염 발생시켜" - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=140210)
