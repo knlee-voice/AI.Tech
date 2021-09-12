@@ -1,4 +1,5 @@
 ### Sep. 2021
+* (9/9) '2021 AI & Bigdata Smart Convergence [url](https://conference.etnews.com/conf_info.html?uid=188)
 * (9/9) KT, 글로벌데이터 전문기업 ‘Epsilon’ 1,700억원에 인수 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=22435)
 * (9/8) 디에스랩글로벌, 무제한 오토라벨링이 가능한 서버 설치형 MLOps 솔루션 ‘DS2.ai Enterprise’ - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=22418)
 * (8/30~9/3) [INTERSPEECH2021](https://www.interspeech2021.org/)
