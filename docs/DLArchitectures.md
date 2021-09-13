@@ -1,5 +1,5 @@
 # Deep Learning Architectures
-
+* The Neural Network Zoo - [A mostly complete chart of neural networks](https://www.asimovinstitute.org/neural-network-zoo/)
 * Deep Learning Architectures (Univ. of OSLO) - [pdf](https://www.uio.no/studier/emner/matnat/ifi/INF5860/v17/timeplan/architectures-in-deep-learning.pdf)
 * MDPI Review: A State-of-the-Art Survey on Deep Learning Theory and Architectures(2019) - [pdf](https://www.mdpi.com/2079-9292/8/3/292/pdf)
 * A BRIEF HISTORY OF NEURAL NETWORK ARCHITECTURES(2017) - [topbots.com](https://www.topbots.com/a-brief-history-of-neural-network-architectures/)
