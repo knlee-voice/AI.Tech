@@ -1,4 +1,6 @@
 ### Sep. 2021
+* (9/15) 교육 AI는 선택 아닌 필수... 2021 에듀테크 코리아 포럼 AI 교육전문가 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=140644) 
+* (9/10) 페이스북‧MS 글로벌 기업들이 그리는 메타버스 미래는…“일상 정보 접근방식 달라질 것” - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=140593)
 * (9/9) [전자신문인터넷 컨퍼런스]'2021 AI & Bigdata Smart Convergence (성공적인 활용 및 도입 전략: 데이터레이크, RPA)- [url](https://conference.etnews.com/conf_info.html?uid=188)
 * (9/9) KT, 글로벌데이터 전문기업 ‘Epsilon’ 1,700억원에 인수 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=22435)
 * (9/8) 디에스랩글로벌, 무제한 오토라벨링이 가능한 서버 설치형 MLOps 솔루션 ‘DS2.ai Enterprise’ - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=22418)
@@ -42,6 +44,7 @@
 * (7/4) [AI 리뷰] 게임 플레이 에이전트를 빠르게 학습하고, 배포 - [AiTimes](http://www.aitimes.kr/news/articleView.html?idxno=21550)
 
 ### Jun 2021
+* (6/30) [스페셜리포트] ① AI가 하는 스포츠중계...경기 흐름과 맥락을 읽어낼 수 있을까 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=139318)
 * [Communications of the ACM] Deep Learning for AI - [acm](https://dl.acm.org/doi/10.1145/3448250), [youtube](https://www.youtube.com/watch?v=at0OXoUmEj4)
 * [2021 AWS Machine Learning Summit](https://www.amazon.science/latest-news/on-demand-the-2021-aws-machine-learning-summit)
 * (6/28~7/1) MWC2021 - https://www.mwcbarcelona.com/, [pdf](https://dl.acm.org/doi/pdf/10.1145/3448250), [blog](https://bdtechtalks.com/2021/07/01/deep-learning-future-bengio-hinton-lecun/)
