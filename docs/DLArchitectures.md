@@ -8,7 +8,8 @@
 * IBM:: Article-Deep learning architectures(update 2021, 2017) - [link](https://developer.ibm.com/technologies/artificial-intelligence/articles/cc-machine-learning-deep-learning-architectures/)
 * A Brief History of Neural Nets and Deep Learning(2020) - [link](https://www.skynettoday.com/overviews/neural-net-history)
 * Neural Network Architectures by Eugenio Culurciello(2017) - [link](https://towardsdatascience.com/neural-network-architectures-156e5bad51ba)
-<img src="https://miro.medium.com/max/4000/1*n16lj3lSkz2miMc_5cvkrA.jpeg" width=50%>
+  - <img src="https://miro.medium.com/max/4000/1*n16lj3lSkz2miMc_5cvkrA.jpeg" width=70%>
+* CNNs Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more … (2017) - [medium](https://medium.com/@siddharthdas_32104/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
 
 ---
 
@@ -36,8 +37,6 @@
 <img src="http://fastml.com/images/deep_learning_diagrams/lstm.png" width=60%>
 
 ---
-__CNNs Architectures: LeNet, AlexNet, VGG, GoogLeNet, ResNet and more …__
-[medium](https://medium.com/@siddharthdas_32104/cnns-architectures-lenet-alexnet-vgg-googlenet-resnet-and-more-666091488df5)
 
 __How to draw Deep learning network architecture diagrams?__ 
 * Deep learning architecture diagrams(2016) - [site](http://fastml.com/deep-learning-architecture-diagrams)
