@@ -1,4 +1,5 @@
 ### Sep. 2021
+* (9/27) (AI경제연구소 웨비나) AI 인재, 국가 포트폴리오 전략을 짜자 - [Youtube Live](https://www.youtube.com/watch?v=cooe7IXpeks)
 * (9/15) 교육 AI는 선택 아닌 필수... 2021 에듀테크 코리아 포럼 AI 교육전문가 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=140644) 
 * (9/10) 페이스북‧MS 글로벌 기업들이 그리는 메타버스 미래는…“일상 정보 접근방식 달라질 것” - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=140593)
 * (9/9) [전자신문인터넷 컨퍼런스]'2021 AI & Bigdata Smart Convergence (성공적인 활용 및 도입 전략: 데이터레이크, RPA)- [url](https://conference.etnews.com/conf_info.html?uid=188)
