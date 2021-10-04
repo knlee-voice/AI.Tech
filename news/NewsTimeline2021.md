@@ -1,4 +1,8 @@
+### Oct. 2021
+* (10/3) 양자컴업체 '아이온큐' 美증시 입성 - [매경](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=001&oid=009&aid=0004859715) 
+
 ### Sep. 2021
+* (9/28~29) 스마트클라우드쇼 2021 - [행사](https://e.chosunbiz.com/tc-events/2021-스마트클라우드쇼/), [Youtube-1일차](https://youtu.be/69f4DioEv1A), [Youtube-2일차](https://youtu.be/W7YJw2VnKnU)
 * (9/27) [AI경제연구소 웨비나] " AI 인재, 국가 포트폴리오 전략을 짜자" - [Youtube Live](https://www.youtube.com/watch?v=cooe7IXpeks), [한경](https://www.hankyung.com/it/article/2021092286431)
 * (9/15) 교육 AI는 선택 아닌 필수... 2021 에듀테크 코리아 포럼 AI 교육전문가 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=140644) 
 * (9/10) 페이스북‧MS 글로벌 기업들이 그리는 메타버스 미래는…“일상 정보 접근방식 달라질 것” - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=140593)
