@@ -1,4 +1,8 @@
 ### Oct. 2021
+* (10/6~7) 메타콘 2021 (Metacon 2021) - [사이트](www.meta-con.io), [유튜브](https://www.youtube.com/channel/UCMyi4sjjqccZi6CsThBDGhg)
+* (10/5~6) 2021 콘텐츠스텝업 온라인 특강 [인공지능과 콘텐츠] -  [이벤트](https://event-us.kr/contentstepup/event/37215)
+, [유튜브: 한국콘텐츠진흥원]
+  - STEP1: AI BM, 기획 --> STEP2: AI발전방향(디지털휴먼) --> STEP3A: AI제작1 이미지/영상, STEP3B: AI제작2 음성/언어
 * (10/3) 양자컴업체 '아이온큐' 美증시 입성 - [매경](https://news.naver.com/main/read.naver?mode=LSD&mid=sec&sid1=001&oid=009&aid=0004859715) 
 
 ### Sep. 2021
