@@ -1,4 +1,11 @@
+### Nov. 2021
+* (11/1~2) 삼성 AI 포럼 2021 - '내일을 위한 AI 연구'(AI Research for Tomorrow) - https://saif-2021.com
+
 ### Oct. 2021
+* (10/27) 제5회 AI 차세대 컨택센터 컨퍼런스 2021, [프로그램](https://conference.etnews.com/conf_info.html?uid=189)
+* (10/21) 글로벌 인공지능 포럼 - AI of a New Era (과기정통부 주최) - http://www.globalaiforum.kr
+  - 기조연설: Yoshua Bengio 
+* (10/20) NUGU CONFERENCE 2021 (Beyond Telco, Communication Agent) - https://nuguconference2021.com
 * (10/6~7) 메타콘 2021 (Metacon 2021) - [사이트](www.meta-con.io), [유튜브](https://www.youtube.com/channel/UCMyi4sjjqccZi6CsThBDGhg)
 * (10/5~6) 2021 콘텐츠스텝업 온라인 특강 [인공지능과 콘텐츠] -  [이벤트](https://event-us.kr/contentstepup/event/37215)
 , [유튜브: 한국콘텐츠진흥원]
