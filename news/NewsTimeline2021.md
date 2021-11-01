@@ -1,8 +1,10 @@
 ### Nov. 2021
-* (11/1~2) 삼성 AI 포럼 2021 - '내일을 위한 AI 연구'(AI Research for Tomorrow) - https://saif-2021.com
+* (11/1~2) 삼성 AI 포럼 2021 - '내일을 위한 AI 연구'(AI Research for Tomorrow) - https://saif-2021.com, https://youtu.be/aKvJvL3hEro
+  - Keynote: Yoshua Bengio “GFlowNets for Scientific Discovery”
 
 ### Oct. 2021
 * (10/27) 제5회 AI 차세대 컨택센터 컨퍼런스 2021, [프로그램](https://conference.etnews.com/conf_info.html?uid=189)
+* (10/25) 언제나 함께하는 AI비서로 생활을 바꾼다! KT '모두의 일상이 되는 인공지능’ 선언 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=22868)
 * (10/21) 글로벌 인공지능 포럼 - AI of a New Era (과기정통부 주최) - http://www.globalaiforum.kr
   - 기조연설: Yoshua Bengio 
 * (10/20) NUGU CONFERENCE 2021 (Beyond Telco, Communication Agent) - https://nuguconference2021.com
