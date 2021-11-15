@@ -34,7 +34,11 @@
   * [Korean Speech DB for ASR](./docs/KoSpeechDB.md) : `한국어 음성DB 정리: 199x ~ 202x`  
 * [Open Course Ware](./docs/OCW.md) - `MOOCs(massive open online courses)`
   * CS20, CS231n, CS224n, ... 
-  
+ 
+[Benchmark]
+---
+* AdvGLUE(The Adversarial GLUE Benchmark): Multi-Task Benchmark for Robustness Evaluation of Language Models - https://adversarialglue.github.io/, [arxiv](https://arxiv.org/abs/2111.02840)
+
 [ETC.]
 ---
 * [Explore github.com](./docs/git_collection.md)
