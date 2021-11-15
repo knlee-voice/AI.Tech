@@ -8,8 +8,11 @@
 * (11/10) 초대규모 인공지능(AI) 언어모델 개발 지원하는...엔비디아, 트리톤 추론서버 공개 / 'GTC 2021'에서 기조연설 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23095)
   - 심층 도메인 질문에 대답하고, 언어를 번역하고, 문서를 이해 및 요약하며, 스토리와 컴퓨팅 프로그램을 작성
   - 음성 AI NVIDIA Riva, 자연어 이해 메가트론-튜링 NLG 530B 대형 언어 모델, 오디오 소스를 기반으로 한 얼굴 및 신체 애니메이션 NVIDIA 옴니버스 애니메이션 시스템의 조합으로 구현
+* (11/8-11) NVIDIA-GTC - https://www.nvidia.com/ko-kr/gtc/
+* (11/4-5) 2022 ICT 산업전망 컨퍼런스 - http://ictconference.kr/
 * (11/1~2) 삼성 AI 포럼 2021 - '내일을 위한 AI 연구'(AI Research for Tomorrow) - https://saif-2021.com, https://youtu.be/aKvJvL3hEro
   - Keynote: Yoshua Bengio “GFlowNets for Scientific Discovery”
+  - [요약정리](https://www.philgineer.com/2021/11/ai-2021.html)
 
 ### Oct. 2021
 * (10/27) 제5회 AI 차세대 컨택센터 컨퍼런스 2021, [프로그램](https://conference.etnews.com/conf_info.html?uid=189)
