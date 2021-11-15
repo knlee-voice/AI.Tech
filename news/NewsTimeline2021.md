@@ -1,4 +1,13 @@
+
+### Dec. 2021
+* (12/8-9) 'AI Summit SEOUL 2021' - [aisummit](https://aisummit.co.kr/)
+
 ### Nov. 2021
+* (11/14) ETRI, '지능화융합연구소 디지털 테크위크 2021' 개최 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23142)
+* (11/11) ETRI, 인공지능 실시간 낙상 예측기술 개발...150~200ms 이내 낙상 예측, 95% 정확도- [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23107)
+* (11/10) 초대규모 인공지능(AI) 언어모델 개발 지원하는...엔비디아, 트리톤 추론서버 공개 / 'GTC 2021'에서 기조연설 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23095)
+  - 심층 도메인 질문에 대답하고, 언어를 번역하고, 문서를 이해 및 요약하며, 스토리와 컴퓨팅 프로그램을 작성
+  - 음성 AI NVIDIA Riva, 자연어 이해 메가트론-튜링 NLG 530B 대형 언어 모델, 오디오 소스를 기반으로 한 얼굴 및 신체 애니메이션 NVIDIA 옴니버스 애니메이션 시스템의 조합으로 구현
 * (11/1~2) 삼성 AI 포럼 2021 - '내일을 위한 AI 연구'(AI Research for Tomorrow) - https://saif-2021.com, https://youtu.be/aKvJvL3hEro
   - Keynote: Yoshua Bengio “GFlowNets for Scientific Discovery”
 
