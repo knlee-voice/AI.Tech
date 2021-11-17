@@ -19,6 +19,7 @@
 * (10/25) 언제나 함께하는 AI비서로 생활을 바꾼다! KT '모두의 일상이 되는 인공지능’ 선언 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=22868)
 * (10/21) 글로벌 인공지능 포럼 - AI of a New Era (과기정통부 주최) - http://www.globalaiforum.kr
   - 기조연설: Yoshua Bengio 
+  - "임준호, GPT-3 이후 거대 언어모델 연구 동향 및 향후 발전 방향(Large-scale Language Model: Research Trend after GPT-3 and Future Direction)" - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=141173)
 * (10/20) NUGU CONFERENCE 2021 (Beyond Telco, Communication Agent) - https://nuguconference2021.com
 * (10/6~7) 메타콘 2021 (Metacon 2021) - [사이트](www.meta-con.io), [유튜브](https://www.youtube.com/channel/UCMyi4sjjqccZi6CsThBDGhg)
 * (10/5~6) 2021 콘텐츠스텝업 온라인 특강 [인공지능과 콘텐츠] -  [이벤트](https://event-us.kr/contentstepup/event/37215)
