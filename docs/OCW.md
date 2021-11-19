@@ -2,6 +2,7 @@
 
 DEEP LEARNING
 --- 
+* Full Stack Deep Learning - [Spring 2021 online courese](https://fullstackdeeplearning.com/spring2021/)(#13 Lecture, #9 Labs), [github](https://github.com/full-stack-deep-learning)
 * Stanford Artificial Intelligence Laboratory (AI 강의리스트) - http://ai.stanford.edu/courses/
 * DS-GA 1008: NYU CENTER FOR DATA SCIENCE / Yann LeCun & Alfredo Canziani - https://atcold.github.io/pytorch-Deep-Learning/ 
   - [[KR](https://atcold.github.io/pytorch-Deep-Learning/ko)] 학생들이 작성한 강의 노트 (130명 이상 작성, 20 여명 번역) 
