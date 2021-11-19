@@ -1,6 +1,7 @@
 
 ### 2021
 * (10/12) State of AI Report 2021 (#188 slides) - https://www.stateof.ai/
+* (9/1) 2021년 이슈리포트 Vol.4. 데이터 댐 구축과 AI 기반 데이터 가치 고도화 - [리포트](http://smroadmap.smtech.go.kr/s0403/view/id/187#u)
 * (9/3) [THE AI REPORT 2021-1] 인공지능 시대, 벤치마크 데이터셋의 중요성 - [안내](https://aihub.or.kr/node/49971), [파일](https://aihub.or.kr/sites/default/files/2021-09/%5BTHE_AI_REPORT_2021-1%5D_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%8B%9C%EB%8C%80_%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B%EC%9D%98_%EC%A4%91%EC%9A%94%EC%84%B1.pdf)
 * (8/15) [KOCCA] 실감콘텐츠 글로벌 동향분석(제3호) : 메타버스 기업으로의 변신 선언한 Facebook의 비전과 과제 - [안내](https://www.itfind.or.kr/report/analysis/read.do?selectedId=02-004-210817-000009), [보고서](https://www.kocca.kr/cop/bbs/view/B0158973/1845423.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=204025&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
 * (8/11) [KOCCA포커스 통권 134호] 메타버스와 콘텐츠 - [안내](https://www.kocca.kr/cop/bbs/list/B0000141.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=200898&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
@@ -113,6 +114,7 @@
   * 지속성장 - ⑯ [학습역량 진단 및 개선](http://www.aitimes.com/news/articleView.html?idxno=136713), ⑰ [평생학습](http://www.aitimes.com/news/articleView.html?idxno=136714), ⑱ [뇌인지 발달모사](http://www.aitimes.com/news/articleView.html?idxno=136716), ⑲ [연합학습](http://www.aitimes.com/news/articleView.html?idxno=136724), ⑳ [모델경량화](http://www.aitimes.com/news/articleView.html?idxno=136725)
 
 ### 중소기업 기술 로드맵
+* [소개](http://smroadmap.smtech.go.kr/s0101), [이슈리포트](http://smroadmap.smtech.go.kr/s0403), [연도별 ](http://smroadmap.smtech.go.kr/s0402)
 * (2021~2023) 대분류: 인공지능 - [안내](http://smroadmap.smtech.go.kr/s0401/index/search_year/2020)
   * 인간-인공지능 협업 시스템 - [소개](http://smroadmap.smtech.go.kr/s0401/view/search_year/2020/id/2588)
   * AutoML 솔루션 - [소개](http://smroadmap.smtech.go.kr/s0401/view/search_year/2020/id/2572)
