@@ -3,6 +3,17 @@
 * (12/8-9) 'AI Summit SEOUL 2021' - [aisummit](https://aisummit.co.kr/)
 
 ### Nov. 2021
+* (11/25-26) Global AI Summit 2021 - [summit](http://globalaisummit.kr/home/)
+* (11/18) 카카오브레인, 한국어 초거대 AI 언어모델 ‘KoGPT’ 공개 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23227), [github/kogpt](https://github.com/kakaobrain/kogpt)
+* (11/18) 래티스, 인공지능 엣지 디바이스 개발 가속하는 '센스AI' - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23222)
+* (11/16) 차세대 인공지능 정부 R&D 사업: 사람중심 인공지능 핵심원천기술개발에 5년간 총 3,018억 원 투입 - [뉴스](http://www.mtnews.net/news/view.php?idx=12233),  [유튜브 사업설명회](https://www.youtube.com/watch?v=d-5neAOFP0U) 
+  - AI 학습능력 개선 
+    - 효율학습 AI: 자기 지도학습, 메타 학습, 강화 학습 
+    - 범위확장 AI: 지식기반추론, 상식기반추론, 실세계 변화 적응
+    - 지속성장 AI: 학습역량 진단 및 개선, 평생 학습 
+  - AI 활용성 개선 
+    - 신뢰할 수 있는 AI: 설명가능한 AI, 공정한 AI
+    - 소통하는 AI: 복합대화, 에이전트 간 협업, 교감형 AI 
 * (11/14) ETRI, '지능화융합연구소 디지털 테크위크 2021' 개최 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23142)
 * (11/11) ETRI, 인공지능 실시간 낙상 예측기술 개발...150~200ms 이내 낙상 예측, 95% 정확도- [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23107)
 * (11/10) 초대규모 인공지능(AI) 언어모델 개발 지원하는...엔비디아, 트리톤 추론서버 공개 / 'GTC 2021'에서 기조연설 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23095)
@@ -13,6 +24,7 @@
 * (11/1~2) 삼성 AI 포럼 2021 - '내일을 위한 AI 연구'(AI Research for Tomorrow) - https://saif-2021.com, https://youtu.be/aKvJvL3hEro
   - Keynote: Yoshua Bengio “GFlowNets for Scientific Discovery”
   - [요약정리](https://www.philgineer.com/2021/11/ai-2021.html)
+* (11/2) Microsoft is giving businesses access to OpenAI’s powerful AI language model GPT-3 - [Article](https://www.theverge.com/2021/11/2/22758963/microsoft-openai-gpt-3-azure-cloud-service-ai-language)
 
 ### Oct. 2021
 * (10/27) 제5회 AI 차세대 컨택센터 컨퍼런스 2021, [프로그램](https://conference.etnews.com/conf_info.html?uid=189)
