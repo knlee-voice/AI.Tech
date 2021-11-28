@@ -1,9 +1,11 @@
 
 ### Dec. 2021
 * (12/8-9) 'AI Summit SEOUL 2021' - [aisummit](https://aisummit.co.kr/)
+* (12/3) 2021 인공지능 대학원(AIGS) 심포지엄 - https://www.aigs.kr/
 
 ### Nov. 2021
 * (11/25-26) Global AI Summit 2021 - [summit](http://globalaisummit.kr/home/)
+* (11/24) 유네스코, 193개 회원국 만장일치로 AI윤리 권고 채택 (141개 조항) - [Zdnet](https://zdnet.co.kr/view/?no=20211124105459), [unesco](https://zdnet.co.kr/view/?no=20211124105459)
 * (11/18) 카카오브레인, 한국어 초거대 AI 언어모델 ‘KoGPT’ 공개 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23227), [github/kogpt](https://github.com/kakaobrain/kogpt)
 * (11/18) 래티스, 인공지능 엣지 디바이스 개발 가속하는 '센스AI' - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23222)
 * (11/16) 차세대 인공지능 정부 R&D 사업: 사람중심 인공지능 핵심원천기술개발에 5년간 총 3,018억 원 투입 - [뉴스](http://www.mtnews.net/news/view.php?idx=12233),  [유튜브 사업설명회](https://www.youtube.com/watch?v=d-5neAOFP0U) 
