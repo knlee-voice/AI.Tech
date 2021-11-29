@@ -4,6 +4,10 @@
 * (12/3) 2021 인공지능 대학원(AIGS) 심포지엄 - https://www.aigs.kr/
 
 ### Nov. 2021
+* (11/27) AI, 구독 서비스- [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23361)
+  - AI 전화 '비토(VITO)', 문제풀이 '콴다(QANDA)', AI TOEIC 'Riiid 튜터', 영어선생님 'AI튜터', AI운동코치 '스마트홈트', 당료병 관리 '닥터다이어리', 
+  - 음악 검색 '포인튠'(월 2만원대 개인멤버십), AI STUDIOS(딥브레인AI, 28명 AI모델 지원(한국어 11명, 영어 12명, 중국어 4명, 일본어 1명))
+* (11/26) 네이버 클로바더빙, AI ‘보이스 메이커’ 참가자 모집(내레이션, 일상 대화, 구연동화, 쇼핑호스트, 애니메이션, 영화 더빙 중 하나의 스타일을 선택) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23347)
 * (11/25-26) Global AI Summit 2021 - [summit](http://globalaisummit.kr/home/)
 * (11/24) 유네스코, 193개 회원국 만장일치로 AI윤리 권고 채택 (141개 조항) - [Zdnet](https://zdnet.co.kr/view/?no=20211124105459), [unesco](https://zdnet.co.kr/view/?no=20211124105459)
 * (11/18) 카카오브레인, 한국어 초거대 AI 언어모델 ‘KoGPT’ 공개 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23227), [github/kogpt](https://github.com/kakaobrain/kogpt)
