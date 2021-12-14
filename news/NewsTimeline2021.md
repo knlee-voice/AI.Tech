@@ -27,7 +27,9 @@
   - 음성 AI NVIDIA Riva, 자연어 이해 메가트론-튜링 NLG 530B 대형 언어 모델, 오디오 소스를 기반으로 한 얼굴 및 신체 애니메이션 NVIDIA 옴니버스 애니메이션 시스템의 조합으로 구현
 * (11/8-11) NVIDIA-GTC - https://www.nvidia.com/ko-kr/gtc/
 * (11/4-5) 2022 ICT 산업전망 컨퍼런스 - http://ictconference.kr/
-* (11/4) AI혁신 허브 컨소시엄 공식 출범...12개 핵심과제와 연구팀 확정 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=141322)
+* (11/4) AI혁신 허브 컨소시엄 공식 출범...12개 핵심과제와 연구팀 확정 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=141322), 
+* (11/2) 인공지능 혁신 중심지(허브) 출범 - [보도자료](https://www.msit.go.kr/bbs/view.do?sCode=user&mId=113&mPid=112&pageIndex=3&bbsSeqNo=94&nttSeqNo=3180907&searchOpt=ALL&searchTxt=)
+  - 총 12개 연구팀(26개 대학, 137명의 교수) 
 * (11/1~2) 삼성 AI 포럼 2021 - '내일을 위한 AI 연구'(AI Research for Tomorrow) - https://saif-2021.com, https://youtu.be/aKvJvL3hEro
   - Keynote: Yoshua Bengio “GFlowNets for Scientific Discovery”
   - [요약정리](https://www.philgineer.com/2021/11/ai-2021.html)
