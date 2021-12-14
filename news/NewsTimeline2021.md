@@ -1,7 +1,7 @@
 
 ### Dec. 2021
 * (12/8-9) 'AI Summit SEOUL 2021' - [aisummit](https://aisummit.co.kr/)
-* (12/3) 2021 인공지능 대학원(AIGS) 심포지엄 - https://www.aigs.kr/, [youtube채널](https://www.youtube.com/watch?v=xhJODXWwplQ)
+* (12/3) 2021 인공지능 대학원([AIGS](https://www.aigs.kr)) 심포지엄 - [youtube채널](https://www.youtube.com/watch?v=xhJODXWwplQ)
 
 ### Nov. 2021
 * (11/27) AI, 구독 서비스- [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23361)
