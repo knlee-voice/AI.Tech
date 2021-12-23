@@ -1,5 +1,8 @@
 
 ### Dec. 2021
+* (12/14) LG 초거대 AI ‘EXAONE(엑사원)’ .3천억개 파라미터, 6천억개 말뭉치, 2억 5천만개 이미지로 무장 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23585)
+* (12/9) 엔비디아 전문가 11명이 전망한 2022년 AI 산업은? - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23523)
+  - 대화형 AI,대규모 언어모델, AI4Science, 프로그래밍 가능한 자동차, 디지털 트윈과 가상 세계
 * (12/8-9) 'AI Summit SEOUL 2021' - [aisummit](https://aisummit.co.kr/)
 * (12/3) 2021 인공지능 대학원([AIGS](https://www.aigs.kr)) 심포지엄 - [youtube채널](https://www.youtube.com/watch?v=xhJODXWwplQ)
 
