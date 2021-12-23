@@ -12,6 +12,7 @@
   - 음악 검색 '포인튠'(월 2만원대 개인멤버십), AI STUDIOS(딥브레인AI, 28명 AI모델 지원(한국어 11명, 영어 12명, 중국어 4명, 일본어 1명))
 * (11/26) 네이버 클로바더빙, AI ‘보이스 메이커’ 참가자 모집(내레이션, 일상 대화, 구연동화, 쇼핑호스트, 애니메이션, 영화 더빙 중 하나의 스타일을 선택) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23347)
 * (11/25-26) Global AI Summit 2021 - [summit](http://globalaisummit.kr/home/)
+* (11/24) 음성인식 AI 서비스 급증하는데… 내 개인정보는 괜찮을까 - [안랩 시큐리티 레터](https://www.ahnlab.com/kr/site/securityinfo/secunews/secuNewsView.do?seq=30989)
 * (11/24) 유네스코, 193개 회원국 만장일치로 AI윤리 권고 채택 (141개 조항) - [Zdnet](https://zdnet.co.kr/view/?no=20211124105459), [unesco](https://zdnet.co.kr/view/?no=20211124105459)
 * (11/18) 카카오브레인, 한국어 초거대 AI 언어모델 ‘KoGPT’ 공개 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23227), [github/kogpt](https://github.com/kakaobrain/kogpt)
 * (11/18) 래티스, 인공지능 엣지 디바이스 개발 가속하는 '센스AI' - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23222)
