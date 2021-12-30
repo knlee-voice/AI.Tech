@@ -1,5 +1,6 @@
 
 ### Dec. 2021
+* (12/16) 현대차그룹, 신개념 소형 모빌리티 플랫폼 ‘모베드(MobED)’ 공개 - [AiTimes](http://www.aitimes.kr/news/articleView.html?idxno=23633), [시연영상](https://youtu.be/KeVDFvYofks)
 * (12/14) LG 초거대 AI ‘EXAONE(엑사원)’ .3천억개 파라미터, 6천억개 말뭉치, 2억 5천만개 이미지로 무장 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23585)
 * (12/9) 엔비디아 전문가 11명이 전망한 2022년 AI 산업은? - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=23523)
   - 대화형 AI,대규모 언어모델, AI4Science, 프로그래밍 가능한 자동차, 디지털 트윈과 가상 세계
