@@ -19,6 +19,7 @@
   
 ### Oct. 2020
 * (10/29) SK텔레콤, 말로 하는 AI 상담 서비스 ‘보이스봇’ 공개 - [ITWORLD](https://www.itworld.co.kr/news/169974), [로봇신문](https://www.irobotnews.com/news/articleView.html?idxno=22764)
+* (10/14) 국립국어원 '우리말 빅데이터 활용 관련 온라인 토론회' - [발표,동영상](https://news.korean.go.kr/index.jsp?control=page&part=view&idx=12920)
 * (10/14) 월간기술동향 | 2021 10대 전략 기술 - [blog](https://blog.ex-em.com/1474)
   * People centricity (사람 중심) / Location independence (위치 독립성) / Resilient delivery (탄력적인 전달) / Combinatorial innovation (조합적 혁신)
 * (10/13) SK텔레콤, AWS 클라우드 기반 '스마트 컨택센터' 상용화 - 종량제(Pay Per Use)서비스, [전자신문](https://www.etnews.com/20201013000030) 
