@@ -1,3 +1,5 @@
+### Feb. 2022
+* (2/3) [arXiv](https://arxiv.org/abs/2202.01374) - mSLAM: Massively multilingual joint pre-training for speech and text
 
 ### Jan. 2022
 * (1/31) '인공지능도 소리로 객체 위치 추정한다'~ Virtual Acoustic World - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=24141) 
