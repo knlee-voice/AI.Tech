@@ -9,6 +9,7 @@
 * (2/12) 인공지능과 더불어 우리에게 다가오는 메타버스의 새로운 기회는 무엇인가? - [AIHub](http://www.aitimes.kr/news/articleView.html?idxno=24222)
   - " 2026년까지 25%의 사람들이 업무, 쇼핑, 교육, 사교 및 또는 엔터테인먼트를 위해 메타버스에서 하루 최소 1시간을 보낼 것이며, 전 세계 조직의 30%가 메타버스를 위한 제품과 서비스를 갖추게 될 것!"
   - Microsoft Ignite 2021 인용) "하이브리드 업무의 핵심인 유연성은 생산성과 상호 배타적인 것이 아니며, 이를 위해 모든 조직은 디지털과 물리적 공간을 통합하는 새로운 디지털 협업 구조를 필요로 한다. 앞으로 모든 비즈니스 프로세스는 데이터 및 인공지능(AI)을 통해 협업하고 디지털 및 물리적 세계를 연결하게 될 것!”
+* (2/10) LG전자, 인공지능·데이터·아키텍트·코딩 등 소프트웨어 전문가 인증프로그램 운영 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=24207)
 * (2/3) [arXiv](https://arxiv.org/abs/2202.01374) - mSLAM: Massively multilingual joint pre-training for speech and text
 
 ### Jan. 2022
