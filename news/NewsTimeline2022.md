@@ -1,6 +1,8 @@
 
 ### Mar. 2022
+* (3/18) AI와 대화하며 검색 정보 제공하는 '지식인터랙티브' 출시 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=143525)
 * (3/18) 한국미래기술교육연구원: 초거대(Hyperscale) AI와 최신 인공지능 개발이슈 -[세미나](https://kecft.or.kr/shop/item20.php?it_id=1644297122)
+* (3/14) 목소리만 좋으면 아이돌 가능…日메타버스 킬러콘텐츠로 브이튜버 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=143437)
 
 ### Feb. 2022
 * (2/24) 메타, 메타버스 개발용 AI '빌더 봇' - [디지털투데이](http://www.digitaltoday.co.kr/news/articleView.html?idxno=435317), [서울경제](https://www.sedaily.com/NewsView/2629L3CDD6)
