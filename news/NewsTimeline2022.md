@@ -1,6 +1,9 @@
 ### Apr. 2022
 * (4/22) KOBEST: Korean Balanced Evaluation of Significant Tasks - [Arxiv](https://arxiv.org/pdf/2204.04541.pdf), [huggingface](https://huggingface.co/datasets/skt/kobest_v1) : KB-BoolQ / KB-COPA / KB-WiC / KB-HellaSwag / KB-SentiNeg
+* (4/6) 오픈AI ‘DALL-E 2’ - [DALL·E 2](https://openai.com/dall-e-2/), [AITimes](http://www.aitimes.com/news/articleView.html?idxno=143854)
+* (4/6) [스페셜리포트] 트랜스포머 모델, 다양한 산업에서 인공지능 혁신!...‘트랜스포머 AI' 시대 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=24726)
 * (4/4) Pathways Language Model (PaLM): Scaling to 540 Billion Parameters - [blog](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
+
 ### Mar. 2022
 * (3/18) AI와 대화하며 검색 정보 제공하는 '지식인터랙티브' 출시 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=143525)
 * (3/18) 한국미래기술교육연구원: 초거대(Hyperscale) AI와 최신 인공지능 개발이슈 -[세미나](https://kecft.or.kr/shop/item20.php?it_id=1644297122)
