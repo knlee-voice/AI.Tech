@@ -1,3 +1,6 @@
+### May. 2022
+* (5/3) Democratizing access to large-scale language models with  Open Pretrained Transformer(OPT-175B) - [Meta AI](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/), [git](https://github.com/facebookresearch/metaseq)
+
 ### Apr. 2022
 * (4/22) KOBEST: Korean Balanced Evaluation of Significant Tasks - [Arxiv](https://arxiv.org/pdf/2204.04541.pdf), [huggingface](https://huggingface.co/datasets/skt/kobest_v1) : KB-BoolQ / KB-COPA / KB-WiC / KB-HellaSwag / KB-SentiNeg
 * (4/6) 오픈AI ‘DALL-E 2’ - [DALL·E 2](https://openai.com/dall-e-2/), [AITimes](http://www.aitimes.com/news/articleView.html?idxno=143854)
