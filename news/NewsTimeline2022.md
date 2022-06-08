@@ -1,4 +1,8 @@
+### Jun. 2022
+* (6/7) FriendliAI(전병곤 교수), 스타트업 최초 대규모 언어 모델 공개 - 130억 매개변수의 초거대 언어 모델 ‘GPT-FAI 13B’ - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25221)
+
 ### May. 2022
+* (5/26) LG, 인공지능·데이터 분야 3.6조원 투입... ‘LG AI연구원’ 중심으로 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25127)
 * (5/3) Democratizing access to large-scale language models with  Open Pretrained Transformer(OPT-175B) - [Meta AI](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/), [git](https://github.com/facebookresearch/metaseq)
 
 ### Apr. 2022
