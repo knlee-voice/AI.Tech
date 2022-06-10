@@ -1,15 +1,16 @@
 ### Jun. 2022
 * (6/8) [한국인공지능인증센터](https://www.koraia.org), 인공지능 도입을 위한 산업지능화인증(AI+X Certificate) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25229)
-* (6/7) FriendliAI(전병곤 교수), 스타트업 최초 대규모 언어 모델 공개 - 130억 매개변수의 초거대 언어 모델 ‘GPT-FAI 13B’ - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25221)
+* (6/7) FriendliAI(전병곤 교수), 스타트업 최초 대규모 언어 모델 공개 - 130억 매개변수의 초거대 언어 모델 'GPT-FAI 13B' - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25221)
 
 ### May. 2022
-* (5/26) LG, 인공지능·데이터 분야 3.6조원 투입... ‘LG AI연구원’ 중심으로 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25127)
+* (5/26) LG, 인공지능·데이터 분야 3.6조원 투입... 'LG AI연구원' 중심으로 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25127)
+* (5/22) 'KT AI 2.0' 연구 비전 공개: 인간처럼 감성까지 이해하는 '공감하는 인공지능' 개발 [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25086)
 * (5/3) Democratizing access to large-scale language models with  Open Pretrained Transformer(OPT-175B) - [Meta AI](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/), [git](https://github.com/facebookresearch/metaseq)
 
 ### Apr. 2022
 * (4/22) KOBEST: Korean Balanced Evaluation of Significant Tasks - [Arxiv](https://arxiv.org/pdf/2204.04541.pdf), [huggingface](https://huggingface.co/datasets/skt/kobest_v1) : KB-BoolQ / KB-COPA / KB-WiC / KB-HellaSwag / KB-SentiNeg
-* (4/6) 오픈AI ‘DALL-E 2’ - [DALL·E 2](https://openai.com/dall-e-2/), [AITimes](http://www.aitimes.com/news/articleView.html?idxno=143854)
-* (4/6) [스페셜리포트] 트랜스포머 모델, 다양한 산업에서 인공지능 혁신!...‘트랜스포머 AI' 시대 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=24726)
+* (4/6) 오픈AI 'DALL-E 2' - [DALL·E 2](https://openai.com/dall-e-2/), [AITimes](http://www.aitimes.com/news/articleView.html?idxno=143854)
+* (4/6) [스페셜리포트] 트랜스포머 모델, 다양한 산업에서 인공지능 혁신!...'트랜스포머 AI' 시대 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=24726)
 * (4/4) Pathways Language Model (PaLM): Scaling to 540 Billion Parameters - [blog](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
 
 ### Mar. 2022
