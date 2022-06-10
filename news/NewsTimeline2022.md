@@ -1,5 +1,6 @@
 ### Jun. 2022
 * (6/8) [한국인공지능인증센터](https://www.koraia.org), 인공지능 도입을 위한 산업지능화인증(AI+X Certificate) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25229)
+* (6/8) 엔비디아 [TAO Toolkit](https://developer.nvidia.com/tao-toolkit-get-started) 발표 (Adapt and Optimize / 음성·비전, 인공지능 모델 개발 가속화) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25232), [TechBlog](https://developer.nvidia.com/ko-kr/blog/%EB%85%B8%ED%8A%B8%EB%B6%81-%EA%B8%B0%EB%B0%98-nvidia-tao-toolkit%EC%9C%BC%EB%A1%9C-%EB%A7%9E%EC%B6%A4%ED%98%95-%EB%8C%80%ED%99%94%ED%98%95-ai-%EB%AA%A8%EB%8D%B8-%EA%B5%AC%EC%B6%95%ED%95%98%EA%B8%B0/)
 * (6/7) FriendliAI(전병곤 교수), 스타트업 최초 대규모 언어 모델 공개 - 130억 매개변수의 초거대 언어 모델 'GPT-FAI 13B' - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25221)
 
 ### May. 2022
