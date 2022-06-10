@@ -1,4 +1,5 @@
 ### Jun. 2022
+* (6/8) [한국인공지능인증센터](https://www.koraia.org), 인공지능 도입을 위한 산업지능화인증(AI+X Certificate) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25229)
 * (6/7) FriendliAI(전병곤 교수), 스타트업 최초 대규모 언어 모델 공개 - 130억 매개변수의 초거대 언어 모델 ‘GPT-FAI 13B’ - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25221)
 
 ### May. 2022
