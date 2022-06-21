@@ -29,6 +29,7 @@
 
 ### May. 2022
 * (5/22-27) https://www.2022.aclweb.org @Dublin
+  + [[Workshop](https://sites.google.com/view/deelio-ws/)] Deep Learning Inside Out (DeeLIO): Knowledge Extraction and Integration for Deep Learning Architectures
 * (5/26) LG, 인공지능·데이터 분야 3.6조원 투입... 'LG AI연구원' 중심으로 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25127)
 * (5/22) 'KT AI 2.0' 연구 비전 공개: 인간처럼 감성까지 이해하는 '공감하는 인공지능' 개발 [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25086)
 * (5/3) Democratizing access to large-scale language models with  Open Pretrained Transformer(OPT-175B) - [Meta AI](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/), [git](https://github.com/facebookresearch/metaseq)
