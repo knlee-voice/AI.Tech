@@ -1,3 +1,20 @@
+### Dec. 2022
+* (12/7-11) https://2022.emnlp.org @Abu Dhabi
+
+### Nov. 2022
+* (11/29-12/1) https://nips.cc/Conferences/2022 Hybrid@New Orleans
+
+### Oct. 2022
+
+### Sep. 2022
+* (9/18-22) - https://interspeech2022.org @Incheon Korea
+
+### Aug. 2022
+
+### July. 2022
+* (7/17-23) https://icml.cc/Conferences/2022 @Baltimore MD
+* (7/11-15) https://sigir.org/sigir2022 @Madrid 
+
 ### Jun. 2022
 * Naver HyperClova 기반 초거대 AI 
   - 과학기술정보통신부가 함께 '초거대 인공지능 API 시범 서비스 지원 사용자'를 모집 - [관련정보](https://business.facebook.com/pg/ClovaAI/posts/)
@@ -11,11 +28,13 @@
 * (6/7) [FriendliAI](https://friendli.ai/)(전병곤 교수), 스타트업 최초 대규모 언어 모델 공개 - 130억 매개변수의 초거대 언어 모델 'GPT-FAI 13B' - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25221)
 
 ### May. 2022
+* (5/22-27) https://www.2022.aclweb.org @Dublin
 * (5/26) LG, 인공지능·데이터 분야 3.6조원 투입... 'LG AI연구원' 중심으로 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25127)
 * (5/22) 'KT AI 2.0' 연구 비전 공개: 인간처럼 감성까지 이해하는 '공감하는 인공지능' 개발 [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25086)
 * (5/3) Democratizing access to large-scale language models with  Open Pretrained Transformer(OPT-175B) - [Meta AI](https://ai.facebook.com/blog/democratizing-access-to-large-scale-language-models-with-opt-175b/), [git](https://github.com/facebookresearch/metaseq)
 
 ### Apr. 2022
+* (4/25-29) https://iclr.cc/ (Virtual)
 * (4/22) KOBEST: Korean Balanced Evaluation of Significant Tasks - [Arxiv](https://arxiv.org/pdf/2204.04541.pdf), [huggingface](https://huggingface.co/datasets/skt/kobest_v1) : KB-BoolQ / KB-COPA / KB-WiC / KB-HellaSwag / KB-SentiNeg
 * (4/13-15) 제5회 국제인공지능대전(AI EXPO KOREA 2022) - [관련후속리뷰-한국인공지능협회](https://www.koraia.org/default/mp6/mp6_sub9.php?com_board_basic=read_form&sub=09&com_board_idx=277)
 * (4/6) 오픈AI 'DALL-E 2' - [DALL·E 2](https://openai.com/dall-e-2/), [AITimes](http://www.aitimes.com/news/articleView.html?idxno=143854)
