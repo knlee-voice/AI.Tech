@@ -1,4 +1,7 @@
 ### Jun. 2022
+* Naver HyperClova 기반 초거대 AI 
+  - 과학기술정보통신부가 함께 '초거대 인공지능 API 시범 서비스 지원 사용자'를 모집 - [관련정보](https://business.facebook.com/pg/ClovaAI/posts/)
+  - CLOVA Studio(초대규모 AI HyperCLOVA 기반의 No Code AI 도구) - [Closed Beta](https://www.ncloud.com/product/aiService/clovaStudio)
 * (6/20) ‘엣지상에 음성 AI’ 보다 쉽게 구축, STM32 MCU와 센소리의 보이스허브(VoiceHub) 기술 결합 -[AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25314)
 * (6/20) ‘제10회 문화데이터 활용 경진대회’(6/22-7/31) 문화데이터로 더 나은 세상 만드는 아이디어 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25322)
 * (6/8) 인공지능 챗봇 이루다, 과기정통부·KISDI와 협업, ‘AI 챗봇 윤리점검표’ 개발 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25233)
@@ -14,6 +17,7 @@
 
 ### Apr. 2022
 * (4/22) KOBEST: Korean Balanced Evaluation of Significant Tasks - [Arxiv](https://arxiv.org/pdf/2204.04541.pdf), [huggingface](https://huggingface.co/datasets/skt/kobest_v1) : KB-BoolQ / KB-COPA / KB-WiC / KB-HellaSwag / KB-SentiNeg
+* (4/13-15) 제5회 국제인공지능대전(AI EXPO KOREA 2022) - [관련후속리뷰-한국인공지능협회](https://www.koraia.org/default/mp6/mp6_sub9.php?com_board_basic=read_form&sub=09&com_board_idx=277)
 * (4/6) 오픈AI 'DALL-E 2' - [DALL·E 2](https://openai.com/dall-e-2/), [AITimes](http://www.aitimes.com/news/articleView.html?idxno=143854)
 * (4/6) [스페셜리포트] 트랜스포머 모델, 다양한 산업에서 인공지능 혁신!...'트랜스포머 AI' 시대 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=24726)
 * (4/4) Pathways Language Model (PaLM): Scaling to 540 Billion Parameters - [blog](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
