@@ -12,8 +12,13 @@
 ### Aug. 2022
 
 ### July. 2022
+* (~ 7/29) 초대규모 AI API CLOVA Studio 시범 사용자 모집( 공공,교육,연구기관) - [NAVER Cloud Platform](https://blog.naver.com/n_cloudplatform/222787313512) 
 * (7/17-23) https://icml.cc/Conferences/2022 @Baltimore MD
 * (7/11-15) https://sigir.org/sigir2022 @Madrid 
+* (7/10) ‘구글 클라우드 고객 어워즈’ 수상: 카카오브레인, 한국어 초거대 AI 모델 개발 성과 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25482)
+* (7/9) 메타AI, 매개변수 540억개의 ‘NLLB-200’ 오픈소스 공개(세계 200개 언어간 고품질 번역, 단일모델) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25475)
+* (7/8) 그래프코어 초지능 AI '굿 컴퓨팅' - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25469)
+* (7/5) 인간과 교감하는 인공지능 개발 위한 '2022 ETRI 휴먼이해 인공지능 논문경진대회'(과학기술정보통신부와 국가과학기술연구회 후원) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25431)
 
 ### Jun. 2022
 * Naver HyperClova 기반 초거대 AI 
