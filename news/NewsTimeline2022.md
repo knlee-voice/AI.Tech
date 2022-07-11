@@ -35,6 +35,7 @@
 * (6/7) [FriendliAI](https://friendli.ai/)(전병곤 교수), 스타트업 최초 대규모 언어 모델 공개 - 130억 매개변수의 초거대 언어 모델 'GPT-FAI 13B' - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25221)
 
 ### May. 2022
+* (5/31) [전자신문 2022년 CIO 세미나] AI 플랫폼, 데이터 센터의 미래를 그리다! 효성인포메이션시스템 - [youtube](https://www.youtube.com/watch?v=-yuAXEinr7A)
 * (5/22-27) https://www.2022.aclweb.org @Dublin
   + [[Workshop](https://sites.google.com/view/deelio-ws/)] Deep Learning Inside Out (DeeLIO): Knowledge Extraction and Integration for Deep Learning Architectures
 * (5/26) LG, 인공지능·데이터 분야 3.6조원 투입... 'LG AI연구원' 중심으로 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25127)
