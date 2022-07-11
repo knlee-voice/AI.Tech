@@ -18,6 +18,8 @@
 * (7/10) ‘구글 클라우드 고객 어워즈’ 수상: 카카오브레인, 한국어 초거대 AI 모델 개발 성과 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25482)
 * (7/9) 메타AI, 매개변수 540억개의 ‘NLLB-200’ 오픈소스 공개(세계 200개 언어간 고품질 번역, 단일모델) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25475)
 * (7/8) 그래프코어 초지능 AI '굿 컴퓨팅' - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25469)
+* (7/7) 2022 인공지능(AI) 사용자경험(UX) 트렌드 분석 및 전망 세미나 (유료) - [etnews](https://www.etnews.com/20220609000037)
+  - 초거대 메타 AI로 인한 대화, 영상, 감성 경험의 혁신 | AI UX 전문가 박성준 교수의 최근 국내외 사례 및 시연 중심의 인사이트 
 * (7/5) 인간과 교감하는 인공지능 개발 위한 '2022 ETRI 휴먼이해 인공지능 논문경진대회'(과학기술정보통신부와 국가과학기술연구회 후원) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25431)
 
 ### Jun. 2022
