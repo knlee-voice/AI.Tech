@@ -4,6 +4,7 @@
 * (5/25) [RE-125]  인공지능 통계체계 구축을 위한 기획연구 - [SPRI](https://spri.kr/posts/view/23441) 
 * (5/24) [RE-123] 인공지능 신뢰체계 정립방안 연구 - [SPRI](https://spri.kr/posts/view/23438)
 * (5/24) [RE-118]  산업별 인공지능(AI) 융합경쟁력 지수 개발 연구 - [SPRI](https://spri.kr/posts/view/23433)
+  - [그림 3-1] 선행연구 변수 검토 결과
 * (5/11) [IS-140] 국가 안보를 위한 인공지능(AI)과 3대 전략 기술 - [SPRI](https://spri.kr/posts/view/23427)
 * (5/4) [IS-139] AI Index 2022의 주요 내용과 시사점 - [SPRI](https://spri.kr/posts/view/23420) 
 * (4/13) [IS-131] 인공지능·플랫폼 패러다임과 미·중 기술 패권 - [SPRI](https://spri.kr/posts/view/23404) **
@@ -25,6 +26,9 @@
 * (8/15) [KOCCA] 실감콘텐츠 글로벌 동향분석(제3호) : 메타버스 기업으로의 변신 선언한 Facebook의 비전과 과제 - [안내](https://www.itfind.or.kr/report/analysis/read.do?selectedId=02-004-210817-000009), [보고서](https://www.kocca.kr/cop/bbs/view/B0158973/1845423.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=204025&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
 * (8/11) [KOCCA포커스 통권 134호] 메타버스와 콘텐츠 - [안내](https://www.kocca.kr/cop/bbs/list/B0000141.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=200898&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
 * (7/30) [KOCCA] 실감콘텐츠 글로벌 동향분석(제2호) - [보고서](https://www.kocca.kr/cop/bbs/view/B0158973/1845392.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=204025&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
+* (7/27) [RE-108] 2021년 SW산업 10대 이슈 전망 - [SPRI](https://spri.kr/posts/view/23283) 
+* (7/26) [RE-102] 오픈소스 활성화를 위한 오픈소스 연구개발 생태계 연구 - [SPRI](https://spri.kr/posts/view/23270) 
+* (7/23) [RE-98] 인공지능 연구지수 개발 및 성과 결정 요인 분석 연구 - [SPRI](https://spri.kr/posts/view/23268) 
 * (7/20) [IS-119] 글로벌 SW산업의 서비스화 패러다임과 성공사례 - [SPRI](https://spri.kr/posts/view/23284)
 * (7/15) [KOCCA] 실감콘텐츠 글로벌 동향분석(제1호) - [보고서](https://www.kocca.kr/cop/bbs/view/B0158973/1845391.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=204025&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
 * (7/6) [KISA Report 6월호_4] AI기반의 운영 모델로 변화하는 은행 및 금융서비스 - [안내](https://www.kisa.or.kr/public/library/IS_View.jsp?mode=view&p_No=158&b_No=158&d_No=542&ST=T&SV=), [파일](https://www.kisa.or.kr/jsp/common/downloadAction.jsp?bno=158&dno=542&fseq=1)
