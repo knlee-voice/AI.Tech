@@ -12,9 +12,12 @@
 ### Aug. 2022
 
 ### July. 2022
-* (~ 7/29) 초대규모 AI API CLOVA Studio 시범 사용자 모집( 공공,교육,연구기관) - [NAVER Cloud Platform](https://blog.naver.com/n_cloudplatform/222787313512) 
 * (7/17-23) https://icml.cc/Conferences/2022 @Baltimore MD
 * (7/11-15) https://sigir.org/sigir2022 @Madrid 
+* (~ 7/29) 초대규모 AI API CLOVA Studio 시범 사용자 모집( 공공,교육,연구기관) - [NAVER Cloud Platform](https://blog.naver.com/n_cloudplatform/222787313512) 
+* (7/19) 스피링크, 금융 분야 'AI 상담사' 대화 데이터 구축 서비스 제공 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25576)
+* (7/17) [특별인터뷰] ‘일상 대화 AI 챗봇 기술 현황과 앞으로의 과제’ KAIST 전산학부 차미영 교수 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25546)
+* (7/12) 인공지능 학습 데이터 개방 AI허브, 자율주행·건강관리 등 6대 분야 190종 추가 개방 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25506)
 * (7/10) ‘구글 클라우드 고객 어워즈’ 수상: 카카오브레인, 한국어 초거대 AI 모델 개발 성과 - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25482)
 * (7/9) 메타AI, 매개변수 540억개의 ‘NLLB-200’ 오픈소스 공개(세계 200개 언어간 고품질 번역, 단일모델) - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25475)
 * (7/8) 그래프코어 초지능 AI '굿 컴퓨팅' - [AITimes](http://www.aitimes.kr/news/articleView.html?idxno=25469)
