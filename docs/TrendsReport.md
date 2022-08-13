@@ -1,4 +1,5 @@
 ### 2022
+* (8/10) [SPRi AI BRIEF] 8월호 - [SPRI](https://spri.kr/posts/view/23476?code=AI-Brief)
 * (7/8) [IS-142] 인공지능 시스템의 성능 측정, MLPerf의 현황과 시사점 - [SPRI](https://spri.kr/posts/view/23465) **
   - MLPerf 벤치마크: MLPerf 학습 벤치마크, MLPerf 추론 벤치마크
 * (5/25) [RE-125]  인공지능 통계체계 구축을 위한 기획연구 - [SPRI](https://spri.kr/posts/view/23441) 
