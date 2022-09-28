@@ -7,7 +7,10 @@
 ### Oct. 2022
 
 ### Sep. 2022
-* (9/18-22) - https://interspeech2022.org @Incheon Korea
+* (9/28) 한국판 로블록스는 바로? (메이플스토리월드,넥슨타운, 미니버스, 컬러버스, 컴투버스,,) - [뉴스](https://news.mt.co.kr/mtview.php?no=2022092715232456972)
+* (9/19-22) Nvidia GTC2022 - https://www.nvidia.com/gtc/
+   - [Keynote Highlights - 20th September 2022](https://www.youtube.com/watch?v=eiHl9LSyTYs)
+* (9/18-22) INTERSPEECH2022 - https://interspeech2022.org @Incheon Korea
 
 ### Aug. 2022
 
