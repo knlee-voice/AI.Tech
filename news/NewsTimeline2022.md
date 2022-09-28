@@ -8,11 +8,19 @@
 
 ### Sep. 2022
 * (9/28) 한국판 로블록스는 바로? (메이플스토리월드,넥슨타운, 미니버스, 컬러버스, 컴투버스,,) - [뉴스](https://news.mt.co.kr/mtview.php?no=2022092715232456972)
+* (9/27) NIA, ‘AI 학습용 데이터 구축 비용산정 가이드’ 배포 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26112), [첨부파일: 'AI 학습용 데이터 구축 비용산정 가이드 v1.0'](https://www.aitimes.kr/news/download.php?subUploadDir=202209/&savefilename=26112_122.pdf&filename=(%EB%B3%B4%EA%B3%A0%EC%84%9C)AI%20%ED%95%99%EC%8A%B5%EC%9A%A9%20%EB%8D%B0%EC%9D%B4%ED%84%B0%20%EA%B5%AC%EC%B6%95%20%EB%B9%84%EC%9A%A9%EC%82%B0%EC%A0%95%20%EA%B0%80%EC%9D%B4%EB%93%9C.pdf&idxno=122)
+* (9/27) 민감 데이터 걱정없이-아크릴,‘조나단 연합학습’ 솔루션 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26111)
+* (9/21) KT 언어 AI - 약 400억 개의 매개변수가 있는 대규모 언어 모델(LLM)을 개발- [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26063)
+  * 기가지니 하루 800만명 이용/AICC 플랫폼 한국전역에서 매일 10만 건 이상 전화대응
+* (9/21) 카카오브레인, ‘NeRF-Factory 라이브러리’ 오픈소스로 공개 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26061)
 * (9/19-22) Nvidia GTC2022 - https://www.nvidia.com/gtc/
-   - [Keynote Highlights - 20th September 2022](https://www.youtube.com/watch?v=eiHl9LSyTYs)
+   - [I AM AI - Official Intro](https://www.youtube.com/watch?v=2e9930RW4Dw&t=12s)
 * (9/18-22) INTERSPEECH2022 - https://interspeech2022.org @Incheon Korea
+* (9/15) 그림·웹소설·웹툰·캐릭터 - 창작AI - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=25998)
 
 ### Aug. 2022
+* (8/26) 제7회 AI 차세대 컨택센터 컨퍼런스 2022 - https://conference.etnews.com/conf_info.html?uid=214
+
 
 ### July. 2022
 * (7/17-23) https://icml.cc/Conferences/2022 @Baltimore MD
