@@ -5,6 +5,12 @@
 * (11/29-12/1) https://nips.cc/Conferences/2022 Hybrid@New Orleans
 
 ### Oct. 2022
+* (10/18-19) [HCLT 2022](https://sites.google.com/view/hclt2022) - (공개)논문집 다운로드
+* (10/12-17) [COLING 2022](https://coling2022.org/)@경주 + Workshop/Tutorial 
+  - [Workshop5](https://creativesumm.github.io/) Automatic Summarization for Creative Writing 
+  - [Workshop10](https://sites.google.com/view/cai-workshop-2022) When Creative AI Meets Conversational AI
+  - [Workshop13](https://sites.google.com/view/persona-knowledge-workshop) Customized Chat Grounding Persona and Knowledge
+  - [Workshop16](https://sites.google.com/view/textgraphs2022) - TextGraphs-16: Graph-based Methods for Natural Language Processing
 
 ### Sep. 2022
 * (9/28) 한국판 로블록스는 바로? (메이플스토리월드,넥슨타운, 미니버스, 컬러버스, 컴투버스,,) - [뉴스](https://news.mt.co.kr/mtview.php?no=2022092715232456972)
