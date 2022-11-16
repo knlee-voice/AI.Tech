@@ -3,6 +3,9 @@
 
 ### Nov. 2022
 * (11/29-12/1) https://nips.cc/Conferences/2022 Hybrid@New Orleans
+* (11/13) 30개 문장만 녹음으로 KT '마이AI보이스' - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26484)
+* (11/3) ETRI, 24개 언어 실시간 이해하는 STT 언어 인공지능 개발 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26401)
+* (11/2) 한국지능정보사회진흥원(NIA), 디지털플랫폼정부 구현과 국정과제 지원 위한 주요 인사 및 조직 개편 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26396)
 
 ### Oct. 2022
 * (10/15) 카카오브레인, 초거대 AI 언어 모델 'KoGPT' 오픈 소스 공개, 키워드 입력하면 AI가 광고 카피 작성 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26247), [링크](https://developers.kakao.com/docs/latest/ko/kogpt/common)
@@ -24,6 +27,7 @@
    - [I AM AI - Official Intro](https://www.youtube.com/watch?v=2e9930RW4Dw&t=12s)
 * (9/18-22) INTERSPEECH2022 - https://interspeech2022.org @Incheon Korea
 * (9/15) 그림·웹소설·웹툰·캐릭터 - 창작AI - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=25998)
+* (9/13) NLU기술 기반으로 신시장 개척하는 스타트업들 (올거나이즈, 스캐터랩, 튜닙) - [머니투데이](https://news.mt.co.kr/mtview.php?no=2022082215241469558)
 
 ### Aug. 2022
 * (8/26) 제7회 AI 차세대 컨택센터 컨퍼런스 2022 - https://conference.etnews.com/conf_info.html?uid=214
