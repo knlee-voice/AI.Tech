@@ -1,6 +1,7 @@
 # AI.Tech 
 [AI News Timelines]
 --- 
+* [News 2022](./news/NewsTimeline2023.md) : `(News, Articles, Reviews, etc.)`
 * [News 2022](./news/NewsTimeline2022.md) : `(News, Articles, Reviews, etc.)`
 * [News 2021](./news/NewsTimeline2021.md) 
 * [News 2020](./docs/NewsTimeline2020.md)
