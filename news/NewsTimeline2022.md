@@ -1,5 +1,15 @@
 ### Dec. 2022
+* (12/30) 중진공, 인공지능·빅데이터 기반 ‘비즈패스파인더(BizPathFinder)’ - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26989)
+  - 중소벤처기업 통계, 동종업종 간 재무성과 비교, 성장경로 예측 등 분석 정보를 실시간으로 제공하는 서비스
+* (12/29) 중기부, 2023년 3조 6,607억원 규모 창업지원사업 시행...103개 기관 426개 창업지원사업 통합공고 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26977)
+* (12/29) "인공지능은 발명자가 될 수 없다"...특허청 '2022년 10대 뉴스' 1위 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26964)
+* (12/28) 세계 최초 'AI 보이스 디에이징' 기술로 재현한 30대 최민식 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26958)
+* (12/25) 삼성전자-성균관대, '인공지능 학·석사 5년 통합 과정' 지능형소프트웨어학과 신설 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26921)
+* (12/22) “AI 강군 육성, 국방 데이터 기반으로 국방혁신 4.0 더욱 가속화 할 것" - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26890) 
+* (12/22) “책임있는 인공지능에 대하여”…AI 법제정비단 공개 세미나 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26886) 
+* (12/21) 2023년 주목해야 할 5가지 '엣지 AI 트렌드'...엔비디아, ROI·인간협업·안전·보안·디지털 트윈 꼽아! - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26872) 
 * (12/7-11) https://2022.emnlp.org @Abu Dhabi
+  - 구글 논문 소개/링크 및 워크샵/튜토리얼 소개 [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26755)
 
 ### Nov. 2022
 * (11/29-12/1) https://nips.cc/Conferences/2022 Hybrid@New Orleans
