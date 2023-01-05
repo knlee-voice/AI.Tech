@@ -8,6 +8,7 @@
 * (12/22) “AI 강군 육성, 국방 데이터 기반으로 국방혁신 4.0 더욱 가속화 할 것" - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26890) 
 * (12/22) “책임있는 인공지능에 대하여”…AI 법제정비단 공개 세미나 - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26886) 
 * (12/21) 2023년 주목해야 할 5가지 '엣지 AI 트렌드'...엔비디아, ROI·인간협업·안전·보안·디지털 트윈 꼽아! - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26872) 
+* (12/15) LG AI연구원 - LG AI Talk Concert'(초거대 모델 분산 추론 프레임워크) - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=141968), [Youtube](https://www.youtube.com/watch?v=pmvJK6ZNkHY)
 * (12/7-11) https://2022.emnlp.org @Abu Dhabi
   - 구글 논문 소개/링크 및 워크샵/튜토리얼 소개 [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=26755)
 
