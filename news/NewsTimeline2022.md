@@ -87,6 +87,7 @@
 * (4/4) Pathways Language Model (PaLM): Scaling to 540 Billion Parameters - [blog](https://ai.googleblog.com/2022/04/pathways-language-model-palm-scaling-to.html)
 
 ### Mar. 2022
+* (3/25) ‘딥러닝 기반 비정형 텍스트 내 개인정보 탐지·비식별조치 기술’ 공개(지란지교데이터 솔루션 '아읻필터' 시스템 구성도) - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=24627) 
 * (3/18) AI와 대화하며 검색 정보 제공하는 '지식인터랙티브' 출시 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=143525)
 * (3/18) 한국미래기술교육연구원: 초거대(Hyperscale) AI와 최신 인공지능 개발이슈 -[세미나](https://kecft.or.kr/shop/item20.php?it_id=1644297122)
 * (3/14) 목소리만 좋으면 아이돌 가능…日메타버스 킬러콘텐츠로 브이튜버 - [AITimes](http://www.aitimes.com/news/articleView.html?idxno=143437)
