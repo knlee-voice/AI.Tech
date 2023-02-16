@@ -1,4 +1,12 @@
+### Feb. 2023
+
+* (2/18) 2023Langcon 초거대 AI 모델과 재미있는 이야기하기 : Bigger, Better, Stronger - [사이트](https://songys.github.io/2023Langcon/), [발표자료](https://songys.github.io/2023Langcon/about/?fbclid=IwAR3Op3Hkm_s5g0rMU8aS7blzGE6tkjzhM9f6QsXUqveZeKw3_MzUhrgOcKI)
+* (2/15) - AI프렌즈: ChatGPT 톺아보기 (전자통신부설연구소 고우영 선임) - [youtube](https://www.youtube.com/watch?v=9BS1169YJm0&t=152s)
+
+
 ### Jan. 2023
+* (1/25) '챗 GPT, AI 시대의 게임 체인저'(DGB 리포트) - [리포트](https://m.hi-ib.com:442/upload/R_E09/2023/01/[25064630]_230157.pdf)(증권사 리포트에서 비즈니스 모델 참고)
+   - AI 기술은 머신러닝 기술의 러닝 알고리즘 중심 → 딥러닝 CNN, RNN의 Feature 아키텍쳐 중심 → Foundation Model 의 Functionality 중심으로 진화 
 * (1/18) 생성 인공지능 '챗GPT', 마이크로소프트 '애저 오픈AI 서비스' 발표(기능 추가예정) - [AITimes](https://www.aitimes.kr/news/articleView.html?idxno=27163), [소개영상](https://www.microsoft.com/en-us/videoplayer/embed/RE5fw9e)
   - GPT-3.5, 코덱스(Codex), 달리2(DALL-E 2)
   - 콘텐츠 필터 등 악용 방지 기능 강화 / 보안, 안정성, 규정 준수, 데이터 개인 정보 보호, 책임 있는 AI 등과 함께 초거대 생성 AI 모델의 기능을 활용할 수 있음  
