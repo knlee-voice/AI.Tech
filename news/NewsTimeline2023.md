@@ -17,7 +17,7 @@
 (3/22) 구글, 대화형 생성 AI '바드(Bard)' 출시 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27616)
 
 ### Feb. 2023
-
+* (2/25) 메타, 생성 AI 언어 모델 '라마(LLaMA)' 출시 - [META AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27447)
 * (2/18) 2023Langcon 초거대 AI 모델과 재미있는 이야기하기 : Bigger, Better, Stronger - [사이트](https://songys.github.io/2023Langcon/), [발표자료](https://songys.github.io/2023Langcon/about/?fbclid=IwAR3Op3Hkm_s5g0rMU8aS7blzGE6tkjzhM9f6QsXUqveZeKw3_MzUhrgOcKI)
 * (2/15) - AI프렌즈: ChatGPT 톺아보기 (전자통신부설연구소 고우영 선임) - [youtube](https://www.youtube.com/watch?v=9BS1169YJm0&t=152s)
 * (2/15) Anthropic의 Constitutional AI: Harmless from AI Feedback - [블로그](Honest, Helpful, and Harmless AI)
