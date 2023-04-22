@@ -1,3 +1,21 @@
+### Aug. 2023 
+* (8/20-24) https://www.interspeech2023.org/ in Dublin, Ireland 
+
+### July 2023 
+* (7/9-14) https://2023.aclweb.org/ in Toronto, Canada
+
+### Apr. 2023 
+* (4/26) 코리아 HCI & UI/UX 그랜드 서밋 2023 ("소름 끼치게 발전한 챗GPT… UX 혁명적 변화 온다")- [사이트](https://conference.etnews.com/conf_info.html?uid=247)
+* (4/21) 구글 리서치 '브레인(Brain)'팀과 딥마인드를 '구글 딥마인드(Google DeepMind)'로 통합 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=278450)
+  * 순다르 피차이는 "제프 딘(Jeff Dean)은 저에게 보고하는 구글의 최고 과학자(Chief Scientist) 직책을 맡게 될 것이며, 구글 리서치와 구글 딥마인드의 수석 과학자 역할을 맡게 됩니다"라며, "제프 딘은 데미스 하사비스 CEO와 함께 AI 연구의 미래 방향을 설정하고 AI와 관련된 가장 중요하고 전략적인 기술 프로젝트를 이끌게 되며, 그 첫 번째 프로젝트는 생성 AI의 대담하고 책임감 있는 개발과 강력한 멀티모달 AI 모델(Multimodal AI Models) 시리즈가 될 것입니다"라고 강조했다.
+  * 기존의 구글 리서치(Google Research)는 "알고리즘 및 이론, 개인 정보 보호 및 보안, 양자 컴퓨팅, 건강, 기후 및 지속 가능성 및 책임있는 AI와 같은 영역에서 컴퓨터 과학의 근본적인 발전에 중점을 둔 기술 독립적인 부서로 남는다.
+* (4/20) NIA, '데이터통합혁신센터' 개소 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27837)
+   * 데이터통합지원센터(데이터 정책수립, 데이터 활용 및 기술지원 등 데이터의 생산·수집·유통·활용 지원) + 공공데이터활용지원센터(공공데이터 개방·활용·품질관리 지원)
+   * 하위 ▷데이터산업지원 전문기관 ▷AI허브안심존 ▷데이터결합지원센터 ▷데이터기반행정 전문기관 ▷데이터아카데미 ▷본인정보제공지원센터 
+   
+### Mar. 2023 
+(3/22) 구글, 대화형 생성 AI '바드(Bard)' 출시 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27616)
+
 ### Feb. 2023
 
 * (2/18) 2023Langcon 초거대 AI 모델과 재미있는 이야기하기 : Bigger, Better, Stronger - [사이트](https://songys.github.io/2023Langcon/), [발표자료](https://songys.github.io/2023Langcon/about/?fbclid=IwAR3Op3Hkm_s5g0rMU8aS7blzGE6tkjzhM9f6QsXUqveZeKw3_MzUhrgOcKI)
