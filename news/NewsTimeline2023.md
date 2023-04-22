@@ -10,11 +10,15 @@
   * 순다르 피차이는 "제프 딘(Jeff Dean)은 저에게 보고하는 구글의 최고 과학자(Chief Scientist) 직책을 맡게 될 것이며, 구글 리서치와 구글 딥마인드의 수석 과학자 역할을 맡게 됩니다"라며, "제프 딘은 데미스 하사비스 CEO와 함께 AI 연구의 미래 방향을 설정하고 AI와 관련된 가장 중요하고 전략적인 기술 프로젝트를 이끌게 되며, 그 첫 번째 프로젝트는 생성 AI의 대담하고 책임감 있는 개발과 강력한 멀티모달 AI 모델(Multimodal AI Models) 시리즈가 될 것입니다"라고 강조했다.
   * 기존의 구글 리서치(Google Research)는 "알고리즘 및 이론, 개인 정보 보호 및 보안, 양자 컴퓨팅, 건강, 기후 및 지속 가능성 및 책임있는 AI와 같은 영역에서 컴퓨터 과학의 근본적인 발전에 중점을 둔 기술 독립적인 부서로 남는다.
 * (4/20) NIA, '데이터통합혁신센터' 개소 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27837)
-   * 데이터통합지원센터(데이터 정책수립, 데이터 활용 및 기술지원 등 데이터의 생산·수집·유통·활용 지원) + 공공데이터활용지원센터(공공데이터 개방·활용·품질관리 지원)
-   * 하위 ▷데이터산업지원 전문기관 ▷AI허브안심존 ▷데이터결합지원센터 ▷데이터기반행정 전문기관 ▷데이터아카데미 ▷본인정보제공지원센터 
-   
+   - 데이터통합지원센터(데이터 정책수립, 데이터 활용 및 기술지원 등 데이터의 생산·수집·유통·활용 지원) + 공공데이터활용지원센터(공공데이터 개방·활용·품질관리 지원)
+   - 하위 ▷데이터산업지원 전문기관 ▷AI허브안심존 ▷데이터결합지원센터 ▷데이터기반행정 전문기관 ▷데이터아카데미 ▷본인정보제공지원센터 
+* (4/17) 일론 머스크, 실리콘밸리에 'X.AI' 인공지능 회사 설립 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27799)
+* (4/11) 알리바바 ‘챗GPT’ 대항마, ‘통이치엔원’ 발표 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27752)  
+   - 디지털 협업 업무 공간이자 애플리케이션 개발 플랫폼인 딩톡(DingTalk)과 IoT 지원 스마트홈 가전을 제공하는 티몰 지니(Tmall Genie)에 우선 적용될 예정
+
 ### Mar. 2023 
 (3/22) 구글, 대화형 생성 AI '바드(Bard)' 출시 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27616)
+(3/17) MS 모든 업무 도구에 초거대 AI ‘코파일럿’ 탑재! - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27588), [365코파일럿 소개영상](https://youtu.be/S7xTBa93TX8)
 
 ### Feb. 2023
 * (2/25) 메타, 생성 AI 언어 모델 '라마(LLaMA)' 출시 - [META AI](https://ai.facebook.com/blog/large-language-model-llama-meta-ai/), [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27447)
@@ -22,7 +26,6 @@
 * (2/15) - AI프렌즈: ChatGPT 톺아보기 (전자통신부설연구소 고우영 선임) - [youtube](https://www.youtube.com/watch?v=9BS1169YJm0&t=152s)
 * (2/15) Anthropic의 Constitutional AI: Harmless from AI Feedback - [블로그](Honest, Helpful, and Harmless AI)
   - 데이터셋으로부터 유용성-무해성-진실성을 갖춘 HHH prompt (helpfulness-harmlessness-honesty) 
-
 
 ### Jan. 2023
 * (1/25) '챗 GPT, AI 시대의 게임 체인저'(DGB 리포트) - [리포트](https://m.hi-ib.com:442/upload/R_E09/2023/01/[25064630]_230157.pdf)(증권사 리포트에서 비즈니스 모델 참고)
