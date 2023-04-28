@@ -12,6 +12,8 @@
 * (4/20) NIA, '데이터통합혁신센터' 개소 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27837)
    - 데이터통합지원센터(데이터 정책수립, 데이터 활용 및 기술지원 등 데이터의 생산·수집·유통·활용 지원) + 공공데이터활용지원센터(공공데이터 개방·활용·품질관리 지원)
    - 하위 ▷데이터산업지원 전문기관 ▷AI허브안심존 ▷데이터결합지원센터 ▷데이터기반행정 전문기관 ▷데이터아카데미 ▷본인정보제공지원센터 
+* (4/19) 전자신문인터넷 컨퍼런스: 챗GPT 등 생성AI를 활용한 서비스 사례 분석 및 전망 - 생성AI 스타트업으로부터 직접 듣는 생성AI 기술 활용 및 서비스 개발/운영 사례 - [컨퍼런스 개요, 프로그램](https://conference.etnews.com/conf_info.html?uid=246)
+  - 관련 뉴스: [스타트업뉴스](https://www.startupn.kr/news/articleView.html?idxno=32389), [튜닙, AI와 소설 이어 쓰는 ‘스토리릴레이’](https://www.etnews.com/20230410000065)
 * (4/17) 일론 머스크, 실리콘밸리에 'X.AI' 인공지능 회사 설립 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27799)
 * (4/11) 알리바바 ‘챗GPT’ 대항마, ‘통이치엔원’ 발표 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27752)  
    - 디지털 협업 업무 공간이자 애플리케이션 개발 플랫폼인 딩톡(DingTalk)과 IoT 지원 스마트홈 가전을 제공하는 티몰 지니(Tmall Genie)에 우선 적용될 예정
