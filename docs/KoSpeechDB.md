@@ -2,6 +2,10 @@
 
 `기관별 / 년도별 / 구축기관 / 스타일`
 
+### OPEN Site ### 
+* HateScore : Human-in-the-Loop and Neutral Korean Multi-label Online Hate Speech Dataset (feat. [SmilegateAI UnSmile Dataset](https://github.com/smilegate-ai/korean_unsmile_dataset)) 
+  - https://github.com/sgunderscore/hatescore-korean-hate-speech
+
 ### AI Open Innovation Hub ### 
 * ('2018) [한국어 음성](https://aihub.or.kr/aidata/105) - [다운로드](https://aihub.or.kr/aidata/85/download)
   - 구축기관: AIHub_한국전자통신연구원
