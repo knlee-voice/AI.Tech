@@ -6,6 +6,7 @@
 * MS Azure AI Engineer Associate 
 
 ### 관련 가이드 
+* https://www.mltut.com/best-certification-courses-for-artificial-intelligence 
 * https://cloudacademy.com/blog/what-certifications-should-i-get/
 * https://tutorialsdojo.com/aws-vs-azure-vs-gcp-which-one-should-i-learn/
 * AWS vs IBM Watson vs MS Azure vs Google Cloud AI 비교(2020.1.) - [link](https://needjarvis.tistory.com/467) 
