@@ -4,6 +4,15 @@
 ### July 2023 
 * (7/9-14) https://2023.aclweb.org/ in Toronto, Canada
 
+* (6/4-10) https://2023.ieeeicassp.org/ in the Greek island of Rhodes
+
+### May 2023
+* (5/26) UAE 기술혁신연구소, LLM 생성AI플랫폼 누구나 사용, '팰컨 40B' 오픈소스로 공개 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28134)
+* (5/24) Microsoft Build 2023
+  - 리뷰: 생성 AI 등 개발자의 차세대 인공지능 앱 구축 돕는 도구 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28104)
+  - [Everything Revealed in 7 Minutes](https://www.youtube.com/watch?v=6PRiAexITSs) | [Announcing Windows Copilot](https://youtu.be/FCfwc-NNo30)
+  - 마이크로소프트, 운영체제 윈도11에도 LLM 이자 생성 AI '코파일럿' 탑재 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28101)
+
 ### Apr. 2023 
 * (4/26) 코리아 HCI & UI/UX 그랜드 서밋 2023 ("소름 끼치게 발전한 챗GPT… UX 혁명적 변화 온다")- [사이트](https://conference.etnews.com/conf_info.html?uid=247)
 * (4/21) 구글 리서치 '브레인(Brain)'팀과 딥마인드를 '구글 딥마인드(Google DeepMind)'로 통합 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=278450)
