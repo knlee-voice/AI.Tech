@@ -4,7 +4,9 @@
 ### July 2023 
 * (7/9-14) https://2023.aclweb.org/ in Toronto, Canada
 
+### June 2023 
 * (6/4-10) https://2023.ieeeicassp.org/ in the Greek island of Rhodes
+* (6/2) 생성 AI의 시대 개막, 생성 AI를 만나다 (AI Summit 컨퍼런스) - https://aisummit.co.kr/generative-ai-special-camp/
 
 ### May 2023
 * (5/26) UAE 기술혁신연구소, LLM 생성AI플랫폼 누구나 사용, '팰컨 40B' 오픈소스로 공개 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28134)
@@ -14,6 +16,8 @@
   - 마이크로소프트, 운영체제 윈도11에도 LLM 이자 생성 AI '코파일럿' 탑재 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28101)
 
 ### Apr. 2023 
+* (4/30) '인공지능 학습용 데이터' 역대 최대 규모 개방...310종 15억 건 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27915)
+  - 구축 분야를 6대 분야에서 제조‧로보틱스‧교육‧금융‧스포츠 등의 14대 분야로 확장 / 총 691종, 약 26억 건의 데이터를 활용
 * (4/26) 코리아 HCI & UI/UX 그랜드 서밋 2023 ("소름 끼치게 발전한 챗GPT… UX 혁명적 변화 온다")- [사이트](https://conference.etnews.com/conf_info.html?uid=247)
 * (4/21) 구글 리서치 '브레인(Brain)'팀과 딥마인드를 '구글 딥마인드(Google DeepMind)'로 통합 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=278450)
   * 순다르 피차이는 "제프 딘(Jeff Dean)은 저에게 보고하는 구글의 최고 과학자(Chief Scientist) 직책을 맡게 될 것이며, 구글 리서치와 구글 딥마인드의 수석 과학자 역할을 맡게 됩니다"라며, "제프 딘은 데미스 하사비스 CEO와 함께 AI 연구의 미래 방향을 설정하고 AI와 관련된 가장 중요하고 전략적인 기술 프로젝트를 이끌게 되며, 그 첫 번째 프로젝트는 생성 AI의 대담하고 책임감 있는 개발과 강력한 멀티모달 AI 모델(Multimodal AI Models) 시리즈가 될 것입니다"라고 강조했다.
