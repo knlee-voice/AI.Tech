@@ -1,7 +1,11 @@
 ### Aug. 2023 
-* (8/20-24) https://www.interspeech2023.org/ in Dublin, Ireland 
+* (8/20-24) https://www.interspeech2023.org/ in Dublin, Ireland
+* (8/13) SK텔레콤, 美'앤트로픽'(대형언어모델(LLM)이자 AI 챗봇 클로드(Claude) 개발사)에 1억달러 투자 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28718)
+  - Anthropic의 Constitutional AI - [참고글](https://littlefoxdiary.tistory.com/112)
 
 ### July 2023 
+* (7/30) 자연어를 사용해 로봇을 제어할 수 있는 '시각-언어-행동(vision-language-action, VLA)' 모델 'RT-2' - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28629)
+* (7/19) ‘라마 2' 오픈소스로 공개 - '70억·130억·700억 개' 각 파라미터의 사전학습모델 [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28528)
 * (7/9-14) https://2023.aclweb.org/ in Toronto, Canada
 
 ### June 2023 
