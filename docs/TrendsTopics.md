@@ -51,9 +51,9 @@
 ---
 ### Hyperscale AI
 * 국내 뉴스 - 날짜별
-  - (7/8) 대기업들이 뛰어드는 ‘초거대 AI’는 무엇 (하이퍼클로바, 성능비교) - [매경](https://www.mk.co.kr/news/business/view/2021/07/659406/)
-  - (5/25) 검색의도 파악하는 네이버 '초거대 AI'…LG도 "1억弗 투자" - [머니투데이](https://news.mt.co.kr/mtview.php?no=2021052419052347334)
-  - (5/24) "250년치 논문·특허 분석…'초거대 AI'는 (LG AI연구원장 인터뷰) - [매경](https://www.mk.co.kr/news/economy/view/2021/05/499279/)
-  - (2/10) 망자와의 대화 … AI가 '디지털 환생' 시대 여나 - [한경](https://www.hankyung.com/opinion/article/2021020959791)
+  - ('21.7/8) 대기업들이 뛰어드는 ‘초거대 AI’는 무엇 (하이퍼클로바, 성능비교) - [매경](https://www.mk.co.kr/news/business/view/2021/07/659406/)
+  - ('21.5/25) 검색의도 파악하는 네이버 '초거대 AI'…LG도 "1억弗 투자" - [머니투데이](https://news.mt.co.kr/mtview.php?no=2021052419052347334)
+  - ('21.5/24) "250년치 논문·특허 분석…'초거대 AI'는 (LG AI연구원장 인터뷰) - [매경](https://www.mk.co.kr/news/economy/view/2021/05/499279/)
+  - ('21.2/10) 망자와의 대화 … AI가 '디지털 환생' 시대 여나 - [한경](https://www.hankyung.com/opinion/article/2021020959791)
 * 발표, 블로그 외
   - [방송트랜드&인사이트] 초거대 AI, 인간 대신 콘텐츠 창작할까, 이희대 - [링크](http://www.kocca.kr/trend/vol26/sub/s21.html)
