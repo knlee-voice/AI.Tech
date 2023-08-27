@@ -15,17 +15,18 @@
 [Everything You Need to Know about AI] 
 ---
 * [Deep Learning Architecture](./docs/DLArchitectures.md)
-  * LeNet, AlexNet, VGG, LesNet, DensNet, Graph Convolution Network ... 
+  - LeNet, AlexNet, VGG, LesNet, DensNet, Graph Convolution Network ...
 * [General Topics & Trends](./docs/TrendsTopics.md)
-  * Word Embedding, Generative Models, Transformer, Self-supervised Learning, Hyper-scale AI
+  - Word Embedding, Generative Models, Transformer, Self-supervised Learning, Hyper-scale AI, AGI 
+* [Generative AI & LLM](./docs/GenAI-LLM.md)
 * [Conversational AI](./docs/ConvAI.md)
-  * Voice Assistant, Smart Speaker, AICC(Chatbot, Advisor, Voicebot, VOC analytics)
+  - Voice Assistant, Smart Speaker, AICC(Chatbot, Advisor, Voicebot, VOC analytics)
 * [Voice Technology](./docs/VoiceTechTopics.md)
-  * ASR, TTS, Speaker Recognition, Voice Conversion  
+  - ASR, TTS, Speaker Recognition, Voice Conversion  
 * [AI Certification](./docs/CertiAI.md)
-  * Cloud Certification (AWS, GGP, MS Azure) 
+  - Cloud Certification (AWS, GGP, MS Azure) 
 * [Paper Review Group](./docs/ReviewGroup.md)
-  * PR12, jiphyeonjeon, ... 
+  - PR12, jiphyeonjeon, ... 
 * [Talk & Keynote](./docs/TechTalk.md)
 * [Ebook / Blogs](./docs/OpenCourseBook.md) 
 
