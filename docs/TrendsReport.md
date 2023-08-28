@@ -1,40 +1,46 @@
+### 2023
+* (Aug.) 𝗧𝗵𝗲 𝟮𝟬𝟮𝟯 𝗚𝗹𝗼𝗯𝗮𝗹 𝗧𝗿𝗲𝗻𝗱𝘀 𝗶𝗻 𝗔𝗜 𝗥𝗲𝗽𝗼𝗿𝘁 (𝖲&𝖯 𝖦𝗅𝗈𝖻𝖺𝗅) - https://www.weka.io/resources/analyst-report/2023-global-trends-in-ai/
+* (8/11) 인공지능 활용서: 6대 산업별 활용사례 (Deloitte Insights) - [articles](https://www2.deloitte.com/kr/ko/pages/technology-media-and-telecommunications/articles/2023/20230810.html) | [pdf](https://www2.deloitte.com/content/dam/Deloitte/kr/Documents/technology-media-telecommunications/2023/how-to-use-AI-in-6industries.pdf)
+* (7/11) [SPRi AI Brief 스페셜] 중국과 일본의 생성 AI 동향 - https://www.spri.kr/posts/view/23625
+* (7/11) [SPRi AI Brief 스페셜] 생성 AI 주도권 선점을 위한 구글과 MS의 경쟁 동향 - https://www.spri.kr/posts/view/23624
+
 ### 2022
 * (8/10) [SPRi AI BRIEF] 8월호 - [SPRI](https://spri.kr/posts/view/23476?code=AI-Brief)
-* (7/8) [IS-142] 인공지능 시스템의 성능 측정, MLPerf의 현황과 시사점 - [SPRI](https://spri.kr/posts/view/23465) **
+* (7/8) [IS-142] 인공지능 시스템의 성능 측정, MLPerf의 현황과 시사점 - https://spri.kr/posts/view/23465 **
   - MLPerf 벤치마크: MLPerf 학습 벤치마크, MLPerf 추론 벤치마크
-* (5/25) [RE-125]  인공지능 통계체계 구축을 위한 기획연구 - [SPRI](https://spri.kr/posts/view/23441) 
-* (5/24) [RE-123] 인공지능 신뢰체계 정립방안 연구 - [SPRI](https://spri.kr/posts/view/23438)
-* (5/24) [RE-118]  산업별 인공지능(AI) 융합경쟁력 지수 개발 연구 - [SPRI](https://spri.kr/posts/view/23433)
+* (5/25) [RE-125]  인공지능 통계체계 구축을 위한 기획연구 - https://spri.kr/posts/view/23441 
+* (5/24) [RE-123] 인공지능 신뢰체계 정립방안 연구 - https://spri.kr/posts/view/23438
+* (5/24) [RE-118]  산업별 인공지능(AI) 융합경쟁력 지수 개발 연구 - https://spri.kr/posts/view/23433
   - [그림 3-1] 선행연구 변수 검토 결과
-* (5/11) [IS-140] 국가 안보를 위한 인공지능(AI)과 3대 전략 기술 - [SPRI](https://spri.kr/posts/view/23427)
-* (5/4) [IS-139] AI Index 2022의 주요 내용과 시사점 - [SPRI](https://spri.kr/posts/view/23420) 
-* (4/13) [IS-131] 인공지능·플랫폼 패러다임과 미·중 기술 패권 - [SPRI](https://spri.kr/posts/view/23404) **
+* (5/11) [IS-140] 국가 안보를 위한 인공지능(AI)과 3대 전략 기술 - https://spri.kr/posts/view/23427
+* (5/4) [IS-139] AI Index 2022의 주요 내용과 시사점 - https://spri.kr/posts/view/23420
+* (4/13) [IS-131] 인공지능·플랫폼 패러다임과 미·중 기술 패권 - https://spri.kr/posts/view/23404 **
   - [그림1] 디지털 플랫폼, 플랫폼 생태계 및 플랫폼 경제의 개념 구분 - 출처: Drewel, M., Özcan, L., Koldewey, C., & Gausemeier, J. (2021).
   - [그림2] 플랫폼 생태계의 구성과 상호작용 - 출처: Digital platform ecosystems (A Hein et al, 2020)
-* (3/10) [IS-137] 메타버스, 일하는 방식을 바꾸다 - [SPRI](https://spri.kr/posts/view/23386) 
-* (1/14) [IS-135] 메타버스 新인류, 디지털 휴먼 - [SPRI](https://spri.kr/posts/view/23372) 
-* (1/13) [IS-132] 플랫폼 비즈니스의 습격과 SW솔루션의 진화 - [SPRI](https://spri.kr/posts/view/23371) ** 
+* (3/10) [IS-137] 메타버스, 일하는 방식을 바꾸다 - https://spri.kr/posts/view/23386
+* (1/14) [IS-135] 메타버스 新인류, 디지털 휴먼 - https://spri.kr/posts/view/23372
+* (1/13) [IS-132] 플랫폼 비즈니스의 습격과 SW솔루션의 진화 - https://spri.kr/posts/view/23371 ** 
 
 ### 2021
-* (12/30) [IS-130] 데이터 경제 이슈와 논의 - [SPRI](https://spri.kr/posts/view/23367)
-* (11/8) [IS-128]  향후 10년의 메가트렌드를 분석하다: 글로벌 트렌드와 SW 메가트렌드 2030 - [SPRI](https://spri.kr/posts/view/23334) ***
-* (10/27) [IS-124] 포스트 코로나 시대와 글로벌 벨류체인의 재편, 디지털 전환과 리쇼어링 - [SPRI](https://spri.kr/posts/view/23320) ***
+* (12/30) [IS-130] 데이터 경제 이슈와 논의 - https://spri.kr/posts/view/23367
+* (11/8) [IS-128]  향후 10년의 메가트렌드를 분석하다: 글로벌 트렌드와 SW 메가트렌드 2030 - https://spri.kr/posts/view/23334 ***
+* (10/27) [IS-124] 포스트 코로나 시대와 글로벌 벨류체인의 재편, 디지털 전환과 리쇼어링 - https://spri.kr/posts/view/23320 ***
 * (10/12) State of AI Report 2021 (#188 slides) - https://www.stateof.ai/
-* (9/3) [IS-123] 산업융합 플랫폼의 부상과 대응 전략 - [SPRI](https://spri.kr/posts/view/23367) 
+* (9/3) [IS-123] 산업융합 플랫폼의 부상과 대응 전략 - https://spri.kr/posts/view/23367
 * (9/3) [THE AI REPORT 2021-1] 인공지능 시대, 벤치마크 데이터셋의 중요성 - [안내](https://aihub.or.kr/node/49971), [파일](https://aihub.or.kr/sites/default/files/2021-09/%5BTHE_AI_REPORT_2021-1%5D_%EC%9D%B8%EA%B3%B5%EC%A7%80%EB%8A%A5_%EC%8B%9C%EB%8C%80_%EB%B2%A4%EC%B9%98%EB%A7%88%ED%81%AC_%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%85%8B%EC%9D%98_%EC%A4%91%EC%9A%94%EC%84%B1.pdf)
 * (9/1) 2021년 이슈리포트 Vol.4. 데이터 댐 구축과 AI 기반 데이터 가치 고도화 - [리포트](http://smroadmap.smtech.go.kr/s0403/view/id/187#u)
-* (8/30) [IS-123] 산업융합 플랫폼의 부상과 대응 전략 - [SPRI](https://spri.kr/posts/view/23288) ***
+* (8/30) [IS-123] 산업융합 플랫폼의 부상과 대응 전략 - https://spri.kr/posts/view/23288 ***
 * (8/15) [KOCCA] 실감콘텐츠 글로벌 동향분석(제3호) : 메타버스 기업으로의 변신 선언한 Facebook의 비전과 과제 - [안내](https://www.itfind.or.kr/report/analysis/read.do?selectedId=02-004-210817-000009), [보고서](https://www.kocca.kr/cop/bbs/view/B0158973/1845423.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=204025&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
 * (8/11) [KOCCA포커스 통권 134호] 메타버스와 콘텐츠 - [안내](https://www.kocca.kr/cop/bbs/list/B0000141.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=200898&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
 * (7/30) [KOCCA] 실감콘텐츠 글로벌 동향분석(제2호) - [보고서](https://www.kocca.kr/cop/bbs/view/B0158973/1845392.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=204025&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
-* (7/27) [RE-108] 2021년 SW산업 10대 이슈 전망 - [SPRI](https://spri.kr/posts/view/23283) 
-* (7/26) [RE-102] 오픈소스 활성화를 위한 오픈소스 연구개발 생태계 연구 - [SPRI](https://spri.kr/posts/view/23270) 
-* (7/23) [RE-98] 인공지능 연구지수 개발 및 성과 결정 요인 분석 연구 - [SPRI](https://spri.kr/posts/view/23268) 
-* (7/20) [IS-119] 글로벌 SW산업의 서비스화 패러다임과 성공사례 - [SPRI](https://spri.kr/posts/view/23284)
+* (7/27) [RE-108] 2021년 SW산업 10대 이슈 전망 - https://spri.kr/posts/view/23283
+* (7/26) [RE-102] 오픈소스 활성화를 위한 오픈소스 연구개발 생태계 연구 - https://spri.kr/posts/view/23270
+* (7/23) [RE-98] 인공지능 연구지수 개발 및 성과 결정 요인 분석 연구 - https://spri.kr/posts/view/23268
+* (7/20) [IS-119] 글로벌 SW산업의 서비스화 패러다임과 성공사례 - https://spri.kr/posts/view/23284
 * (7/15) [KOCCA] 실감콘텐츠 글로벌 동향분석(제1호) - [보고서](https://www.kocca.kr/cop/bbs/view/B0158973/1845391.do?searchCnd=&searchWrd=&cateTp1=&cateTp2=&useAt=&menuNo=204025&categorys=0&subcate=0&cateCode=&type=&instNo=0&questionTp=&uf_Setting=&recovery=&option1=&option2=&year=&categoryCOM062=&categoryCOM063=&categoryCOM208=&categoryInst=&morePage=&delCode=0&qtp=&pageIndex=1)
 * (7/6) [KISA Report 6월호_4] AI기반의 운영 모델로 변화하는 은행 및 금융서비스 - [안내](https://www.kisa.or.kr/public/library/IS_View.jsp?mode=view&p_No=158&b_No=158&d_No=542&ST=T&SV=), [파일](https://www.kisa.or.kr/jsp/common/downloadAction.jsp?bno=158&dno=542&fseq=1)
 * (7/6) [KISA Report 6월호_2] ‘네이버 AI NOW’ 리뷰 - [안내](https://www.kisa.or.kr/public/library/IS_View.jsp?mode=view&p_No=158&b_No=158&d_No=540&cPage=2&ST=T&SV=), [6월호_전체](https://www.kisa.or.kr/public/library/IS_View.jsp?mode=view&p_No=158&b_No=158&d_No=538&cPage=2&ST=T&SV=)
-* (6/29) [IS-117] 디지털 전환을 촉진하는 NoCode와 RPA - [SPRI](https://spri.kr/posts/view/23232)
+* (6/29) [IS-117] 디지털 전환을 촉진하는 NoCode와 RPA - https://spri.kr/posts/view/23232
 * (6/7) 
 * (6/4) [오픈데이터 나우 제26호] 2020 EU 오픈데이터 성숙도 보고서 주요내용 분석 - [안내](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=27974&bcIdx=23472&parentSeq=23472), [파일](https://www.nia.or.kr/common/board/Download.do?bcIdx=23472&cbIdx=27974&fileNo=1)
   * 메모: 오픈데이터 품질지표, 메타데이터 품질 모니터링, 2014년 메타데이터 표준인 DCAT(Data Catalog Vocalbulary) 제시
