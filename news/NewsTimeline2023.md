@@ -1,9 +1,30 @@
+### Dec. 2023
+* (12/24) 구글 리서치, 제로-샷 고품질 비디오 생성 위한 대형언어모델 '비디오포엣(VideoPoet)' 공개 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=29830)
+  - (2억 7천만 개의 동영상과 10억 개 이상의 텍스트-이미지 쌍에 대해 사전 학습)
+  - 토큰화(비디오 및 이미지의 경우 MAGVIT V2, 오디오의 경우 SoundStream) 
+* (12/14) 국내 최초, SKT ‘에이닷 통역콜’ 출시 한·중·일·영어 4개국어 실시간 통역 서비스 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=29709)
+* (12/14) 업스테이지, 사전학습 LLM '솔라' 공개(10.7B), ‘허깅페이스 오픈 LLM 리더보드’ 세계 1위 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=29703)
+* (12/5) 알리바바 그룹 - '통이치엔원(Tongyi Qianwen)' 720억 개 파라미터 버전 오픈소스로 공개 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=29600)
+  - '큐원-72B(Qwen-72B)'와 18억 개 파라미터 버전인 '큐원-1.8B(Qwen-1.8B)' 공개 
+  - 사전 학습된 오디오 이해 모델 '큐원-오디오(Qwen-Audio)' 및 대화형으로 미세 조정된 버전인 '큐원-오디오-챗(Qwen-Audio-Chat)'도 추가로 공개
+
+### Nov. 2023
+* (11/29) 아마존, 생성 AI 비서 '아마존 큐(Amazon Q)' 출시 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=29535)
+   - 조직의 기존 ID, 역할 및 권한을 기반으로 각 개별 사용자와의 상호 작용을 개인화할 수 있음 / 월 구독료는 20달러(약 25000원)로 책정
+* (11/5) 일론 머스크, 생성AI 챗봇! 그록(Grok-1) ~ 330억 매개변수 "풍자를 좋아하며" 응답에 "유머"를 갖도록 설계, 컨텍스트 길이 8,192개 토큰 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=29291)
+
+### Oct. 2023
+* (10/31) KT, 초거대 AI ‘믿음’ 출시…4종 라인업 공개 - [글로벌경](https://www.getnews.co.kr/news/articleView.html?idxno=646885), [시사포커](https://www.sisafocus.co.kr/news/articleView.html?idxno=306961), [지디넷](https://zdnet.co.kr/view/?no=20231031103316)
+   - 기업 맞춤 '초거대 AI 믿:음' 공개 - https://enterprise.kt.com/bt/dxstory/2367.do
+   - KT Enterprise:HOME>상품/서비스>AI/BigData>초거대 AI 믿:음 - https://enterprise.kt.com/pd/P_PD_NE_00_316.do
+* (10/19) 행안부, 세계 최초 AI 기반 ‘보이스피싱 음성분석 모델’ 전국 경찰 수사현장에 본격 투입(국내외 약 6,000여 명으로부터 추출한 100만 개 이상의 외국어와 한국어 음성데이터를 활용) - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=29154)
+  
 ### Sep. 2023
 * (9/24) 쿼리에 맞춰 실시간으로 LLM 골라 주는 '모델 라우팅' 전문 스타트업 - [AIT](https://www.aitimes.com/news/articleView.html?idxno=153902)
+* (9/21) 오픈AI, 이미지 생성 AI ‘DALLE 3’ 발표..챗GPT와 통합 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28973)
 * (9/13~14) AI SUMMIT SEOUL 2023 - https://aisummit.co.kr | [AIT](https://www.aitimes.com/news/articleView.html?idxno=153337)
 * (9/3) "AI로 레전드 콘텐츠 복원...K-콘텐츠 / 바이킹랩 작업: '라이파이'(1959~1962년 출간, 김산호 작가 만화, 국내 최초의 SF 히어로 시리즈물) - [AIT](https://www.aitimes.com/news/articleView.html?idxno=153207)
 
-출처 : AI타임스(https://www.aitimes.com)
 ### Aug. 2023 
 * (8/20-24) https://www.interspeech2023.org/ in Dublin, Ireland
 * (8/13) SK텔레콤, 美'앤트로픽'(대형언어모델(LLM)이자 AI 챗봇 클로드(Claude) 개발사)에 1억달러 투자 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28718)
