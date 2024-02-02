@@ -1,10 +1,11 @@
 ### Dec. 2023
-* (12/24) 구글 리서치, 제로-샷 고품질 비디오 생성 위한 대형언어모델 '비디오포엣(VideoPoet)' 공개 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=29830)
+* (12/24) 구글 리서치, 제로-샷 고품질 비디오 생성 위한 대형언어모델 '비디오포엣(VideoPoet)' 공개 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=29830)
   - (2억 7천만 개의 동영상과 10억 개 이상의 텍스트-이미지 쌍에 대해 사전 학습)
   - 토큰화(비디오 및 이미지의 경우 MAGVIT V2, 오디오의 경우 SoundStream) 
-* (12/14) 국내 최초, SKT ‘에이닷 통역콜’ 출시 한·중·일·영어 4개국어 실시간 통역 서비스 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=29709)
-* (12/14) 업스테이지, 사전학습 LLM '솔라' 공개(10.7B), ‘허깅페이스 오픈 LLM 리더보드’ 세계 1위 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=29703)
-* (12/5) 알리바바 그룹 - '통이치엔원(Tongyi Qianwen)' 720억 개 파라미터 버전 오픈소스로 공개 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=29600)
+* (12/24) 국내 기업, 생성형 AI 제품화 속도...해외 진출 확대 - [ZD리서치](https://zdnet.co.kr/view/?no=20231220102540)
+* (12/14) 국내 최초, SKT ‘에이닷 통역콜’ 출시 한·중·일·영어 4개국어 실시간 통역 서비스 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=29709)
+* (12/14) 업스테이지, 사전학습 LLM '솔라' 공개(10.7B), ‘허깅페이스 오픈 LLM 리더보드’ 세계 1위 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=29703)
+* (12/5) 알리바바 그룹 - '통이치엔원(Tongyi Qianwen)' 720억 개 파라미터 버전 오픈소스로 공개 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=29600)
   - '큐원-72B(Qwen-72B)'와 18억 개 파라미터 버전인 '큐원-1.8B(Qwen-1.8B)' 공개 
   - 사전 학습된 오디오 이해 모델 '큐원-오디오(Qwen-Audio)' 및 대화형으로 미세 조정된 버전인 '큐원-오디오-챗(Qwen-Audio-Chat)'도 추가로 공개
 
@@ -20,27 +21,28 @@
 * (10/19) 행안부, 세계 최초 AI 기반 ‘보이스피싱 음성분석 모델’ 전국 경찰 수사현장에 본격 투입(국내외 약 6,000여 명으로부터 추출한 100만 개 이상의 외국어와 한국어 음성데이터를 활용) - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=29154)
   
 ### Sep. 2023
-* (9/24) 쿼리에 맞춰 실시간으로 LLM 골라 주는 '모델 라우팅' 전문 스타트업 - [AIT](https://www.aitimes.com/news/articleView.html?idxno=153902)
+* (9/24) 쿼리에 맞춰 실시간으로 LLM 골라 주는 '모델 라우팅' 전문 스타트업 - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=153902)
 * (9/21) 오픈AI, 이미지 생성 AI ‘DALLE 3’ 발표..챗GPT와 통합 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28973)
 * (9/13~14) AI SUMMIT SEOUL 2023 - https://aisummit.co.kr | [AIT](https://www.aitimes.com/news/articleView.html?idxno=153337)
 * (9/3) "AI로 레전드 콘텐츠 복원...K-콘텐츠 / 바이킹랩 작업: '라이파이'(1959~1962년 출간, 김산호 작가 만화, 국내 최초의 SF 히어로 시리즈물) - [AIT](https://www.aitimes.com/news/articleView.html?idxno=153207)
 
 ### Aug. 2023 
 * (8/20-24) https://www.interspeech2023.org/ in Dublin, Ireland
-* (8/13) SK텔레콤, 美'앤트로픽'(대형언어모델(LLM)이자 AI 챗봇 클로드(Claude) 개발사)에 1억달러 투자 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28718)
+* (8/13) SK텔레콤, 美'앤트로픽'(대형언어모델(LLM)이자 AI 챗봇 클로드(Claude) 개발사)에 1억달러 투자 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=28718)
   - Anthropic의 Constitutional AI - [참고글](https://littlefoxdiary.tistory.com/112)
 
 ### July 2023 
-* (7/30) 자연어를 사용해 로봇을 제어할 수 있는 '시각-언어-행동(vision-language-action, VLA)' 모델 'RT-2' - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28629)
-* (7/19) ‘라마 2' 오픈소스로 공개 - '70억·130억·700억 개' 각 파라미터의 사전학습모델 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28528)
+* (7/30) 자연어를 사용해 로봇을 제어할 수 있는 '시각-언어-행동(vision-language-action, VLA)' 모델 'RT-2' - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=28629)
+* (7/19) ‘라마 2' 오픈소스로 공개 - '70억·130억·700억 개' 각 파라미터의 사전학습모델 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=28528)
 * (7/9-14) https://2023.aclweb.org/ in Toronto, Canada
 
 ### June 2023 
+* (6/29) 초거대 AI 추진협의회 출범 - [지디넷](https://zdnet.co.kr/view/?no=20230629162209), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=152118)
 * (6/4-10) https://2023.ieeeicassp.org/ in the Greek island of Rhodes
 * (6/2) 생성 AI의 시대 개막, 생성 AI를 만나다 (AI Summit 컨퍼런스) - https://aisummit.co.kr/generative-ai-special-camp/
 
 ### May 2023
-* (5/26) UAE 기술혁신연구소, LLM 생성AI플랫폼 누구나 사용, '팰컨 40B' 오픈소스로 공개 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28134)
+* (5/26) UAE 기술혁신연구소, LLM 생성AI플랫폼 누구나 사용, '팰컨 40B' 오픈소스로 공개 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=28134)
 * (5/24) Microsoft Build 2023
   - 리뷰: 생성 AI 등 개발자의 차세대 인공지능 앱 구축 돕는 도구 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=28104)
   - [Everything Revealed in 7 Minutes](https://www.youtube.com/watch?v=6PRiAexITSs) | [Announcing Windows Copilot](https://youtu.be/FCfwc-NNo30)
@@ -50,7 +52,7 @@
 * (4/30) '인공지능 학습용 데이터' 역대 최대 규모 개방...310종 15억 건 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27915)
   - 구축 분야를 6대 분야에서 제조‧로보틱스‧교육‧금융‧스포츠 등의 14대 분야로 확장 / 총 691종, 약 26억 건의 데이터를 활용
 * (4/26) 코리아 HCI & UI/UX 그랜드 서밋 2023 ("소름 끼치게 발전한 챗GPT… UX 혁명적 변화 온다")- [사이트](https://conference.etnews.com/conf_info.html?uid=247)
-* (4/21) 구글 리서치 '브레인(Brain)'팀과 딥마인드를 '구글 딥마인드(Google DeepMind)'로 통합 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=278450)
+* (4/21) 구글 리서치 '브레인(Brain)'팀과 딥마인드를 '구글 딥마인드(Google DeepMind)'로 통합 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=278450)
   * 순다르 피차이는 "제프 딘(Jeff Dean)은 저에게 보고하는 구글의 최고 과학자(Chief Scientist) 직책을 맡게 될 것이며, 구글 리서치와 구글 딥마인드의 수석 과학자 역할을 맡게 됩니다"라며, "제프 딘은 데미스 하사비스 CEO와 함께 AI 연구의 미래 방향을 설정하고 AI와 관련된 가장 중요하고 전략적인 기술 프로젝트를 이끌게 되며, 그 첫 번째 프로젝트는 생성 AI의 대담하고 책임감 있는 개발과 강력한 멀티모달 AI 모델(Multimodal AI Models) 시리즈가 될 것입니다"라고 강조했다.
   * 기존의 구글 리서치(Google Research)는 "알고리즘 및 이론, 개인 정보 보호 및 보안, 양자 컴퓨팅, 건강, 기후 및 지속 가능성 및 책임있는 AI와 같은 영역에서 컴퓨터 과학의 근본적인 발전에 중점을 둔 기술 독립적인 부서로 남는다.
 * (4/20) NIA, '데이터통합혁신센터' 개소 - [AIT](https://www.aitimes.kr/news/articleView.html?idxno=27837)
