@@ -1,5 +1,5 @@
 ### Feb. 2024
-* (2/1) 'AI SEOUL 2024' 콘퍼런스 개최, @서울 AI허브 - [IT조선](https://it.chosun.com/news/articleView.html?idxno=2023092109548), [전자신](https://www.etnews.com/20240123000154), [포스터](https://img.etnews.com/news/article/2024/01/23/news-p.v1.20240123.1a8cb310a0e7464884d27d89eedc0571_P1.jpg)
+* (2/1) 'AI SEOUL 2024' 콘퍼런스 개최, @서울 AI허브 - [IT조선](https://it.chosun.com/news/articleView.html?idxno=2023092109548), [전자신문](https://www.etnews.com/20240123000154), [포스터](https://img.etnews.com/news/article/2024/01/23/news-p.v1.20240123.1a8cb310a0e7464884d27d89eedc0571_P1.jpg), [AI타임](https://www.aitimes.com/news/articleView.html?idxno=156893)
 
 ### Jan. 2024
 * (1/26) ETRI - 문장입력 이미지생성 AI모델(코알라(KOALA)) 3종, 대화형 시각언어모델(코라바(Ko-LLaVA)) 2종 오픈소스로 공개 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=30153)
