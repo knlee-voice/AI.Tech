@@ -1,4 +1,6 @@
 ### Feb. 2024
+* (2/16) 오픈AI, 문자기반 영상생성 모델(text-to-video model) 소라(SORA) 소개 - [https://openai.com/sora], [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=157244), [공식 시연 및 소개영상](https://youtu.be/HK6y8DAPN_0)
+  - '여러 캐릭터와 특정 유형의 동작, 복잡한 장면 등 최대 1분 길이 영상을 빠르게 제작', '제한된 수의 창작자'만 사용할 수 있도록 허용
 * (2/11) 구글 AI 챗봇 바드, '제미나이' 브랜드명으로 통일, 울트라 모델 기반 AI 챗봇 '제미나이 어드밴스드(Gemini Advanced)' 출시 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=30295), [Gemini Advanced](https://gemini.google.com/advanced?utm_source=gemini), [제미나이 기술 보고서](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)
 * (2/1) 'AI SEOUL 2024' 콘퍼런스 개최, @서울 AI허브 - [IT조선](https://it.chosun.com/news/articleView.html?idxno=2023092109548), [전자신문](https://www.etnews.com/20240123000154), [포스터](https://img.etnews.com/news/article/2024/01/23/news-p.v1.20240123.1a8cb310a0e7464884d27d89eedc0571_P1.jpg), [AI타임](https://www.aitimes.com/news/articleView.html?idxno=156893)
 
