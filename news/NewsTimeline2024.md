@@ -1,3 +1,13 @@
+### Sept. 2024
+* (9/14-18) https://interspeech2014.org/ @Singapore EXPO
+
+### Apr. 2024
+* (4/14-19) [2024 IEEE International Conference on Acoustics, Speech and Signal Processing](https://2024.ieeeicassp.org/) @COEX 
+  
+### Mar. 2024
+* (3/17-21) The #1 AI Conference for Developers | [GTC 2024](https://www.nvidia.com/gtc/)
+* (3/17) 오픈AI ‘K-Statup & Open AI Matching Day in US' 행사, 국내 AI 스타트업 10개사 선정 ... (에이슬립, 클라이원트, 디케이메디인포, 마리나체인, 넥스트페이먼츠, 나인와트, ㈜런코리안인코리안, 튜링, 와들, 위레이저 등) - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=30636)
+
 ### Feb. 2024
 * (2/16) 오픈AI, 문자기반 영상생성 모델(text-to-video model) 소라(SORA) 소개 - [https://openai.com/sora], [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=157244), [공식 시연 및 소개영상](https://youtu.be/HK6y8DAPN_0)
   - '여러 캐릭터와 특정 유형의 동작, 복잡한 장면 등 최대 1분 길이 영상을 빠르게 제작', '제한된 수의 창작자'만 사용할 수 있도록 허용
