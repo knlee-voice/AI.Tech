@@ -1,6 +1,12 @@
+### Nov. 2024 
+* (11/12-16) https://2024.emnlp.org/ @Florida  
+
 ### Sept. 2024
 * (9/14-18) https://interspeech2014.org/ @Singapore EXPO
 
+### Aug. 2024
+* (8/11-16) https://2024.aclweb.org/ @Bangkok
+  
 ### Apr. 2024
 * (4/14-19) [2024 IEEE International Conference on Acoustics, Speech and Signal Processing](https://2024.ieeeicassp.org/) @COEX 
   
