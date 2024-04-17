@@ -8,11 +8,15 @@
 * (8/11-16) https://2024.aclweb.org/ @Bangkok
   
 ### Apr. 2024
+* (4/15) 2024 AI Index Report - Stanford University
+  - https://aiindex.stanford.edu/report / https://hai.stanford.edu/news/ai-index-state-ai-13-charts
+  - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=30914) 소개글, AI 규제 강화와 생성 AI 학습 비용에 GPT-4는 1083억 원, 구글 제미나이는 2643억 원 소요
 * (4/14-19) [2024 IEEE International Conference on Acoustics, Speech and Signal Processing](https://2024.ieeeicassp.org/) @COEX 
   
 ### Mar. 2024
 * (3/17-21) The #1 AI Conference for Developers | [GTC 2024](https://www.nvidia.com/gtc/)
 * (3/17) 오픈AI ‘K-Statup & Open AI Matching Day in US' 행사, 국내 AI 스타트업 10개사 선정 ... (에이슬립, 클라이원트, 디케이메디인포, 마리나체인, 넥스트페이먼츠, 나인와트, ㈜런코리안인코리안, 튜링, 와들, 위레이저 등) - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=30636)
+* (3/6) 스토리 입력하면 웹툰 만들어주는 생성 AI - https://www.loremachine.ai/ (로어머신) - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=157726)
 
 ### Feb. 2024
 * (2/16) 오픈AI, 문자기반 영상생성 모델(text-to-video model) 소라(SORA) 소개 - [https://openai.com/sora], [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=157244), [공식 시연 및 소개영상](https://youtu.be/HK6y8DAPN_0)
