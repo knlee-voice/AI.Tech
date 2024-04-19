@@ -8,10 +8,16 @@
 * (8/11-16) https://2024.aclweb.org/ @Bangkok
   
 ### Apr. 2024
+* (4/18) - Introducing Meta Llama 3: The most capable openly available LLM to date (https://ai.meta.com/blog/meta-llama-3/)
+  - https://huggingface.co/chat/ 에서 사용 가능 (new 8B and 70B parameter Llama 3 models)
 * (4/15) 2024 AI Index Report - Stanford University
   - https://aiindex.stanford.edu/report / https://hai.stanford.edu/news/ai-index-state-ai-13-charts
   - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=30914) 소개글, AI 규제 강화와 생성 AI 학습 비용에 GPT-4는 1083억 원, 구글 제미나이는 2643억 원 소요
 * (4/14-19) [2024 IEEE International Conference on Acoustics, Speech and Signal Processing](https://2024.ieeeicassp.org/) @COEX 
+* (4/16) "챗GPT로 게임 '레드 데드 리뎀션 2' 클리어 성공, AI 에이전트' 가능성 확인" - [arXiv:2403.03186](https://arxiv.org/pdf/2403.03186.pdf):''GCC(일반 컴퓨터 컨트롤): RDR2 플레이를 위한 멀티모달 에이전트 연구', [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=158836)
+* (4/13) 노코드 AI '게임 생성 엔진' - 게임스비트, 생성 AI 지원 노코드 게임 제작 솔루션 '빌드박스 4'(Buildbox) 출시 보도, (파워 유저나 개발자 등 200명이 넘는 테스터를 통해 피드백을 거침) - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=158778), [arXiv:2403.03186](https://arxiv.org/pdf/2403.03186.pdf)
+  - Features - 1) Assets&Animations 2) AI Scene Generation 3) Quick Edit&Gesture drawing tools 4) Creativity without coding 
+
   
 ### Mar. 2024
 * (3/17-21) The #1 AI Conference for Developers | [GTC 2024](https://www.nvidia.com/gtc/)
