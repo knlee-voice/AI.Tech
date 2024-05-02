@@ -11,7 +11,7 @@
 * (5/1~3) AI EXPO KOREA 2024 (2024 국제인공지능대전) - http://www.aiexpo.co.kr 
 
 ### Apr. 2024
-* (4/30) https://www.microsoft.com/en-us/msaITour/seoultour, aT센터 (서울 양재)
+* (4/30) https://www.microsoft.com/en-us/msaITour/seoultour, aT센터 (서울 양재) / [TimeTable.pdf](https://www.microsoft.com/en-us/MSAITour/Assets/Microsoft_AI_Tour_Seoul_Timetable_KOREAN.pdf)
 * (4/24) MS 소형언어모델 '파이 3 미니'(38억개 매개변수) 출시, 70억개 파이-3-소형(Phi-3-small) 및 140억개의 파이-3-중형(Phi-3-medium) 모델도 공개될 예정- [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=30993)
 * (4/18) - Introducing Meta Llama 3: The most capable openly available LLM to date (https://ai.meta.com/blog/meta-llama-3/)
   - https://huggingface.co/chat/ 에서 사용 가능 (new 8B and 70B parameter Llama 3 models)
