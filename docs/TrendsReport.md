@@ -1,3 +1,16 @@
+### 2024
+* (5/16) [SPRi AI브리프] - [2024년 5월호](https://www.spri.kr/posts/view/23741?code=AI-Brief)
+* SPRi 소프트웨어정책연구소
+  - (4/29) [RE-125] 생성형 AI에 대응한 SW인재양성 정책 방향 연구 - https://www.spri.kr/posts/view/23731
+  - (4/29) [RE-177] 2023년 국내외 인공지능 산업 동향 연구 - https://www.spri.kr/posts/view/23728
+  - (4/29) [RE-169] 국내 AI 창업기업 비즈니스 현황 분석 - https://www.spri.kr/posts/view/23722
+  - (4/29) [RE-165] 산업 수요 중심의 국가 AI R&D 전략성 강화를 통한 AI 확산 방안 연구 - https://www.spri.kr/posts/view/23719
+* (4/9) [SPRi AI브리프] [2024년 4월호](https://www.spri.kr/posts/view/23701?code=AI-Brief)
+* (3/12) [SPRi AI브리프] [2024년 3월호](https://www.spri.kr/posts/view/23688?code=AI-Brief)
+* (2/28) [SPRi 산업/정책 동향] 우리나라 및 주요국 인공지능(AI) 기술수준의 최근 변화 추이(2023년 조사 기준) - https://www.spri.kr/posts/view/23683?code=industry_trend
+* (2/6) [SPRi AI브리프] [2024년 2월호](https://www.spri.kr/posts/view/23678?code=AI-Brief)
+* (2/6) [SPRi AI브리프] [2024년 1월호](https://www.spri.kr/posts/view/23677?code=AI-Brief)
+  
 ### 2023
 * (Aug.) 𝗧𝗵𝗲 𝟮𝟬𝟮𝟯 𝗚𝗹𝗼𝗯𝗮𝗹 𝗧𝗿𝗲𝗻𝗱𝘀 𝗶𝗻 𝗔𝗜 𝗥𝗲𝗽𝗼𝗿𝘁 (𝖲&𝖯 𝖦𝗅𝗈𝖻𝖺𝗅) - https://www.weka.io/resources/analyst-report/2023-global-trends-in-ai/
 * (8/11) 인공지능 활용서: 6대 산업별 활용사례 (Deloitte Insights) - [articles](https://www2.deloitte.com/kr/ko/pages/technology-media-and-telecommunications/articles/2023/20230810.html) | [pdf](https://www2.deloitte.com/content/dam/Deloitte/kr/Documents/technology-media-telecommunications/2023/how-to-use-AI-in-6industries.pdf)
