@@ -7,7 +7,10 @@
 ### Aug. 2024
 * (8/11-16) https://2024.aclweb.org/ @Bangkok
 
-### May. 2024
+### June 2024
+* (6/11) 세계개발자대회(WWDC 2024) 새로운 인공지능(AI) 플랫폼 '애플 인텔리전스(Apple Intelligence)'를 발표
+
+### May 2024
 * (5/1~3) AI EXPO KOREA 2024 (2024 국제인공지능대전) - http://www.aiexpo.co.kr 
 
 ### Apr. 2024
