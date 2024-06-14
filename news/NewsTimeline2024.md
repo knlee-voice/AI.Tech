@@ -9,10 +9,14 @@
 
 ### June 2024
 * (6/11) 세계개발자대회(WWDC 2024) 새로운 인공지능(AI) 플랫폼 '애플 인텔리전스(Apple Intelligence)'를 발표
-
+* (6/10) 오픈AI "GPT-4 내부 작동 방식 파악...해석 가능한 패턴 1600만개 추출" - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=160442), Paper: [Scaling and evaluating sparse autoencoders](https://cdn.openai.com/papers/sparse-autoencoders.pdf)
+  
 ### May 2024
-* (5/1~3) AI EXPO KOREA 2024 (2024 국제인공지능대전) - http://www.aiexpo.co.kr 
-
+* (5/1~3) AI EXPO KOREA 2024 (2024 국제인공지능대전) - http://www.aiexpo.co.kr
+* (5/15) 구글 I/O "AI 검색 전격 도입"...AI 에이전트·비디오 모델도 공개 - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=159673)
+ - ▲'AI 개요(AI Overview)' 생성 AI 검색 ▲'프로젝트 아스트라(Project Astra)' AI 비서 ▲'제미나이 1.5 플래시(Flash)' 등 제미나이 새 모델과 기능 개선 ▲동영상 생성 AI '비오(Veo)' ▲ 6세대 TPU
+* (5/14) 오픈AI 'GPT-4o' 공개 - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=159920)
+  
 ### Apr. 2024
 * (4/30) https://www.microsoft.com/en-us/msaITour/seoultour, aT센터 (서울 양재) / [TimeTable.pdf](https://www.microsoft.com/en-us/MSAITour/Assets/Microsoft_AI_Tour_Seoul_Timetable_KOREAN.pdf)
 * (4/24) MS 소형언어모델 '파이 3 미니'(38억개 매개변수) 출시, 70억개 파이-3-소형(Phi-3-small) 및 140억개의 파이-3-중형(Phi-3-medium) 모델도 공개될 예정- [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=30993)
