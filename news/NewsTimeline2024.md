@@ -1,3 +1,6 @@
+### Dev. 2024 
+* (12/2~6) AWS re:Invent - https://reinvent.awsevents.com/
+  
 ### Nov. 2024 
 * (11/12-16) https://2024.emnlp.org/ @Florida  
 
@@ -37,6 +40,7 @@
 * (3/6) 스토리 입력하면 웹툰 만들어주는 생성 AI - https://www.loremachine.ai/ (로어머신) - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=157726)
 
 ### Feb. 2024
+* (2/19) 메타, 비디오 누락·가려진 부분 예측하는 AI 모델 'V-제파'(Video Joint Embedding Predictive Architecture) 공개 - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=157290)
 * (2/16) 오픈AI, 문자기반 영상생성 모델(text-to-video model) 소라(SORA) 소개 - [https://openai.com/sora], [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=157244), [공식 시연 및 소개영상](https://youtu.be/HK6y8DAPN_0)
   - '여러 캐릭터와 특정 유형의 동작, 복잡한 장면 등 최대 1분 길이 영상을 빠르게 제작', '제한된 수의 창작자'만 사용할 수 있도록 허용
 * (2/11) 구글 AI 챗봇 바드, '제미나이' 브랜드명으로 통일, 울트라 모델 기반 AI 챗봇 '제미나이 어드밴스드(Gemini Advanced)' 출시 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=30295), [Gemini Advanced](https://gemini.google.com/advanced?utm_source=gemini), [제미나이 기술 보고서](https://storage.googleapis.com/deepmind-media/gemini/gemini_1_report.pdf)
