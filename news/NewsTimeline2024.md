@@ -2,10 +2,11 @@
 * (12/2~6) AWS re:Invent - https://reinvent.awsevents.com/
   
 ### Nov. 2024 
-* (11/12-16) https://2024.emnlp.org/ @Florida  
+* (11/12-16) https://2024.emnlp.org/ @Florida
+* (11/14-17) https://www.gstar.or.kr/
 
 ### Sept. 2024
-* (9/14-18) https://interspeech2014.org/ @Singapore EXPO
+* (9/1-5) https://interspeech2014.org @Kos Island, Greece
 
 ### Aug. 2024
 * (8/11-16) https://2024.aclweb.org/ @Bangkok
