@@ -11,6 +11,11 @@
 ### Aug. 2024
 * (8/11-16) https://2024.aclweb.org/ @Bangkok
 
+### July 2024 
+* (7/3) 프랑스 큐타이(Kyutai), 'GPT-4o' 흡사한 AI 음성 비서 공개 - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=161307), [소개글](https://slashpage.com/learntoday/d367nxm34wkzv2j98pv1), [Youtube-org](https://www.youtube.com/live/hm2IJSKcYvo?si=UjGW3A74v-g4RnRa), [Youtube:감정AI대화소개](https://www.youtube.com/watch?v=CoycMbG4lMk&t=2s)
+* (7/2) 애플(Apple)의 멀티모달 파운데이션 모델 훈련 위한 프레임워크 '4M(Massively Multimodal Masked Modeling) AI 모델' 오픈소스 첫공개 - [Papers](https://arxiv.org/pdf/2406.09406), [HF-공개모델](https://huggingface.co/EPFL-VILAB/4M-21_XL), [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=31555)
+
+
 ### June 2024
 * (6/11) 세계개발자대회(WWDC 2024) 새로운 인공지능(AI) 플랫폼 '애플 인텔리전스(Apple Intelligence)'를 발표
 * (6/10) 오픈AI "GPT-4 내부 작동 방식 파악...해석 가능한 패턴 1600만개 추출" - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=160442), Paper: [Scaling and evaluating sparse autoencoders](https://cdn.openai.com/papers/sparse-autoencoders.pdf)
