@@ -19,6 +19,7 @@
 
 
 ### June 2024
+* (6/16-21) NAACL-HLT 2024 - https://2024.naacl.org/
 * (6/11) 세계개발자대회(WWDC 2024) 새로운 인공지능(AI) 플랫폼 '애플 인텔리전스(Apple Intelligence)'를 발표
 * (6/10) 오픈AI "GPT-4 내부 작동 방식 파악...해석 가능한 패턴 1600만개 추출" - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=160442), Paper: [Scaling and evaluating sparse autoencoders](https://cdn.openai.com/papers/sparse-autoencoders.pdf)
   
@@ -48,6 +49,7 @@
 * (3/6) 스토리 입력하면 웹툰 만들어주는 생성 AI - https://www.loremachine.ai/ (로어머신) - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=157726)
 
 ### Feb. 2024
+* (2/20-27) AAAI-24 @VANCOUVER, CANADA 
 * (2/19) 메타, 비디오 누락·가려진 부분 예측하는 AI 모델 'V-제파'(Video Joint Embedding Predictive Architecture) 공개 - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=157290)
 * (2/16) 오픈AI, 문자기반 영상생성 모델(text-to-video model) 소라(SORA) 소개 - [https://openai.com/sora], [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=157244), [공식 시연 및 소개영상](https://youtu.be/HK6y8DAPN_0)
   - '여러 캐릭터와 특정 유형의 동작, 복잡한 장면 등 최대 1분 길이 영상을 빠르게 제작', '제한된 수의 창작자'만 사용할 수 있도록 허용
