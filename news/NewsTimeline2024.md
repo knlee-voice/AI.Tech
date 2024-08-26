@@ -10,6 +10,8 @@
 * (9/1-5) https://interspeech2014.org @Kos Island, Greece
 
 ### Aug. 2024
+* (8/21~8/24) 게임스컴 2024 @독일 쾰른 - https://www.gamescom.global/en  
+  - 엔비디아, 내년 출시할 온라인 게임에 '온디바이스 AI' NPC 첫 적용 - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=162675)
 * (8/11-16) https://2024.aclweb.org/ @Bangkok
 
 ### July 2024 
