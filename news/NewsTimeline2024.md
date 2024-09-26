@@ -3,10 +3,15 @@
   
 ### Nov. 2024 
 * (11/12-16) https://2024.emnlp.org/ @Florida
-* (11/14-17) https://www.gstar.or.kr/ 
+* (11/14-17) G-STAR 2024 (Game Show & Trade, All-Round) https://www.gstar.or.kr 
+
+### Oct. 2024
+*
 
 ### Sept. 2024
+* (9/25) 오픈AI 50개 언어 사용 개선한 '보이스 모드 어드밴스드' 출시 - [지디넷](https://n.news.naver.com/article/092/0002346545?sid=105), https://ttsopenai.com/
 * (9/29-10/4) ECCV 2024 - https://eccv.ecva.net/ @MiCo Milano
+* (9/18) 대형언어모델 및 AI 평가의 새로운 기준 제시, MS 오픈소스 '유레카' AI 발전 가속화 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=32234), [Eureka Framework](https://github.com/microsoft/eureka-ml-insights)
 * (9/1-5) https://interspeech2014.org @Kos Island, Greece
 
 ### Aug. 2024
