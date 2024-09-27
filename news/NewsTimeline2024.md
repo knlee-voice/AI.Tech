@@ -9,9 +9,11 @@
 *
 
 ### Sept. 2024
+* (9/26-29) 2024 월드 웹툰 페스티벌 _성수동 에스팩토리 - [뉴스](https://www.ebn.co.kr/news/view/1638259)
 * (9/25) 오픈AI 50개 언어 사용 개선한 '보이스 모드 어드밴스드' 출시 - [지디넷](https://n.news.naver.com/article/092/0002346545?sid=105), https://ttsopenai.com/
 * (9/29-10/4) ECCV 2024 - https://eccv.ecva.net/ @MiCo Milano
 * (9/18) 대형언어모델 및 AI 평가의 새로운 기준 제시, MS 오픈소스 '유레카' AI 발전 가속화 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=32234), [Eureka Framework](https://github.com/microsoft/eureka-ml-insights)
+* (9/15) AutoDraft AI(웹툰·만화·2D 애니메이션 제작) 한국어 서비스 출시 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=32228)
 * (9/1-5) https://interspeech2014.org @Kos Island, Greece
 
 ### Aug. 2024
