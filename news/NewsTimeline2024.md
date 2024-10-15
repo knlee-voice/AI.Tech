@@ -6,12 +6,15 @@
 * (11/14-17) G-STAR 2024 (Game Show & Trade, All-Round) https://www.gstar.or.kr 
 
 ### Oct. 2024
-*
+* (10/15) 오픈AI, 'AI 멀티 에이전트'-'스웜(Swarm)' 실험적 프레임워크 공개 - https://github.com/openai/swarm,  [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=32434)
+* (10/11~12) 2024년도 한글 및 한국어 정보처리 & 한국코퍼스언어학회 공동 학술대회 - [HCLT-KACL 2024](https://sites.google.com/view/hclt2024/), [HCLT 2024 프로시딩 다운로드](https://drive.google.com/file/d/1hrJjJK4cIrJ3v0XHH-7Jt2Kt65kEyOD1/view?usp=sharing)
 
+ 
 ### Sept. 2024
+* (9/29-10/4) ECCV 2024 - https://eccv.ecva.net/ @MiCo Milano
 * (9/26-29) 2024 월드 웹툰 페스티벌 _성수동 에스팩토리 - [뉴스](https://www.ebn.co.kr/news/view/1638259)
 * (9/25) 오픈AI 50개 언어 사용 개선한 '보이스 모드 어드밴스드' 출시 - [지디넷](https://n.news.naver.com/article/092/0002346545?sid=105), https://ttsopenai.com/
-* (9/29-10/4) ECCV 2024 - https://eccv.ecva.net/ @MiCo Milano
+* (9/24) 얀 르쿤 발표 영상 (메타 수석AI과학자/뉴욕대 교수) - [YouTube](https://youtu.be/kASqA5LJ93w)
 * (9/18) 대형언어모델 및 AI 평가의 새로운 기준 제시, MS 오픈소스 '유레카' AI 발전 가속화 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=32234), [Eureka Framework](https://github.com/microsoft/eureka-ml-insights)
 * (9/15) AutoDraft AI(웹툰·만화·2D 애니메이션 제작) 한국어 서비스 출시 - [AI타임즈](https://www.aitimes.kr/news/articleView.html?idxno=32228)
 * (9/1-5) https://interspeech2014.org @Kos Island, Greece
