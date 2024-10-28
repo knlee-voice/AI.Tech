@@ -1,4 +1,11 @@
 ### 2024
+* (10/10) NIA 직장인이 꼭 알아야 할 생성형 AI윤리 - [직장인이_꼭_알아야_할_생성형_AI윤리.pdf](https://www.nia.or.kr/common/board/Download.do?bcIdx=27288&cbIdx=39485&fileNo=1)
+* (10/7) [SPRi AI브리프] - [2024년 10월호](https://spri.kr/posts/view/23776?](https://spri.kr/posts/view/23776?code=AI-Brief)
+* (10/2) [AI@Data Report 2024-4호] 대형 멀티모달 모델(LMM) 동향 조사 - [NIA 연구보고서](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=39485&bcIdx=27270), [배포용 다운로드](https://www.nia.or.kr/common/board/Download.do?bcIdx=27270&cbIdx=39485&fileNo=2)
+* (9/3) [AI@Data Report 2024-3호] 버티컬 AI로의 변화 및 과제 - [NIA 연구보고서](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=39485&bcIdx=27241), [배포용 다운로드](https://www.nia.or.kr/common/board/Download.do?bcIdx=27241&cbIdx=39485&fileNo=3)
+  -  버티컬 AI 분석 비교, AI 기술의 트렌드 변화 / 미디어 산업 AI 접목 워크플로우 예시
+* (8/2) [AI@Data Report 2024-1호] 국가 데이터 인프라 개념 및 추진 전략 - [NIA 연구보고서](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=39485&bcIdx=27080&parentSeq=27080)
+* (8/30) [AI@Data Report 2024-2호] AI허브-해외플랫폼 현황 비교 분석 - [NIA 연구보고서](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=39485&bcIdx=27184)
 * (5/16) [SPRi AI브리프] - [2024년 5월호](https://www.spri.kr/posts/view/23741?code=AI-Brief)
 * SPRi 소프트웨어정책연구소
   - (4/29) [RE-125] 생성형 AI에 대응한 SW인재양성 정책 방향 연구 - https://www.spri.kr/posts/view/23731
