@@ -1,4 +1,5 @@
 ### 2024
+* Oct. 삼일 PwC Industry Focus - [생성형 AI: 21세기의 혁신적 전략(Generative AI: The 21st-century power play)](https://www.pwc.com/kr/ko/insights/industry-focus/generative-ai-opportunities-for-reinvention.html)
 * (10/10) NIA 직장인이 꼭 알아야 할 생성형 AI윤리 - [직장인이_꼭_알아야_할_생성형_AI윤리.pdf](https://www.nia.or.kr/common/board/Download.do?bcIdx=27288&cbIdx=39485&fileNo=1)
 * (10/7) [SPRi AI브리프] - [2024년 10월호](https://spri.kr/posts/view/23776?](https://spri.kr/posts/view/23776?code=AI-Brief)
 * (10/2) [AI@Data Report 2024-4호] 대형 멀티모달 모델(LMM) 동향 조사 - [NIA 연구보고서](https://www.nia.or.kr/site/nia_kor/ex/bbs/View.do?cbIdx=39485&bcIdx=27270), [배포용 다운로드](https://www.nia.or.kr/common/board/Download.do?bcIdx=27270&cbIdx=39485&fileNo=2)
