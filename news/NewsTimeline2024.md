@@ -1,5 +1,6 @@
 ### Dev. 2024 
-* (12/2~6) AWS re:Invent - https://reinvent.awsevents.com/
+* (12/10-15) NeurIPS 2024 - https://neurips.cc/ @Vancouver
+* (12/2~6) [AWS re:Invent](https://reinvent.awsevents.com/) - [AWS re:Invent 2024 주요 출시 소식 요약 전체 보기](https://aws.amazon.com/ko/blogs/korea/top-announcements-of-aws-reinvent-2024/)
   
 ### Nov. 2024 
 * (11/12-16) https://2024.emnlp.org/ @Florida
