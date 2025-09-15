@@ -14,7 +14,8 @@
 * (5/14-15) AWS Summit Seoul 2025 - https://aws.amazon.com/ko/events/summits/seoul/ 
 * (3/17-3/21) GTC 2025 - https://www.nvidia.com/ko-kr/gtc/, [세션 카탈로그](https://www.nvidia.com/ko-kr/gtc/session-catalog/)
 
-
+### Sep. 2025 
+* (9/10) 화웨이, AI 에이전트 '실시간 학습' 기법(메멘토(Memento)) - [arXiv](https://arxiv.org/abs/2508.16153), [git/GibsonAI/memori](https://github.com/GibsonAI/memori), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202259)
 
 ### Apr. 2025 
 * (4/15) 오픈AI, 코딩 강화한 개발자용 'GPT-4.1' API 출시 - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=169619)
