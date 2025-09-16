@@ -15,6 +15,7 @@
 * (3/17-3/21) GTC 2025 - https://www.nvidia.com/ko-kr/gtc/, [세션 카탈로그](https://www.nvidia.com/ko-kr/gtc/session-catalog/)
 
 ### Sep. 2025 
+* (9/13) 알리바바, Qwen3-Next-80B-A3B 오픈소스 출시(Instruct, Thinking - 2가지 버전), "속도 10배·비용 1/10" (하이브리드 설계)- [huggingface](https://huggingface.co/collections/Qwen/qwen3-next-68c25fd6838e585db8eeea9d), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202391)
 * (9/10) 화웨이, AI 에이전트 '실시간 학습' 기법(메멘토(Memento)) - [arXiv](https://arxiv.org/abs/2508.16153), [git/GibsonAI/memori](https://github.com/GibsonAI/memori), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202259)
 
 ### Apr. 2025 
