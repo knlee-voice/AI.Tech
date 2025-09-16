@@ -18,6 +18,9 @@
 * (9/13) 알리바바, Qwen3-Next-80B-A3B 오픈소스 출시(Instruct, Thinking - 2가지 버전), "속도 10배·비용 1/10" (하이브리드 설계)- [huggingface](https://huggingface.co/collections/Qwen/qwen3-next-68c25fd6838e585db8eeea9d), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202391)
 * (9/10) 화웨이, AI 에이전트 '실시간 학습' 기법(메멘토(Memento)) - [arXiv](https://arxiv.org/abs/2508.16153), [git/GibsonAI/memori](https://github.com/GibsonAI/memori), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202259)
 
+### Jun. 2025 
+* (6/29) MIT, 스스로 학습하고 진화하는 언어 모델 프레임워크 ‘SEAL(Self-Adapting Language Models)’ 공개 - [arxiv](https://arxiv.org/pdf/2506.10943), [github](https://github.com/Continual-Intelligence)[AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=200039)
+* 
 ### Apr. 2025 
 * (4/15) 오픈AI, 코딩 강화한 개발자용 'GPT-4.1' API 출시 - [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=169619)
   - 추론 기능은 없음 / 100만 토큰의 컨텍스트 창을 지원, 약 75만 단어를 한번에 처리 / '제미나이 2.5 프로'와 '클로드 3.7 소네트'를 출시하며 코딩 능력을 부각
