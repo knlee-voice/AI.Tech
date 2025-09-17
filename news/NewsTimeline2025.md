@@ -17,6 +17,7 @@
 ### Sep. 2025 
 * (9/16) 구글 AI 학습 데이터 '정제법' 발표 - [arXiv](https://arxiv.org/pdf/2509.08653), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202466)
 * (9/13) 알리바바, Qwen3-Next-80B-A3B 오픈소스 출시(Instruct, Thinking - 2가지 버전), "속도 10배·비용 1/10" (하이브리드 설계)- [HF](https://huggingface.co/collections/Qwen/qwen3-next-68c25fd6838e585db8eeea9d), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202391)
+* (9/12) 텐센트, 'Parallel-R1': 강화 학습을 통한 병렬 사고 구현 - [arXiv](https://arxiv.org/pdf/2509.07980)
 * (9/10) 화웨이, AI 에이전트 '실시간 학습' 기법(메멘토(Memento)) - [arXiv](https://arxiv.org/abs/2508.16153), [git/GibsonAI/memori](https://github.com/GibsonAI/memori), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202259)
 
 ### Jun. 2025 
