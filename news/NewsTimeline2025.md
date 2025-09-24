@@ -15,6 +15,13 @@
 * (3/17-3/21) GTC 2025 - https://www.nvidia.com/ko-kr/gtc/, [세션 카탈로그](https://www.nvidia.com/ko-kr/gtc/session-catalog/)
 
 ### Sep. 2025 
+* (9/23) 알리바바, 멀티모달 '큐원3-옴니(Qwen3-Omni) 30B' 오픈 소스 출시 - [HF](https://huggingface.co/collections/Qwen/qwen3-omni-68d100a86cd0906843ceccbe), [Qwen3-Omni Demo](https://modelscope.cn/studios/Qwen/Qwen3-Omni-Demo), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202652)
+  - ▲ 멀티모달 입출력을 모두 지원하는 인스트럭트(Instruct) 모델 'Qwen3-Omni-30B-A3B-Instruct'
+  - ▲ 추론과 장기적 사고에 특화된 싱킹(Thinking) 모델 'Qwen3-Omni-30B-A3B-Thinking'
+  - ▲ 오디오 캡셔닝에 최적화된 캡셔너(Captioner) 모델 'Qwen3-Omni-30B-A3B-Captioner'
+  - 지원 언어는 텍스트 119개, 음성 입력 19개, 음성 출력 10개로 한국어를 포함한 주요 언어와 광둥어 같은 방언까지 포함
+  - 훈련 과정에서는 약 2조 토큰 규모의 데이터와 2000만 시간 분량의 오디오를 활용
+* (9/23) MIT, LLM '계획 능력' 강화하는 명령어 프레임워크 ‘PDDL-인스트럭트(Planning Domain Definition Language-Instruct)’ - [arXiv](https://arxiv.org/pdf/2509.13351), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202670)
 * (9/16) 구글 AI 학습 데이터 '정제법' 발표 - [arXiv](https://arxiv.org/pdf/2509.08653), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202466)
 * (9/13) 알리바바, Qwen3-Next-80B-A3B 오픈소스 출시(Instruct, Thinking - 2가지 버전), "속도 10배·비용 1/10" (하이브리드 설계)- [HF](https://huggingface.co/collections/Qwen/qwen3-next-68c25fd6838e585db8eeea9d), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202391)
 * (9/12) 텐센트, 'Parallel-R1': 강화 학습을 통한 병렬 사고 구현 - [arXiv](https://arxiv.org/pdf/2509.07980)
