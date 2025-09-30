@@ -15,6 +15,7 @@
 * (3/17-3/21) GTC 2025 - https://www.nvidia.com/ko-kr/gtc/, [세션 카탈로그](https://www.nvidia.com/ko-kr/gtc/session-catalog/)
 
 ### Sep. 2025 
+* (9/26) 구글, 제미나이 2.5 플래시(gemini-flash-latest’)'와 '제미나이 2.5 플래시 라이트(gemini-flash-lite-latest) 프리뷰' 버전을 공개
 * (9/23) 알리바바, 멀티모달 '큐원3-옴니(Qwen3-Omni) 30B' 오픈 소스 출시 - [HF](https://huggingface.co/collections/Qwen/qwen3-omni-68d100a86cd0906843ceccbe), [Qwen3-Omni Demo](https://modelscope.cn/studios/Qwen/Qwen3-Omni-Demo), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202652)
   - ▲ 멀티모달 입출력을 모두 지원하는 인스트럭트(Instruct) 모델 'Qwen3-Omni-30B-A3B-Instruct'
   - ▲ 추론과 장기적 사고에 특화된 싱킹(Thinking) 모델 'Qwen3-Omni-30B-A3B-Thinking'
@@ -26,6 +27,10 @@
 * (9/13) 알리바바, Qwen3-Next-80B-A3B 오픈소스 출시(Instruct, Thinking - 2가지 버전), "속도 10배·비용 1/10" (하이브리드 설계)- [HF](https://huggingface.co/collections/Qwen/qwen3-next-68c25fd6838e585db8eeea9d), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202391)
 * (9/12) 텐센트, 'Parallel-R1': 강화 학습을 통한 병렬 사고 구현 - [arXiv](https://arxiv.org/pdf/2509.07980)
 * (9/10) 화웨이, AI 에이전트 '실시간 학습' 기법(메멘토(Memento)) - [arXiv](https://arxiv.org/abs/2508.16153), [git/GibsonAI/memori](https://github.com/GibsonAI/memori), [AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=202259)
+
+### July 2025 
+* (7/15) AI 챗봇 앱 사용자 '탑3'는 챗GPT·제타·뤼튼 (한국인 스마트폰 사용자 표본 조사) - [뉴스1](https://news.nate.com/view/20250715n15599), [뉴스2](https://www.sedaily.com/NewsView/2GVDEHXWD2), [뉴스3](https://www.mk.co.kr/news/it/11368367)
+  - MAU 1천844만명, 제타(304만명), 뤼튼(245만명), 퍼플렉시티(171만명), 에이닷(138만명) 등
 
 ### Jun. 2025 
 * (6/29) MIT, 스스로 학습하고 진화하는 언어 모델 프레임워크 ‘SEAL(Self-Adapting Language Models)’ 공개 - [arXiv](https://arxiv.org/pdf/2506.10943), [github](https://github.com/Continual-Intelligence)[AI타임즈](https://www.aitimes.com/news/articleView.html?idxno=200039)
